@@ -1,0 +1,188 @@
+  0%|          | 0/1014 [00:00<?, ?it/s]
+  0%|          | 0/11 [00:00<?, ?it/s][A
+  9%|▉         | 1/11 [00:03<00:33,  3.31s/it][A
+ 18%|█▊        | 2/11 [00:06<00:26,  3.00s/it][A
+ 27%|██▋       | 3/11 [00:07<00:18,  2.29s/it][A
+ 36%|███▋      | 4/11 [00:08<00:12,  1.84s/it][A
+ 45%|████▌     | 5/11 [00:10<00:10,  1.81s/it][A
+ 55%|█████▍    | 6/11 [00:11<00:07,  1.58s/it][A
+ 64%|██████▎   | 7/11 [00:13<00:06,  1.63s/it][A
+ 73%|███████▎  | 8/11 [00:15<00:05,  1.69s/it][A
+ 82%|████████▏ | 9/11 [00:16<00:03,  1.53s/it][A
+ 91%|█████████ | 10/11 [00:17<00:01,  1.41s/it][A
+100%|██████████| 11/11 [00:18<00:00,  1.42s/it][A100%|██████████| 11/11 [00:18<00:00,  1.72s/it]
+  0%|          | 1/1014 [02:10<36:38:41, 130.23s/it]
+  0%|          | 0/11 [00:00<?, ?it/s][A
+  9%|▉         | 1/11 [00:03<00:31,  3.11s/it][A
+ 18%|█▊        | 2/11 [00:04<00:19,  2.13s/it][A
+ 27%|██▋       | 3/11 [00:05<00:13,  1.68s/it][A
+ 36%|███▋      | 4/11 [00:07<00:11,  1.71s/it][A
+ 45%|████▌     | 5/11 [00:10<00:13,  2.17s/it][A
+ 55%|█████▍    | 6/11 [00:12<00:10,  2.17s/it][A
+ 64%|██████▎   | 7/11 [00:15<00:09,  2.46s/it][A
+ 73%|███████▎  | 8/11 [00:17<00:07,  2.35s/it][A
+ 82%|████████▏ | 9/11 [00:20<00:04,  2.33s/it][A
+ 91%|█████████ | 10/11 [00:21<00:01,  1.97s/it][A
+100%|██████████| 11/11 [00:22<00:00,  1.72s/it][A100%|██████████| 11/11 [00:22<00:00,  2.03s/it]
+  0%|          | 2/1014 [15:33<147:52:28, 526.04s/it]
+  0%|          | 0/12 [00:00<?, ?it/s][A
+  8%|▊         | 1/12 [00:01<00:16,  1.48s/it][A
+ 17%|█▋        | 2/12 [00:05<00:30,  3.09s/it][A
+ 25%|██▌       | 3/12 [00:06<00:19,  2.21s/it][A
+ 33%|███▎      | 4/12 [00:08<00:14,  1.79s/it][A
+ 42%|████▏     | 5/12 [00:09<00:12,  1.81s/it][A
+ 50%|█████     | 6/12 [00:10<00:09,  1.58s/it][A
+ 58%|█████▊    | 7/12 [00:13<00:08,  1.78s/it][A
+ 67%|██████▋   | 8/12 [00:14<00:06,  1.58s/it][A
+ 75%|███████▌  | 9/12 [00:15<00:04,  1.54s/it][A
+ 83%|████████▎ | 10/12 [00:16<00:02,  1.42s/it][A
+ 92%|█████████▏| 11/12 [00:18<00:01,  1.53s/it][A
+100%|██████████| 12/12 [00:20<00:00,  1.61s/it][A100%|██████████| 12/12 [00:20<00:00,  1.71s/it]
+  0%|          | 3/1014 [17:50<97:54:48, 348.65s/it] 
+  0%|          | 0/9 [00:00<?, ?it/s][A
+ 11%|█         | 1/9 [00:01<00:11,  1.49s/it][A
+ 22%|██▏       | 2/9 [00:02<00:09,  1.29s/it][A
+ 33%|███▎      | 3/9 [00:03<00:07,  1.24s/it][A
+ 44%|████▍     | 4/9 [00:05<00:07,  1.44s/it][A
+ 56%|█████▌    | 5/9 [00:06<00:05,  1.34s/it][A
+ 67%|██████▋   | 6/9 [00:07<00:03,  1.28s/it][A
+ 78%|███████▊  | 7/9 [00:09<00:03,  1.53s/it][A
+ 89%|████████▉ | 8/9 [00:11<00:01,  1.42s/it][A
+100%|██████████| 9/9 [00:13<00:00,  1.64s/it][A100%|██████████| 9/9 [00:13<00:00,  1.47s/it]
+  0%|          | 4/1014 [19:50<72:25:52, 258.17s/it]
+  0%|          | 0/10 [00:00<?, ?it/s][A
+ 10%|█         | 1/10 [00:02<00:24,  2.77s/it][A
+ 20%|██        | 2/10 [00:03<00:14,  1.82s/it][A
+ 30%|███       | 3/10 [00:05<00:10,  1.52s/it][A
+ 40%|████      | 4/10 [00:06<00:09,  1.61s/it][A
+ 50%|█████     | 5/10 [00:09<00:10,  2.01s/it][A
+ 60%|██████    | 6/10 [00:10<00:07,  1.82s/it][A
+ 70%|███████   | 7/10 [00:12<00:04,  1.60s/it][A
+ 80%|████████  | 8/10 [00:14<00:03,  1.95s/it][A
+ 90%|█████████ | 9/10 [00:16<00:01,  1.79s/it][A
+100%|██████████| 10/10 [00:17<00:00,  1.58s/it][A100%|██████████| 10/10 [00:17<00:00,  1.74s/it]
+  0%|          | 5/1014 [21:41<57:29:35, 205.13s/it]
+  0%|          | 0/12 [00:00<?, ?it/s][A
+  8%|▊         | 1/12 [00:01<00:15,  1.43s/it][A
+ 17%|█▋        | 2/12 [00:03<00:18,  1.81s/it][A
+ 25%|██▌       | 3/12 [00:04<00:14,  1.65s/it][A
+ 33%|███▎      | 4/12 [00:07<00:14,  1.80s/it][A
+ 42%|████▏     | 5/12 [00:08<00:12,  1.80s/it][A
+ 50%|█████     | 6/12 [00:09<00:09,  1.58s/it][A
+ 58%|█████▊    | 7/12 [00:11<00:07,  1.45s/it][A
+ 67%|██████▋   | 8/12 [00:12<00:05,  1.34s/it][A
+ 75%|███████▌  | 9/12 [00:13<00:04,  1.47s/it][A
+ 83%|████████▎ | 10/12 [00:15<00:02,  1.37s/it][A
+ 92%|█████████▏| 11/12 [00:16<00:01,  1.31s/it][A
+100%|██████████| 12/12 [00:17<00:00,  1.26s/it][A100%|██████████| 12/12 [00:17<00:00,  1.46s/it]
+  1%|          | 6/1014 [32:47<101:17:55, 361.78s/it]
+  0%|          | 0/10 [00:00<?, ?it/s][A
+ 10%|█         | 1/10 [00:03<00:30,  3.35s/it][A
+ 20%|██        | 2/10 [00:04<00:16,  2.07s/it][A
+ 30%|███       | 3/10 [00:05<00:11,  1.65s/it][A
+ 40%|████      | 4/10 [00:06<00:08,  1.46s/it][A
+ 50%|█████     | 5/10 [00:08<00:06,  1.36s/it][A
+ 60%|██████    | 6/10 [00:09<00:05,  1.29s/it][A
+ 70%|███████   | 7/10 [00:10<00:03,  1.25s/it][A
+ 80%|████████  | 8/10 [00:11<00:02,  1.21s/it][A
+ 90%|█████████ | 9/10 [00:13<00:01,  1.40s/it][A
+100%|██████████| 10/10 [00:14<00:00,  1.33s/it][A100%|██████████| 10/10 [00:14<00:00,  1.44s/it]
+  1%|          | 7/1014 [35:00<80:14:58, 286.89s/it] 
+  0%|          | 0/9 [00:00<?, ?it/s][A
+ 11%|█         | 1/9 [00:02<00:17,  2.13s/it][A
+ 22%|██▏       | 2/9 [00:04<00:13,  1.99s/it][A
+ 33%|███▎      | 3/9 [00:05<00:09,  1.60s/it][A
+ 44%|████▍     | 4/9 [00:06<00:07,  1.43s/it][A
+ 56%|█████▌    | 5/9 [00:07<00:05,  1.33s/it][A
+ 67%|██████▋   | 6/9 [00:09<00:04,  1.62s/it][A
+ 78%|███████▊  | 7/9 [00:10<00:02,  1.47s/it][A
+ 89%|████████▉ | 8/9 [00:12<00:01,  1.65s/it][A
+100%|██████████| 9/9 [00:14<00:00,  1.59s/it][A100%|██████████| 9/9 [00:14<00:00,  1.59s/it]
+  1%|          | 7/1014 [35:32<85:12:44, 304.63s/it]
+Traceback (most recent call last):
+  File "/home/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 69, in map_httpcore_exceptions
+    yield
+  File "/home/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 233, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 216, in handle_request
+    raise exc from None
+  File "/home/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 196, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/httpcore/_sync/http_proxy.py", line 317, in handle_request
+    stream = stream.start_tls(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 383, in start_tls
+    return self._stream.start_tls(ssl_context, server_hostname, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/httpcore/_backends/sync.py", line 152, in start_tls
+    with map_exceptions(exc_map):
+  File "/home/miniconda3/lib/python3.11/contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/miniconda3/lib/python3.11/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 951, in _request
+    response = self._client.send(
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 1015, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 232, in handle_request
+    with map_httpcore_exceptions():
+  File "/home/miniconda3/lib/python3.11/contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 86, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 150, in <module>
+    llm_user_content = get_llm_user_content(f"{user_content_list[2]}. as path 为 {aspath}.目前已知的clique为174 209 286 701 1239 1299 2828 2914 3257 3320 3356 3491 5511 6453 6461 6762 6830 7018和12956。")
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 68, in get_llm_user_content
+    llama3_70b_value = get_client_chat_completion_value(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 39, in get_client_chat_completion_value
+    chat_completion = client.chat.completions.create(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/resources/chat/completions.py", line 289, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 920, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 975, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1051, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 960, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1051, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 985, in _request
+    raise APIConnectionError(request=request) from err
+groq.APIConnectionError: Connection error.

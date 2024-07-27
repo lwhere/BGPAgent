@@ -1,0 +1,29 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_batch_inference.py", line 211, in <module>
+    asyncio.run(main())
+  File "/home/miniconda3/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_batch_inference.py", line 170, in main
+    inference_results = await process_as_paths(as_paths)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_batch_inference.py", line 165, in process_as_paths
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_batch_inference.py", line 109, in get_llm_user_content
+    llama3_70b_value = await get_client_chat_completion_value(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_batch_inference.py", line 36, in wrapper
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_batch_inference.py", line 56, in get_client_chat_completion_value
+    chat_completion = await client.chat.completions.create(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object ChatCompletion can't be used in 'await' expression

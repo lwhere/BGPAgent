@@ -1,0 +1,24 @@
+nohup: ignoring input
+  0%|          | 0/5000 [00:00<?, ?it/s]  4%|▍         | 199/5000 [00:07<03:10, 25.21it/s]  4%|▍         | 199/5000 [00:19<03:10, 25.21it/s]  4%|▍         | 200/5000 [00:53<29:19,  2.73it/s]  4%|▍         | 201/5000 [01:01<35:17,  2.27it/s]  4%|▍         | 201/5000 [01:20<35:17,  2.27it/s]  4%|▍         | 203/5000 [05:41<5:47:42,  4.35s/it]  4%|▍         | 204/5000 [05:48<5:51:03,  4.39s/it]  4%|▍         | 205/5000 [22:16<41:32:02, 31.18s/it]  4%|▍         | 206/5000 [22:24<40:22:14, 30.32s/it]  4%|▍         | 207/5000 [43:22<123:24:25, 92.69s/it]  4%|▍         | 208/5000 [44:40<122:02:50, 91.69s/it]  4%|▍         | 208/5000 [1:26:14<33:06:44, 24.88s/it]
+Rate limit reached. Retrying in 265.565007812 seconds.
+Rate limit reached. Retrying in 522.122726562 seconds.
+Rate limit reached. Retrying in 458.094882812 seconds.
+Rate limit reached. Retrying in 556.651148437 seconds.
+Rate limit reached. Retrying in 691.914210937 seconds.
+Rate limit reached. Retrying in 410.501125 seconds.
+Rate limit reached. Retrying in 627.207601562 seconds.
+Rate limit reached. Retrying in 458.280601562 seconds.
+Rate limit reached. Retrying in 411.267382812 seconds.
+Rate limit reached. Retrying in 577.716125 seconds.
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 432, in <module>
+    main(input_file_path, cache_path, asrank_api_result_path, model_series)
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 393, in main
+    llm_user_content = get_llm_user_content(f"{question_type_dict['combine_asrank_question']}.As path: {as_path}.Asrank algorithm inference result: {asrank_user_content}", model_series)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 171, in get_llm_user_content
+    llama3_1_8b_value = get_client_chat_completion_value(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 79, in wrapper
+    raise Exception(f"Failed after {max_retries} retries")
+Exception: Failed after 5 retries

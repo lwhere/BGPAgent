@@ -1,0 +1,352 @@
+[
+    {
+        "asn": "265303",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            }
+        }
+    },
+    {
+        "asn": "28598",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 199
+            }
+        }
+    },
+    {
+        "asn": "61595",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            }
+        }
+    },
+    {
+        "asn": "13786",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 301
+            }
+        }
+    },
+    {
+        "asn": "134783",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            }
+        }
+    },
+    {
+        "asn": "1299",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2415
+            }
+        }
+    },
+    {
+        "asn": "135409",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 20
+            }
+        }
+    },
+    {
+        "asn": "15412",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 645
+            }
+        }
+    },
+    {
+        "asn": "38456",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 28
+            }
+        }
+    },
+    {
+        "asn": "7738",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 206
+            }
+        }
+    },
+    {
+        "asn": "36149",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 52
+            }
+        }
+    },
+    {
+        "asn": "9299",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 237
+            }
+        }
+    },
+    {
+        "asn": "40027",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            }
+        }
+    },
+    {
+        "asn": "196610",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 124
+            }
+        }
+    },
+    {
+        "asn": "51531",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6
+            }
+        }
+    },
+    {
+        "asn": "272713",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 34
+            }
+        }
+    },
+    {
+        "asn": "33891",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1820
+            }
+        }
+    },
+    {
+        "asn": "9304",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 754
+            }
+        }
+    },
+    {
+        "asn": "6939",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 9598
+            }
+        }
+    },
+    {
+        "asn": "60725",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 55
+            }
+        }
+    },
+    {
+        "asn": "52320",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1487
+            }
+        }
+    },
+    {
+        "asn": "3320",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 688
+            }
+        }
+    },
+    {
+        "asn": "265892",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 28
+            }
+        }
+    },
+    {
+        "asn": "3356",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6595
+            }
+        }
+    },
+    {
+        "asn": "701",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1232
+            }
+        }
+    },
+    {
+        "asn": "270577",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            }
+        }
+    },
+    {
+        "asn": "268042",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 47
+            }
+        }
+    },
+    {
+        "asn": "263525",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            }
+        }
+    },
+    {
+        "asn": "2906",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 282
+            }
+        }
+    },
+    {
+        "asn": "268983",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 23
+            }
+        }
+    },
+    {
+        "asn": "7195",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 547
+            }
+        }
+    },
+    {
+        "asn": "202365",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 14
+            }
+        }
+    },
+    {
+        "asn": "49697",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": false,
+            "asnDegree": {
+                "transit": 0
+            }
+        }
+    },
+    {
+        "asn": "4230",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 603
+            }
+        }
+    },
+    {
+        "asn": "174",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6732
+            }
+        }
+    }
+]

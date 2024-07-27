@@ -1,0 +1,11 @@
+{
+    "call_asrank_question":  "Please use the given as path and asrank algorithm to infer business relationships",
+    "pure_as_path_question": "Please use the given as path to infer business relationships:",
+    "pure_as_path_group_question": "Please use the given as path group to infer business relationships:",
+    "add_clique_question": "Please use the given as path and knowned clique member information to infer business relationships",
+    "add_transit_degree_question": "Please use the given as path and its corresponding transit degree information to infer business relationships",
+    "add_clique_transit_degree_question": "Please use the given as path, knowned clique member information and its corresponding transit degree information to infer business relationships",
+    "add_asrank_question": "Please use the given as path and its corresponding asrank algorithm inference result to infer business relationships",
+    "combine_asrank_question": "Please consider the AS path results and the ASrank algorithm results comprehensively, and combine your own judgment to infer AS business relationships.",
+    "add_clique_asrank_question": "Please use the given as path, knowned clique member information and its corresponding asrank information to infer business relationships"
+}

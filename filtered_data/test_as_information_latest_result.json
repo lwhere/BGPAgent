@@ -1,0 +1,4579 @@
+[
+    {
+        "retrived_asn": "7738",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 206
+            },
+            "rank": 57,
+            "asnName": "",
+            "organization": {
+                "orgId": "624d21cef1",
+                "orgName": "V tal"
+            },
+            "asnLinks": {
+                "totalCount": 206,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "52320",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "62663",
+                                "asnName": "TELECALL"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "7195",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "10429",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "262589",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7738",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "8359",
+                                "asnName": "MTS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "4230",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 603
+            },
+            "rank": 46,
+            "asnName": "",
+            "organization": {
+                "orgId": "5b70161bfe",
+                "orgName": "CLARO S.A."
+            },
+            "asnLinks": {
+                "totalCount": 604,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "7738",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "4230",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "9299",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 237
+            },
+            "rank": 226,
+            "asnName": "IPG-AS-AP",
+            "organization": {
+                "orgId": "c61cf3bec2",
+                "orgName": "Philippine Long Distance Telephone Co."
+            },
+            "asnLinks": {
+                "totalCount": 247,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "3491",
+                                "asnName": "BTN-ASN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "1273",
+                                "asnName": "CW"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "7473",
+                                "asnName": "SINGTEL-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "1239",
+                                "asnName": "SPRINTLINK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "265303",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "rank": 16659,
+            "asnName": "",
+            "organization": {
+                "orgId": "e9c2d5948f",
+                "orgName": "TV Alphaville Sistema de TV por Assinatura LTDA"
+            },
+            "asnLinks": {
+                "totalCount": 26,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "28598",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "262907",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "22381",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "271253",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "267613",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "24482",
+                                "asnName": "SGGS-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1828",
+                                "asnName": "UNITAS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265303",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6057",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "36149",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 52
+            },
+            "rank": 879,
+            "asnName": "HAWAIIAN-TELCOM",
+            "organization": {
+                "orgId": "3a40dd5d5d",
+                "orgName": "Hawaiian Telcom Services Company, Inc."
+            },
+            "asnLinks": {
+                "totalCount": 52,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "52025",
+                                "asnName": "PARADOXNETWORKS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "24482",
+                                "asnName": "SGGS-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "137409",
+                                "asnName": "GSLNETWORKS-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "1828",
+                                "asnName": "UNITAS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            },
+                            "asn1": {
+                                "asn": "35280",
+                                "asnName": "F5"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "270577",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "rank": 9827,
+            "asnName": "",
+            "organization": {
+                "orgId": "5c361c013e",
+                "orgName": "NET TOP"
+            },
+            "asnLinks": {
+                "totalCount": 27,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "262988",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "268983",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "61568",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "271253",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "267613",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "24482",
+                                "asnName": "SGGS-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1828",
+                                "asnName": "UNITAS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6057",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "270577",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "23106",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "134783",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "rank": 23412,
+            "asnName": "ATHKL-AS-AP",
+            "organization": {
+                "orgId": "50c6a075ee",
+                "orgName": "Amalgamated Telecom Holdings Kiribati Ltd"
+            },
+            "asnLinks": {
+                "totalCount": 3,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "134783",
+                                "asnName": "ATHKL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "134783",
+                                "asnName": "ATHKL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "5666",
+                                "asnName": "NET-CPRK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "134783",
+                                "asnName": "ATHKL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "1299",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2415
+            },
+            "rank": 2,
+            "asnName": "TWELVE99",
+            "organization": {
+                "orgId": "7cf5c4e5ce",
+                "orgName": "Arelion"
+            },
+            "asnLinks": {
+                "totalCount": 2419,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "6461",
+                                "asnName": "ZAYO-6461"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "3491",
+                                "asnName": "BTN-ASN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "5511",
+                                "asnName": "Opentransit"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "3320",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 688
+            },
+            "rank": 24,
+            "asnName": "DTAG",
+            "organization": {
+                "orgId": "4dab850689",
+                "orgName": "Deutsche Telekom AG"
+            },
+            "asnLinks": {
+                "totalCount": 699,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "6461",
+                                "asnName": "ZAYO-6461"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            },
+                            "asn1": {
+                                "asn": "3491",
+                                "asnName": "BTN-ASN"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "196610",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 124
+            },
+            "rank": 4501,
+            "asnName": "DECIX-Academy",
+            "organization": {
+                "orgId": "79635c941f",
+                "orgName": "DE-CIX Management GmbH"
+            },
+            "asnLinks": {
+                "totalCount": 127,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "16265",
+                                "asnName": "LEASEWEB-NETWORK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "52320",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "1239",
+                                "asnName": "SPRINTLINK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "37468",
+                                "asnName": "ANGOLA-CABLES"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "20764",
+                                "asnName": "RASCOM-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "28917",
+                                "asnName": "Fiord-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "35598",
+                                "asnName": "INETCOM"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "196610",
+                                "asnName": "DECIX-Academy"
+                            },
+                            "asn1": {
+                                "asn": "4230",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "38456",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 28
+            },
+            "rank": 2700,
+            "asnName": "SPEEDCAST-AU",
+            "organization": {
+                "orgId": "827d034558",
+                "orgName": "SpeedCast Pacific Pty Limited"
+            },
+            "asnLinks": {
+                "totalCount": 30,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "4826",
+                                "asnName": "VOCUS-BACKBONE-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "38195",
+                                "asnName": "SUPERLOOP-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "17828",
+                                "asnName": "PNGDATACOLIMITED-AS-PG"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "24482",
+                                "asnName": "SGGS-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "1828",
+                                "asnName": "UNITAS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "35280",
+                                "asnName": "F5"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "38456",
+                                "asnName": "SPEEDCAST-AU"
+                            },
+                            "asn1": {
+                                "asn": "58511",
+                                "asnName": "ANYCAST-GLOBAL-BACKBONE"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "15412",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 645
+            },
+            "rank": 40,
+            "asnName": "FLAG-AS",
+            "organization": {
+                "orgId": "3d191b88cf",
+                "orgName": "FLAG TELECOM UK LIMITED"
+            },
+            "asnLinks": {
+                "totalCount": 647,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "9498",
+                                "asnName": "BBIL-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "4809",
+                                "asnName": "CHINATELECOM-CORE-WAN-CN2"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "10133",
+                                "asnName": "TPIX-AS-TW"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "15412",
+                                "asnName": "FLAG-AS"
+                            },
+                            "asn1": {
+                                "asn": "6461",
+                                "asnName": "ZAYO-6461"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "33891",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1820
+            },
+            "rank": 37,
+            "asnName": "CORE-BACKBONE",
+            "organization": {
+                "orgId": "b9d573418b",
+                "orgName": "Core-Backbone GmbH"
+            },
+            "asnLinks": {
+                "totalCount": 1820,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "6461",
+                                "asnName": "ZAYO-6461"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "1273",
+                                "asnName": "CW"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "20495",
+                                "asnName": "WEDARE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "12389",
+                                "asnName": "ROSTELECOM-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            },
+                            "asn1": {
+                                "asn": "52320",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "60725",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 55
+            },
+            "rank": 1168,
+            "asnName": "O3B-AS",
+            "organization": {
+                "orgId": "9f2c9a1790",
+                "orgName": "SES ASTRA S.A."
+            },
+            "asnLinks": {
+                "totalCount": 67,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "3491",
+                                "asnName": "BTN-ASN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "12956",
+                                "asnName": "TELXIUS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "4826",
+                                "asnName": "VOCUS-BACKBONE-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "3549",
+                                "asnName": "LVLT-3549"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "7474",
+                                "asnName": "OPTUSCOM-AS01-AU"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "38193",
+                                "asnName": "TWA-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "8657",
+                                "asnName": "MEO-INTERNACIONAL"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "36149",
+                                "asnName": "HAWAIIAN-TELCOM"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "60725",
+                                "asnName": "O3B-AS"
+                            },
+                            "asn1": {
+                                "asn": "12684",
+                                "asnName": "SES-LUX-AS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "51531",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6
+            },
+            "rank": 6185,
+            "asnName": "DECIX-MGMT-AS",
+            "organization": {
+                "orgId": "79635c941f",
+                "orgName": "DE-CIX Management GmbH"
+            },
+            "asnLinks": {
+                "totalCount": 89,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "13101",
+                                "asnName": "TNG-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "1239",
+                                "asnName": "SPRINTLINK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "37468",
+                                "asnName": "ANGOLA-CABLES"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "35598",
+                                "asnName": "INETCOM"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "51531",
+                                "asnName": "DECIX-MGMT-AS"
+                            },
+                            "asn1": {
+                                "asn": "3303",
+                                "asnName": "SWISSCOM"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "135409",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 20
+            },
+            "rank": 1809,
+            "asnName": "KBSPL-AS-AP",
+            "organization": {
+                "orgId": "a8eb675a5c",
+                "orgName": "Kacific Broadband Satellites Pte Ltd"
+            },
+            "asnLinks": {
+                "totalCount": 24,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "4637",
+                                "asnName": "ASN-TELSTRA-GLOBAL"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "23947",
+                                "asnName": "MORATELINDONAP-AS-ID"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "4761",
+                                "asnName": "INDOSAT-INP-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "9299",
+                                "asnName": "IPG-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "7594",
+                                "asnName": "ONQ-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "136888",
+                                "asnName": "IDNIC-PETRO1-INDONESIA-AS-ID"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "17922",
+                                "asnName": "INDOSAT-INP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "135409",
+                                "asnName": "KBSPL-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "45891",
+                                "asnName": "SBT-AS-AP"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "40027",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "rank": 27457,
+            "asnName": "NETFLIX-ASN",
+            "organization": {
+                "orgId": "e541994dc8",
+                "orgName": "Netflix Streaming Services Inc."
+            },
+            "asnLinks": {
+                "totalCount": 1,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "40027",
+                                "asnName": "NETFLIX-ASN"
+                            },
+                            "asn1": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "265892",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 28
+            },
+            "rank": 6290,
+            "asnName": "",
+            "organization": {
+                "orgId": "acfb455f05",
+                "orgName": "Telbe Telecom Valinhos LTDA"
+            },
+            "asnLinks": {
+                "totalCount": 29,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "28329",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "52925",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "268042",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "61568",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "271253",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "267613",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "24482",
+                                "asnName": "SGGS-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1828",
+                                "asnName": "UNITAS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "265892",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6057",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "268983",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 23
+            },
+            "rank": 5233,
+            "asnName": "",
+            "organization": {
+                "orgId": "4a42200cd2",
+                "orgName": "NAXOS TELECOM"
+            },
+            "asnLinks": {
+                "totalCount": 29,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "22356",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "53427",
+                                "asnName": "TGLOBAL-NETWORKS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "273602",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "61568",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "271253",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "267613",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "24482",
+                                "asnName": "SGGS-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1828",
+                                "asnName": "UNITAS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268983",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6057",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "13786",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 301
+            },
+            "rank": 30,
+            "asnName": "SEABORN",
+            "organization": {
+                "orgId": "006a5b60cf",
+                "orgName": "Seabras 1 USA, LLC"
+            },
+            "asnLinks": {
+                "totalCount": 654,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "12956",
+                                "asnName": "TELXIUS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "52320",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "7195",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            },
+                            "asn1": {
+                                "asn": "16735",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "272713",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 34
+            },
+            "rank": 184,
+            "asnName": "",
+            "organization": {
+                "orgId": "fe68e0e29e",
+                "orgName": "CDN Star Ltda"
+            },
+            "asnLinks": {
+                "totalCount": 53,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "52320",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "16735",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "13786",
+                                "asnName": "SEABORN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "37468",
+                                "asnName": "ANGOLA-CABLES"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "262589",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "40850",
+                                "asnName": "AS-UPIX-40850"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "26615",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "52468",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "272713",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "267613",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "9304",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 754
+            },
+            "rank": 86,
+            "asnName": "HUTCHISON-AS-AP",
+            "organization": {
+                "orgId": "63bd8e1dfb",
+                "orgName": "HGC Global Communications Limited"
+            },
+            "asnLinks": {
+                "totalCount": 1287,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "5511",
+                                "asnName": "Opentransit"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "1273",
+                                "asnName": "CW"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "1239",
+                                "asnName": "SPRINTLINK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            },
+                            "asn1": {
+                                "asn": "9498",
+                                "asnName": "BBIL-AP"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "61595",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "rank": 39219,
+            "asnName": "",
+            "organization": {
+                "orgId": "d9ec2038c3",
+                "orgName": "TELIC TECHNOLOGIES"
+            },
+            "asnLinks": {
+                "totalCount": 1,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "61595",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "53427",
+                                "asnName": "TGLOBAL-NETWORKS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "7195",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 547
+            },
+            "rank": 20,
+            "asnName": "",
+            "organization": {
+                "orgId": "98b17e1e28",
+                "orgName": "EDGEUNO SAS"
+            },
+            "asnLinks": {
+                "totalCount": 546,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "52320",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "16735",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1239",
+                                "asnName": "SPRINTLINK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "10429",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7195",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "20764",
+                                "asnName": "RASCOM-AS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "2906",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 282
+            },
+            "rank": 7406,
+            "asnName": "AS-SSI",
+            "organization": {
+                "orgId": "e541994dc8",
+                "orgName": "Netflix Streaming Services Inc."
+            },
+            "asnLinks": {
+                "totalCount": 345,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "20495",
+                                "asnName": "WEDARE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "3320",
+                                "asnName": "DTAG"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "37468",
+                                "asnName": "ANGOLA-CABLES"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "16265",
+                                "asnName": "LEASEWEB-NETWORK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "4826",
+                                "asnName": "VOCUS-BACKBONE-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "4455",
+                                "asnName": "BSO"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "263779",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "2906",
+                                "asnName": "AS-SSI"
+                            },
+                            "asn1": {
+                                "asn": "64112",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "49697",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": false,
+            "asnDegree": {
+                "transit": 0
+            },
+            "rank": 76651,
+            "asnName": "Joey-Network",
+            "organization": {
+                "orgId": "6c9ae82509",
+                "orgName": "Joey Julian Koenig"
+            },
+            "asnLinks": {
+                "totalCount": 0,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": false
+                },
+                "edges": []
+            }
+        }
+    },
+    {
+        "retrived_asn": "701",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1232
+            },
+            "rank": 29,
+            "asnName": "UUNET",
+            "organization": {
+                "orgId": "5934dab83b",
+                "orgName": "Verizon Business"
+            },
+            "asnLinks": {
+                "totalCount": 1234,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "6461",
+                                "asnName": "ZAYO-6461"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "701",
+                                "asnName": "UUNET"
+                            },
+                            "asn1": {
+                                "asn": "3491",
+                                "asnName": "BTN-ASN"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "6939",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 9598
+            },
+            "rank": 6,
+            "asnName": "HURRICANE",
+            "organization": {
+                "orgId": "b15dac8bd6",
+                "orgName": "Hurricane Electric LLC"
+            },
+            "asnLinks": {
+                "totalCount": 9600,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "3491",
+                                "asnName": "BTN-ASN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "6461",
+                                "asnName": "ZAYO-6461"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "5511",
+                                "asnName": "Opentransit"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "1273",
+                                "asnName": "CW"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            },
+                            "asn1": {
+                                "asn": "12956",
+                                "asnName": "TELXIUS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "202365",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 14
+            },
+            "rank": 6946,
+            "asnName": "Chronos",
+            "organization": {
+                "orgId": "359983883a",
+                "orgName": "Omer GOLGELI"
+            },
+            "asnLinks": {
+                "totalCount": 540,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "50673",
+                                "asnName": "Serverius-as"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "62240",
+                                "asnName": "Clouvider"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "206499",
+                                "asnName": "MMNETWORKS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "20495",
+                                "asnName": "WEDARE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "9498",
+                                "asnName": "BBIL-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "16265",
+                                "asnName": "LEASEWEB-NETWORK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "28917",
+                                "asnName": "Fiord-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "31500",
+                                "asnName": "Global Network Management"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "202365",
+                                "asnName": "Chronos"
+                            },
+                            "asn1": {
+                                "asn": "50509",
+                                "asnName": "TRANSROUTE"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "263525",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "rank": 25751,
+            "asnName": "",
+            "organization": {
+                "orgId": "a908f57d64",
+                "orgName": "Dispor de Telecomunicaes Ltda"
+            },
+            "asnLinks": {
+                "totalCount": 25,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "270577",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "61568",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "271253",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "267613",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "24482",
+                                "asnName": "SGGS-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1828",
+                                "asnName": "UNITAS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6057",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "23106",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "263525",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "35280",
+                                "asnName": "F5"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "268042",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 47
+            },
+            "rank": 3755,
+            "asnName": "",
+            "organization": {
+                "orgId": "ae17dea6e1",
+                "orgName": "JETNET COMUNICACAO LTDA"
+            },
+            "asnLinks": {
+                "totalCount": 47,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1031",
+                                "asnName": "PEER-1-INTERNET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "40850",
+                                "asnName": "AS-UPIX-40850"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "271253",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "28329",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "272713",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "33891",
+                                "asnName": "CORE-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "28917",
+                                "asnName": "Fiord-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "61568",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3303",
+                                "asnName": "SWISSCOM"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "268042",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "267613",
+                                "asnName": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "28598",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 199
+            },
+            "rank": 150,
+            "asnName": "",
+            "organization": {
+                "orgId": "7826ce83c0",
+                "orgName": "MOB SERVICOS DE TELECOMUNICACOES S.A."
+            },
+            "asnLinks": {
+                "totalCount": 206,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "52320",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "10429",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "262589",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "16265",
+                                "asnName": "LEASEWEB-NETWORK"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "4230",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3549",
+                                "asnName": "LVLT-3549"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "61568",
+                                "asnName": ""
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "28598",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "264409",
+                                "asnName": "Huge Networks"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "174",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6732
+            },
+            "rank": 3,
+            "asnName": "COGENT-174",
+            "organization": {
+                "orgId": "5d631fdea3",
+                "orgName": "Cogent Communications"
+            },
+            "asnLinks": {
+                "totalCount": 6738,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "6461",
+                                "asnName": "ZAYO-6461"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "3491",
+                                "asnName": "BTN-ASN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "5511",
+                                "asnName": "Opentransit"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            },
+                            "asn1": {
+                                "asn": "1273",
+                                "asnName": "CW"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "52320",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1487
+            },
+            "rank": 17,
+            "asnName": "",
+            "organization": {
+                "orgId": "09813a9de8",
+                "orgName": "GlobeNet Cabos Submarinos Colombia, S.A.S."
+            },
+            "asnLinks": {
+                "totalCount": 1795,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "6461",
+                                "asnName": "ZAYO-6461"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "20495",
+                                "asnName": "WEDARE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "52320",
+                                "asnName": ""
+                            },
+                            "asn1": {
+                                "asn": "12389",
+                                "asnName": "ROSTELECOM-AS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]

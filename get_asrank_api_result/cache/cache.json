@@ -1,0 +1,506 @@
+[
+    {
+        "retrived_asn": "7545",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 400
+            },
+            "rank": 80,
+            "asnName": "TPG-INTERNET-AP",
+            "organization": {
+                "orgId": "0eb02680f9",
+                "orgName": "TPG Internet Pty Ltd"
+            },
+            "asnLinks": {
+                "totalCount": 402,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "6939",
+                                "asnName": "HURRICANE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "35280",
+                                "asnName": "F5"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "10099",
+                                "asnName": "UNICOM-Global"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "3491",
+                                "asnName": "BTN-ASN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "7545",
+                                "asnName": "TPG-INTERNET-AP"
+                            },
+                            "asn1": {
+                                "asn": "9002",
+                                "asnName": "RETN-AS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "36352",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 24
+            },
+            "rank": 1335,
+            "asnName": "AS-COLOCROSSING",
+            "organization": {
+                "orgId": "5d35ab3342",
+                "orgName": "ColoCrossing"
+            },
+            "asnLinks": {
+                "totalCount": 26,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "23352",
+                                "asnName": "SERVERCENTRAL"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "18779",
+                                "asnName": "EGIHOSTING"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "23033",
+                                "asnName": "WOW"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "46562",
+                                "asnName": "PERFORMIVE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "286",
+                                "asnName": "KPN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "20278",
+                                "asnName": "NEXEON"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "36352",
+                                "asnName": "AS-COLOCROSSING"
+                            },
+                            "asn1": {
+                                "asn": "55286",
+                                "asnName": "SERVER-MANIA"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "138538",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "rank": 17532,
+            "asnName": "NANBIAN-VPSORGLOBAL-AS",
+            "organization": {
+                "orgId": "26ccb5651d",
+                "orgName": "Ningbo Nanbian Tuoluo Xinxi Jishu Co., Ltd"
+            },
+            "asnLinks": {
+                "totalCount": 3,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": false
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "138538",
+                                "asnName": "NANBIAN-VPSORGLOBAL-AS"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "138538",
+                                "asnName": "NANBIAN-VPSORGLOBAL-AS"
+                            },
+                            "asn1": {
+                                "asn": "9304",
+                                "asnName": "HUTCHISON-AS-AP"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "138538",
+                                "asnName": "NANBIAN-VPSORGLOBAL-AS"
+                            },
+                            "asn1": {
+                                "asn": "132585",
+                                "asnName": "SIA-HK-AS"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "retrived_asn": "3356",
+        "as_information": {
+            "date": "2024-03-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6595
+            },
+            "rank": 1,
+            "asnName": "LEVEL3",
+            "organization": {
+                "orgId": "589f9199b0",
+                "orgName": "Level 3 Parent, LLC"
+            },
+            "asnLinks": {
+                "totalCount": 6596,
+                "pageInfo": {
+                    "first": 10,
+                    "offset": 0,
+                    "status": "success",
+                    "hasNextPage": true
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "1299",
+                                "asnName": "TWELVE99"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "174",
+                                "asnName": "COGENT-174"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "2914",
+                                "asnName": "NTT-LTD-2914"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "6762",
+                                "asnName": "SEABONE-NET"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "3257",
+                                "asnName": "GTT-BACKBONE"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "6453",
+                                "asnName": "AS6453"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "6461",
+                                "asnName": "ZAYO-6461"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "3491",
+                                "asnName": "BTN-ASN"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "5511",
+                                "asnName": "Opentransit"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "asn0": {
+                                "asn": "3356",
+                                "asnName": "LEVEL3"
+                            },
+                            "asn1": {
+                                "asn": "1273",
+                                "asnName": "CW"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]

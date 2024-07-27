@@ -1,0 +1,5834 @@
+[
+    {
+        "retrived_asn": "9189",
+        "as_information": {
+            "asn": "9189",
+            "rank": 2714,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 39
+            },
+            "organization": {
+                "orgId": "b0e1f44cf5",
+                "orgName": "NetAachen GmbH"
+            }
+        }
+    },
+    {
+        "retrived_asn": "24525",
+        "as_information": {
+            "asn": "24525",
+            "rank": 11201,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "11ee9fa41c",
+                "orgName": "PT Solusi Aksesindo Pratama"
+            }
+        }
+    },
+    {
+        "retrived_asn": "4826",
+        "as_information": {
+            "asn": "4826",
+            "rank": 73,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 179
+            },
+            "organization": {
+                "orgId": "4b888a38da",
+                "orgName": "Vocus Connect International Backbone"
+            }
+        }
+    },
+    {
+        "retrived_asn": "17671",
+        "as_information": {
+            "asn": "17671",
+            "rank": 11197,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "45a38a3da1",
+                "orgName": "JETCOMS-ID Autonomous system"
+            }
+        }
+    },
+    {
+        "retrived_asn": "58397",
+        "as_information": {
+            "asn": "58397",
+            "rank": 17563,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "424ffa869d",
+                "orgName": "PT Infinys System Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3741",
+        "as_information": {
+            "asn": "3741",
+            "rank": 193,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 126
+            },
+            "organization": {
+                "orgId": "54c958a759",
+                "orgName": "Internet Solutions"
+            }
+        }
+    },
+    {
+        "retrived_asn": "22873",
+        "as_information": {
+            "asn": "22873",
+            "rank": 3332,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6
+            },
+            "organization": {
+                "orgId": "6e2b6fe0a7",
+                "orgName": "Fiber Networx Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "9341",
+        "as_information": {
+            "asn": "9341",
+            "rank": 2992,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "9c54f6cc9f",
+                "orgName": "PT Indonesia Comnets Plus"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2153",
+        "as_information": {
+            "asn": "2153",
+            "rank": 183,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 47
+            },
+            "organization": {
+                "orgId": "0c46cc8b27",
+                "orgName": "California State University Network"
+            }
+        }
+    },
+    {
+        "retrived_asn": "56111",
+        "as_information": {
+            "asn": "56111",
+            "rank": 3818,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "37d96d0864",
+                "orgName": "Agarto Sdn Bhd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "20771",
+        "as_information": {
+            "asn": "20771",
+            "rank": 279,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 30
+            },
+            "organization": {
+                "orgId": "0fdbc7e95a",
+                "orgName": "CAUCASUS-CABLE-SYSTEM"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6968",
+        "as_information": {
+            "asn": "6968",
+            "rank": 32503,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "95136f4d30",
+                "orgName": "UniForum S.A."
+            }
+        }
+    },
+    {
+        "retrived_asn": "23953",
+        "as_information": {
+            "asn": "23953",
+            "rank": 3867,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "bc29327c89",
+                "orgName": "PT ARTHA TELEKOMINDO"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8331",
+        "as_information": {
+            "asn": "8331",
+            "rank": 721,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 32
+            },
+            "organization": {
+                "orgId": "78bb89aa31",
+                "orgName": "RINET-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "34288",
+        "as_information": {
+            "asn": "34288",
+            "rank": 2869,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 50
+            },
+            "organization": {
+                "orgId": "37015812c9",
+                "orgName": "AS34288"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1916",
+        "as_information": {
+            "asn": "1916",
+            "rank": 542,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 113
+            },
+            "organization": {
+                "orgId": "5b9bd1da05",
+                "orgName": "Rede Nacional de Ensino e Pesquisa"
+            }
+        }
+    },
+    {
+        "retrived_asn": "11164",
+        "as_information": {
+            "asn": "11164",
+            "rank": 50,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 127
+            },
+            "organization": {
+                "orgId": "432c05cddd",
+                "orgName": "National LambdaRail, LLC"
+            }
+        }
+    },
+    {
+        "retrived_asn": "18881",
+        "as_information": {
+            "asn": "18881",
+            "rank": 49,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 357
+            },
+            "organization": {
+                "orgId": "24a63a237d",
+                "orgName": "Global Village Telecom"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1251",
+        "as_information": {
+            "asn": "1251",
+            "rank": 1754,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 44
+            },
+            "organization": {
+                "orgId": "aa68a5e153",
+                "orgName": "Fundacao de Amparo a Pesquisa do Estado de Sao Pau"
+            }
+        }
+    },
+    {
+        "retrived_asn": "17658",
+        "as_information": {
+            "asn": "17658",
+            "rank": 10998,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "93273a846e",
+                "orgName": "PrimaNet - PT. Khasanah Timur Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "16637",
+        "as_information": {
+            "asn": "16637",
+            "rank": 355,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 85
+            },
+            "organization": {
+                "orgId": "c348657ce9",
+                "orgName": "MTN Business Solutions (Pty) Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "20485",
+        "as_information": {
+            "asn": "20485",
+            "rank": 19,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 953
+            },
+            "organization": {
+                "orgId": "f24850bb28",
+                "orgName": "JSC Company TransTeleCom"
+            }
+        }
+    },
+    {
+        "retrived_asn": "174",
+        "as_information": {
+            "asn": "174",
+            "rank": 4,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3743
+            },
+            "organization": {
+                "orgId": "5d631fdea3",
+                "orgName": "Cogent Communications"
+            }
+        }
+    },
+    {
+        "retrived_asn": "17995",
+        "as_information": {
+            "asn": "17995",
+            "rank": 11649,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "52fc89f0e8",
+                "orgName": "Solusi Internet Service Provider"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45302",
+        "as_information": {
+            "asn": "45302",
+            "rank": 3960,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 5
+            },
+            "organization": {
+                "orgId": "0bd064a2d7",
+                "orgName": "PT DES Teknologi Informasi"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45294",
+        "as_information": {
+            "asn": "45294",
+            "rank": 16622,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "3fc42a912e",
+                "orgName": "PT. Wanriau Indoxp"
+            }
+        }
+    },
+    {
+        "retrived_asn": "46049",
+        "as_information": {
+            "asn": "46049",
+            "rank": 18957,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "1bc6d8bb96",
+                "orgName": "Universitas Diponegoro"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38769",
+        "as_information": {
+            "asn": "38769",
+            "rank": 5701,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3
+            },
+            "organization": {
+                "orgId": "6abda54f52",
+                "orgName": "PT. Bit Technology Nusantara"
+            }
+        }
+    },
+    {
+        "retrived_asn": "7738",
+        "as_information": {
+            "asn": "7738",
+            "rank": 158,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 215
+            },
+            "organization": {
+                "orgId": "624d21cef1",
+                "orgName": "Telecomunicacoes da Bahia S.A."
+            }
+        }
+    },
+    {
+        "retrived_asn": "262354",
+        "as_information": {
+            "asn": "262354",
+            "rank": 13857,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": null
+        }
+    },
+    {
+        "retrived_asn": "38147",
+        "as_information": {
+            "asn": "38147",
+            "rank": 16651,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "47a4ac089e",
+                "orgName": "PT. Inova Duapuluh Duapuluh"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8426",
+        "as_information": {
+            "asn": "8426",
+            "rank": 372,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 113
+            },
+            "organization": {
+                "orgId": "6bc0d7855c",
+                "orgName": "ClaraNET LTD"
+            }
+        }
+    },
+    {
+        "retrived_asn": "34309",
+        "as_information": {
+            "asn": "34309",
+            "rank": 1108,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 72
+            },
+            "organization": {
+                "orgId": "42862f88f5",
+                "orgName": "LINK11"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3561",
+        "as_information": {
+            "asn": "3561",
+            "rank": 22,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 372
+            },
+            "organization": {
+                "orgId": "0e18b2bb9e",
+                "orgName": "Savvis"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38149",
+        "as_information": {
+            "asn": "38149",
+            "rank": 2481,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6
+            },
+            "organization": {
+                "orgId": "54e901d972",
+                "orgName": "PT. Bakrie Telecom"
+            }
+        }
+    },
+    {
+        "retrived_asn": "20632",
+        "as_information": {
+            "asn": "20632",
+            "rank": 236,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 97
+            },
+            "organization": {
+                "orgId": "4da2133fe5",
+                "orgName": "OJSC MegaFon"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1267",
+        "as_information": {
+            "asn": "1267",
+            "rank": 188,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 631
+            },
+            "organization": {
+                "orgId": "a4e38c002a",
+                "orgName": "ASN-INFOSTRADA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "513",
+        "as_information": {
+            "asn": "513",
+            "rank": 2604,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 14
+            },
+            "organization": {
+                "orgId": "6d2c71e0a1",
+                "orgName": "LHCONE-RS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "23936",
+        "as_information": {
+            "asn": "23936",
+            "rank": 5966,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "6fe1e3687b",
+                "orgName": "151 Lorong Chuan"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38523",
+        "as_information": {
+            "asn": "38523",
+            "rank": 21572,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "09a5f18b37",
+                "orgName": "INTI INFORMATIKA, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "42861",
+        "as_information": {
+            "asn": "42861",
+            "rank": 238,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 867
+            },
+            "organization": {
+                "orgId": "2a6e8b21ef",
+                "orgName": "PRIME-LINE-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "55799",
+        "as_information": {
+            "asn": "55799",
+            "rank": 1427,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 7
+            },
+            "organization": {
+                "orgId": "14a39538d0",
+                "orgName": "Hostemo Technology Sdn Bhd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "15605",
+        "as_information": {
+            "asn": "15605",
+            "rank": 5531,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "c0cb135cb6",
+                "orgName": "ICTVALLEUMBRA-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "131702",
+        "as_information": {
+            "asn": "131702",
+            "rank": 841,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 16
+            },
+            "organization": {
+                "orgId": "fa41d98a6e",
+                "orgName": "Moratelindo Internet Exchange Point"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45298",
+        "as_information": {
+            "asn": "45298",
+            "rank": 2077,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 7
+            },
+            "organization": {
+                "orgId": "ccdd4b55f5",
+                "orgName": "INTERLINK TECHNOLOGY, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "5089",
+        "as_information": {
+            "asn": "5089",
+            "rank": 138,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 261
+            },
+            "organization": {
+                "orgId": "e659585d01",
+                "orgName": "NTL"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38789",
+        "as_information": {
+            "asn": "38789",
+            "rank": 28114,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "4cb7c4aa48",
+                "orgName": "CV. Duta Network Nusantara"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38883",
+        "as_information": {
+            "asn": "38883",
+            "rank": 3848,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 8
+            },
+            "organization": {
+                "orgId": "58d825aaad",
+                "orgName": "FireNet Pty Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "53131",
+        "as_information": {
+            "asn": "53131",
+            "rank": 3568,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3
+            },
+            "organization": null
+        }
+    },
+    {
+        "retrived_asn": "38772",
+        "as_information": {
+            "asn": "38772",
+            "rank": 4472,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "d52dd18e13",
+                "orgName": "PT. Smartlink Global Media."
+            }
+        }
+    },
+    {
+        "retrived_asn": "23699",
+        "as_information": {
+            "asn": "23699",
+            "rank": 5594,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "77b2325167",
+                "orgName": "IP Teknologi Komunikasi, PT."
+            }
+        }
+    },
+    {
+        "retrived_asn": "4436",
+        "as_information": {
+            "asn": "4436",
+            "rank": 34,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 311
+            },
+            "organization": {
+                "orgId": "05b116d79a",
+                "orgName": "nLayer Communications, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "55667",
+        "as_information": {
+            "asn": "55667",
+            "rank": 18564,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "d446c45778",
+                "orgName": "PT IP Telecom Multimedia Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1299",
+        "as_information": {
+            "asn": "1299",
+            "rank": 5,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 804
+            },
+            "organization": {
+                "orgId": "7cf5c4e5ce",
+                "orgName": "TeliaNet Global Network"
+            }
+        }
+    },
+    {
+        "retrived_asn": "28303",
+        "as_information": {
+            "asn": "28303",
+            "rank": 744,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 26
+            },
+            "organization": {
+                "orgId": "aaf0d7bd9d",
+                "orgName": "ELETRONICA ITAKE LTDA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29208",
+        "as_information": {
+            "asn": "29208",
+            "rank": 192,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 655
+            },
+            "organization": {
+                "orgId": "9233406119",
+                "orgName": "Dial Telecom, a.s."
+            }
+        }
+    },
+    {
+        "retrived_asn": "15685",
+        "as_information": {
+            "asn": "15685",
+            "rank": 481,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 37
+            },
+            "organization": {
+                "orgId": "172bff2f39",
+                "orgName": "Casablanca INT Autonomous system"
+            }
+        }
+    },
+    {
+        "retrived_asn": "46063",
+        "as_information": {
+            "asn": "46063",
+            "rank": 19939,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "d44d656501",
+                "orgName": "PT.Graha Telekomunikasi Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8419",
+        "as_information": {
+            "asn": "8419",
+            "rank": 1800,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 50
+            },
+            "organization": {
+                "orgId": "00d3fe7b94",
+                "orgName": "Maxima Managed Services (Formerly: Hotchilli/DXI)"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29611",
+        "as_information": {
+            "asn": "29611",
+            "rank": 13700,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "010007bbed",
+                "orgName": "Elite Limited"
+            }
+        }
+    },
+    {
+        "retrived_asn": "41887",
+        "as_information": {
+            "asn": "41887",
+            "rank": 1392,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 23
+            },
+            "organization": {
+                "orgId": "ff62586a83",
+                "orgName": "PROLOCATION"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45697",
+        "as_information": {
+            "asn": "45697",
+            "rank": 28114,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "4a16023176",
+                "orgName": "Universitas Surabaya"
+            }
+        }
+    },
+    {
+        "retrived_asn": "9153",
+        "as_information": {
+            "asn": "9153",
+            "rank": 889,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 64
+            },
+            "organization": {
+                "orgId": "604105ef21",
+                "orgName": "BURSTFIRE-EU"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45731",
+        "as_information": {
+            "asn": "45731",
+            "rank": 16945,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "548a8e1444",
+                "orgName": "ARDH GLOBAL INDONESIA, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6083",
+        "as_information": {
+            "asn": "6083",
+            "rank": 4460,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3
+            },
+            "organization": {
+                "orgId": "0c055bf7a8",
+                "orgName": "Posix Systems (Pty) Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "11666",
+        "as_information": {
+            "asn": "11666",
+            "rank": 675,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 61
+            },
+            "organization": {
+                "orgId": "5e0f1fded9",
+                "orgName": "Nexicom Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "24527",
+        "as_information": {
+            "asn": "24527",
+            "rank": 15040,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "d34020797f",
+                "orgName": "Internet Service Provider"
+            }
+        }
+    },
+    {
+        "retrived_asn": "56172",
+        "as_information": {
+            "asn": "56172",
+            "rank": 37462,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "488824fcd1",
+                "orgName": "Agora Communications Pte Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "55658",
+        "as_information": {
+            "asn": "55658",
+            "rank": 2146,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 8
+            },
+            "organization": {
+                "orgId": "1549c10541",
+                "orgName": "PT. HIPERNET INDODATA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "16735",
+        "as_information": {
+            "asn": "16735",
+            "rank": 60,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 377
+            },
+            "organization": {
+                "orgId": "e865dcb9dd",
+                "orgName": "Companhia de Telecomunicacoes do Brasil Central"
+            }
+        }
+    },
+    {
+        "retrived_asn": "24212",
+        "as_information": {
+            "asn": "24212",
+            "rank": 16651,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "7ce4c62918",
+                "orgName": "PT. JASNITA TELEKOMINDO"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1273",
+        "as_information": {
+            "asn": "1273",
+            "rank": 11,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 309
+            },
+            "organization": {
+                "orgId": "6069da2d7d",
+                "orgName": "Cable&Wireless Worldwide"
+            }
+        }
+    },
+    {
+        "retrived_asn": "33843",
+        "as_information": {
+            "asn": "33843",
+            "rank": 876,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 53
+            },
+            "organization": {
+                "orgId": "fbebcca849",
+                "orgName": "INTERSCHOLZ-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "28571",
+        "as_information": {
+            "asn": "28571",
+            "rank": 6806,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "a6fc3406d5",
+                "orgName": "Universidade de Sao Paulo - USP"
+            }
+        }
+    },
+    {
+        "retrived_asn": "14840",
+        "as_information": {
+            "asn": "14840",
+            "rank": 562,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 70
+            },
+            "organization": {
+                "orgId": "7e882b4858",
+                "orgName": "CommCorp Comunicaes Corporativas Ltda."
+            }
+        }
+    },
+    {
+        "retrived_asn": "209",
+        "as_information": {
+            "asn": "209",
+            "rank": 15,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1435
+            },
+            "organization": {
+                "orgId": "b16aa6763c",
+                "orgName": "Qwest Communications Company, LLC"
+            }
+        }
+    },
+    {
+        "retrived_asn": "24523",
+        "as_information": {
+            "asn": "24523",
+            "rank": 477,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 18
+            },
+            "organization": {
+                "orgId": "c82d2864e4",
+                "orgName": "Orion Cyber Internet"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38809",
+        "as_information": {
+            "asn": "38809",
+            "rank": 216,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 92
+            },
+            "organization": {
+                "orgId": "aa320e8136",
+                "orgName": "Nextgen Networks"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2497",
+        "as_information": {
+            "asn": "2497",
+            "rank": 88,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 259
+            },
+            "organization": {
+                "orgId": "6b2a07dc03",
+                "orgName": "Internet Initiative Japan Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "56236",
+        "as_information": {
+            "asn": "56236",
+            "rank": 32838,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "018965ec60",
+                "orgName": "Badan Narkotika Nasional"
+            }
+        }
+    },
+    {
+        "retrived_asn": "9422",
+        "as_information": {
+            "asn": "9422",
+            "rank": 23038,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "3c4585b179",
+                "orgName": "PT SOLNET INDONESIA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45288",
+        "as_information": {
+            "asn": "45288",
+            "rank": 21148,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "0dc7e74d51",
+                "orgName": "KOMUNIKA LIMA DUABELAS, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8422",
+        "as_information": {
+            "asn": "8422",
+            "rank": 616,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 561
+            },
+            "organization": {
+                "orgId": "72145baf46",
+                "orgName": "NETCOLOGNE AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2828",
+        "as_information": {
+            "asn": "2828",
+            "rank": 12,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1177
+            },
+            "organization": {
+                "orgId": "d0de252de8",
+                "orgName": "XO Communications"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45735",
+        "as_information": {
+            "asn": "45735",
+            "rank": 3889,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "9eacc19890",
+                "orgName": "PT. UNINET MEDIA SAKTI"
+            }
+        }
+    },
+    {
+        "retrived_asn": "35449",
+        "as_information": {
+            "asn": "35449",
+            "rank": 42572,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "21efff4eab",
+                "orgName": "HWRO-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "131723",
+        "as_information": {
+            "asn": "131723",
+            "rank": 28114,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "4bce03f6fc",
+                "orgName": "Kementerian Keuangan Ditjen Bea Cukai"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2914",
+        "as_information": {
+            "asn": "2914",
+            "rank": 6,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 880
+            },
+            "organization": {
+                "orgId": "f0d380bf4a",
+                "orgName": "NTT America, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "10026",
+        "as_information": {
+            "asn": "10026",
+            "rank": 30,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 392
+            },
+            "organization": {
+                "orgId": "1dd0079ba6",
+                "orgName": "Pacnet Global Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6730",
+        "as_information": {
+            "asn": "6730",
+            "rank": 223,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 443
+            },
+            "organization": {
+                "orgId": "b3d5e1889a",
+                "orgName": "SUNRISE-MOBILE"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6695",
+        "as_information": {
+            "asn": "6695",
+            "rank": 13156,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "fee5b0d5e3",
+                "orgName": "DECIX-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "12389",
+        "as_information": {
+            "asn": "12389",
+            "rank": 18,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 653
+            },
+            "organization": {
+                "orgId": "ad98af7833",
+                "orgName": "rostelecom-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "293",
+        "as_information": {
+            "asn": "293",
+            "rank": 639,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 63
+            },
+            "organization": {
+                "orgId": "d8456987fb",
+                "orgName": "ESnet"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29049",
+        "as_information": {
+            "asn": "29049",
+            "rank": 170,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 95
+            },
+            "organization": {
+                "orgId": "2423433b2a",
+                "orgName": "Delta Telecom LTD."
+            }
+        }
+    },
+    {
+        "retrived_asn": "42708",
+        "as_information": {
+            "asn": "42708",
+            "rank": 305,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 921
+            },
+            "organization": {
+                "orgId": "3f6def2d3a",
+                "orgName": "Portlane Networks AB"
+            }
+        }
+    },
+    {
+        "retrived_asn": "16086",
+        "as_information": {
+            "asn": "16086",
+            "rank": 1184,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 27
+            },
+            "organization": {
+                "orgId": "207937c762",
+                "orgName": "VERKKOTIETO-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "42109",
+        "as_information": {
+            "asn": "42109",
+            "rank": 2160,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6
+            },
+            "organization": {
+                "orgId": "d2de2bcab4",
+                "orgName": "ADC-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3303",
+        "as_information": {
+            "asn": "3303",
+            "rank": 62,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 549
+            },
+            "organization": {
+                "orgId": "8d3af24861",
+                "orgName": "AS8659"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3491",
+        "as_information": {
+            "asn": "3491",
+            "rank": 10,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 583
+            },
+            "organization": {
+                "orgId": "dedf0fe405",
+                "orgName": "Beyond The Network America, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "46016",
+        "as_information": {
+            "asn": "46016",
+            "rank": 24734,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "1d4d4971e7",
+                "orgName": "LKBN ANTARA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1103",
+        "as_information": {
+            "asn": "1103",
+            "rank": 661,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 261
+            },
+            "organization": {
+                "orgId": "86421737bc",
+                "orgName": "SURFnet, The Netherlands"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45717",
+        "as_information": {
+            "asn": "45717",
+            "rank": 30426,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "be1fb03dd9",
+                "orgName": "Citra Candika PT."
+            }
+        }
+    },
+    {
+        "retrived_asn": "45166",
+        "as_information": {
+            "asn": "45166",
+            "rank": 3794,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6
+            },
+            "organization": {
+                "orgId": "7d21a006ab",
+                "orgName": "OSINet Communications Pte Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2857",
+        "as_information": {
+            "asn": "2857",
+            "rank": 4191,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 42
+            },
+            "organization": {
+                "orgId": "f8f5b2f865",
+                "orgName": "Johannes Gutenberg-Universitaet"
+            }
+        }
+    },
+    {
+        "retrived_asn": "15412",
+        "as_information": {
+            "asn": "15412",
+            "rank": 29,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 438
+            },
+            "organization": {
+                "orgId": "3d191b88cf",
+                "orgName": "VANCO-UK-AS2"
+            }
+        }
+    },
+    {
+        "retrived_asn": "20764",
+        "as_information": {
+            "asn": "20764",
+            "rank": 83,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 125
+            },
+            "organization": {
+                "orgId": "700f19515f",
+                "orgName": "CJSC Rascom, St.Petersburg, Russia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8222",
+        "as_information": {
+            "asn": "8222",
+            "rank": 11736,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "3d7b75510d",
+                "orgName": "netplace Telematic GmbH"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6939",
+        "as_information": {
+            "asn": "6939",
+            "rank": 16,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2560
+            },
+            "organization": {
+                "orgId": "b15dac8bd6",
+                "orgName": "Hurricane Electric, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "8943",
+        "as_information": {
+            "asn": "8943",
+            "rank": 927,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 117
+            },
+            "organization": {
+                "orgId": "004b000ece",
+                "orgName": "JUMP"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8218",
+        "as_information": {
+            "asn": "8218",
+            "rank": 58,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 596
+            },
+            "organization": {
+                "orgId": "bd80d335f9",
+                "orgName": "NEO-ASN"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2895",
+        "as_information": {
+            "asn": "2895",
+            "rank": 2002,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 13
+            },
+            "organization": {
+                "orgId": "14cff4136b",
+                "orgName": "FREEnet"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38764",
+        "as_information": {
+            "asn": "38764",
+            "rank": 26545,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "465fcd76c9",
+                "orgName": "MARKAS BESAR KEPOLISIAN REPUBLIK INDONESIA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29222",
+        "as_information": {
+            "asn": "29222",
+            "rank": 10505,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "fccea0b6d7",
+                "orgName": "Infomaniak Network SA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8732",
+        "as_information": {
+            "asn": "8732",
+            "rank": 77,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 237
+            },
+            "organization": {
+                "orgId": "c7d257770e",
+                "orgName": "Moscow Telecommunication Corporation (COMCOR)"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38524",
+        "as_information": {
+            "asn": "38524",
+            "rank": 18555,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "25063e9b96",
+                "orgName": "Laxo Global Akses, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "262589",
+        "as_information": {
+            "asn": "262589",
+            "rank": 482,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 38
+            },
+            "organization": null
+        }
+    },
+    {
+        "retrived_asn": "45315",
+        "as_information": {
+            "asn": "45315",
+            "rank": 18726,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "874ff639ac",
+                "orgName": "Jaring Semesta Infosolusi, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3549",
+        "as_information": {
+            "asn": "3549",
+            "rank": 2,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2379
+            },
+            "organization": {
+                "orgId": "589f9199b0",
+                "orgName": "Level 3 Communications, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "39756",
+        "as_information": {
+            "asn": "39756",
+            "rank": 2375,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 13
+            },
+            "organization": {
+                "orgId": "21efff4eab",
+                "orgName": "HWRO-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8596",
+        "as_information": {
+            "asn": "8596",
+            "rank": 2485,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 41
+            },
+            "organization": {
+                "orgId": "d88caa42a0",
+                "orgName": "hotze.com GmbH"
+            }
+        }
+    },
+    {
+        "retrived_asn": "18379",
+        "as_information": {
+            "asn": "18379",
+            "rank": 10759,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "4382d72ec3",
+                "orgName": "CSMNAP-ASN"
+            }
+        }
+    },
+    {
+        "retrived_asn": "4323",
+        "as_information": {
+            "asn": "4323",
+            "rank": 23,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1659
+            },
+            "organization": {
+                "orgId": "ad2cef50bb",
+                "orgName": "tw telecom holdings, inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "8447",
+        "as_information": {
+            "asn": "8447",
+            "rank": 168,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 184
+            },
+            "organization": {
+                "orgId": "ade8a04daa",
+                "orgName": "TA-GRX-I-AT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45714",
+        "as_information": {
+            "asn": "45714",
+            "rank": 21572,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "162946d435",
+                "orgName": "Sampoerna Telekomunikasi Indonesia, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "39792",
+        "as_information": {
+            "asn": "39792",
+            "rank": 104,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 483
+            },
+            "organization": {
+                "orgId": "81c1b2b427",
+                "orgName": "ANDERS-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "15469",
+        "as_information": {
+            "asn": "15469",
+            "rank": 4362,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6
+            },
+            "organization": {
+                "orgId": "c90c23ae7a",
+                "orgName": "Warinet_Network"
+            }
+        }
+    },
+    {
+        "retrived_asn": "24532",
+        "as_information": {
+            "asn": "24532",
+            "rank": 5057,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "5334796065",
+                "orgName": "PT. Inet Global Indo"
+            }
+        }
+    },
+    {
+        "retrived_asn": "33437",
+        "as_information": {
+            "asn": "33437",
+            "rank": 37462,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "6e98aef772",
+                "orgName": "Hotnic LLC"
+            }
+        }
+    },
+    {
+        "retrived_asn": "35244",
+        "as_information": {
+            "asn": "35244",
+            "rank": 6969,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "7480b2b75c",
+                "orgName": "KMS-DE_AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38001",
+        "as_information": {
+            "asn": "38001",
+            "rank": 1919,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 13
+            },
+            "organization": {
+                "orgId": "c5558386e9",
+                "orgName": "NewMedia Express Pte Ltd. Singapore Web Hosting Service Provider"
+            }
+        }
+    },
+    {
+        "retrived_asn": "39912",
+        "as_information": {
+            "asn": "39912",
+            "rank": 201,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 126
+            },
+            "organization": {
+                "orgId": "b65fdd650b",
+                "orgName": "i3B - Internetbreitband GmbH"
+            }
+        }
+    },
+    {
+        "retrived_asn": "10429",
+        "as_information": {
+            "asn": "10429",
+            "rank": 117,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 115
+            },
+            "organization": {
+                "orgId": "20a52c3d40",
+                "orgName": "Telefonica Empresas SA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1257",
+        "as_information": {
+            "asn": "1257",
+            "rank": 105,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 149
+            },
+            "organization": {
+                "orgId": "870ebb998d",
+                "orgName": "TELE2"
+            }
+        }
+    },
+    {
+        "retrived_asn": "56256",
+        "as_information": {
+            "asn": "56256",
+            "rank": 37462,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "0d0ccd7a90",
+                "orgName": "Perpustakaan Nasional RI"
+            }
+        }
+    },
+    {
+        "retrived_asn": "50304",
+        "as_information": {
+            "asn": "50304",
+            "rank": 1289,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 92
+            },
+            "organization": {
+                "orgId": "3372fcef94",
+                "orgName": "BLIX"
+            }
+        }
+    },
+    {
+        "retrived_asn": "131737",
+        "as_information": {
+            "asn": "131737",
+            "rank": 37462,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": null
+        }
+    },
+    {
+        "retrived_asn": "5580",
+        "as_information": {
+            "asn": "5580",
+            "rank": 37,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 925
+            },
+            "organization": {
+                "orgId": "9284dc72ab",
+                "orgName": "Atrato Communications, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "15085",
+        "as_information": {
+            "asn": "15085",
+            "rank": 1828,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 15
+            },
+            "organization": {
+                "orgId": "cf2e6907e7",
+                "orgName": "Immedion, LLC"
+            }
+        }
+    },
+    {
+        "retrived_asn": "56260",
+        "as_information": {
+            "asn": "56260",
+            "rank": 6142,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "734259e1a7",
+                "orgName": "PT Pascal Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "30893",
+        "as_information": {
+            "asn": "30893",
+            "rank": 16617,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6
+            },
+            "organization": {
+                "orgId": "6f9c19ce4f",
+                "orgName": "Glassbilen networks"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29075",
+        "as_information": {
+            "asn": "29075",
+            "rank": 354,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 80
+            },
+            "organization": {
+                "orgId": "674b42990b",
+                "orgName": "IELO-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "12702",
+        "as_information": {
+            "asn": "12702",
+            "rank": 42959,
+            "date": "2012-11-01",
+            "cliqueMember": false,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "9bf77e0965",
+                "orgName": "MCI-dual-homed-customers"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45312",
+        "as_information": {
+            "asn": "45312",
+            "rank": 30426,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "3decd833c0",
+                "orgName": "PT MEDIA LINTAS DATA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45311",
+        "as_information": {
+            "asn": "45311",
+            "rank": 24734,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "d977d2da1e",
+                "orgName": "Qonnection Network PTE, LTD."
+            }
+        }
+    },
+    {
+        "retrived_asn": "4181",
+        "as_information": {
+            "asn": "4181",
+            "rank": 443,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 93
+            },
+            "organization": {
+                "orgId": "001b57dcb8",
+                "orgName": "TDS TELECOM"
+            }
+        }
+    },
+    {
+        "retrived_asn": "11096",
+        "as_information": {
+            "asn": "11096",
+            "rank": 334,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 71
+            },
+            "organization": {
+                "orgId": "c52dd75ee6",
+                "orgName": "FloridaNet"
+            }
+        }
+    },
+    {
+        "retrived_asn": "7018",
+        "as_information": {
+            "asn": "7018",
+            "rank": 14,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2351
+            },
+            "organization": {
+                "orgId": "e57f8a17af",
+                "orgName": "AT&T Services, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "553",
+        "as_information": {
+            "asn": "553",
+            "rank": 1247,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 55
+            },
+            "organization": {
+                "orgId": "692ad6603a",
+                "orgName": "Landeshochschulnetz Baden-Wuerttemberg (BelWue)"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2518",
+        "as_information": {
+            "asn": "2518",
+            "rank": 3148,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 9
+            },
+            "organization": {
+                "orgId": "c448133be7",
+                "orgName": "NEC BIGLOBE, Ltd."
+            }
+        }
+    },
+    {
+        "retrived_asn": "29748",
+        "as_information": {
+            "asn": "29748",
+            "rank": 1811,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 29
+            },
+            "organization": {
+                "orgId": "3b5abeac3e",
+                "orgName": "Carpathia Hosting, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "25074",
+        "as_information": {
+            "asn": "25074",
+            "rank": 350,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 132
+            },
+            "organization": {
+                "orgId": "6ff911e525",
+                "orgName": "MESH-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29636",
+        "as_information": {
+            "asn": "29636",
+            "rank": 3757,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 43
+            },
+            "organization": {
+                "orgId": "b0362f1121",
+                "orgName": "Catalyst2 Services Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "24213",
+        "as_information": {
+            "asn": "24213",
+            "rank": 982,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 15
+            },
+            "organization": {
+                "orgId": "2512a24a86",
+                "orgName": "PT. Arsen Kusuma Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "16397",
+        "as_information": {
+            "asn": "16397",
+            "rank": 301,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 92
+            },
+            "organization": {
+                "orgId": "59be89b664",
+                "orgName": "Comdominio SA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "46023",
+        "as_information": {
+            "asn": "46023",
+            "rank": 18576,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "2920e559e9",
+                "orgName": "PT Quantum Tera Network"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38510",
+        "as_information": {
+            "asn": "38510",
+            "rank": 28114,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "9a86c042c4",
+                "orgName": "KEMENTERIAN PERTANIAN REPUBLIK INDONESIA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "22822",
+        "as_information": {
+            "asn": "22822",
+            "rank": 118,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 199
+            },
+            "organization": {
+                "orgId": "a3f421fe3d",
+                "orgName": "Limelight Networks, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "26592",
+        "as_information": {
+            "asn": "26592",
+            "rank": 1202,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 20
+            },
+            "organization": {
+                "orgId": "717ffd372f",
+                "orgName": "Dominio BR Consultoria em Informatica Ltda"
+            }
+        }
+    },
+    {
+        "retrived_asn": "55665",
+        "as_information": {
+            "asn": "55665",
+            "rank": 6079,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "a4123e6da2",
+                "orgName": "PT Sampoerna Telemedia Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "22652",
+        "as_information": {
+            "asn": "22652",
+            "rank": 696,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 29
+            },
+            "organization": {
+                "orgId": "11e6e64563",
+                "orgName": "Fibrenoire Internet Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "3333",
+        "as_information": {
+            "asn": "3333",
+            "rank": 5546,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 30
+            },
+            "organization": {
+                "orgId": "c409f58291",
+                "orgName": "RIPE-NCC-RIS-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "20965",
+        "as_information": {
+            "asn": "20965",
+            "rank": 56,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 61
+            },
+            "organization": {
+                "orgId": "f46b79a10d",
+                "orgName": "The GEANT IP Service"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8468",
+        "as_information": {
+            "asn": "8468",
+            "rank": 362,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 112
+            },
+            "organization": {
+                "orgId": "c8181fa64f",
+                "orgName": "ENTANET"
+            }
+        }
+    },
+    {
+        "retrived_asn": "56237",
+        "as_information": {
+            "asn": "56237",
+            "rank": 37462,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "2f9365489b",
+                "orgName": "Universitas Lampung"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1930",
+        "as_information": {
+            "asn": "1930",
+            "rank": 2615,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 6
+            },
+            "organization": {
+                "orgId": "ef8161f9cc",
+                "orgName": "Rede Ciencia Tecnologia e Sociedade (RCTS)"
+            }
+        }
+    },
+    {
+        "retrived_asn": "44030",
+        "as_information": {
+            "asn": "44030",
+            "rank": 3792,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 11
+            },
+            "organization": {
+                "orgId": "36e530631b",
+                "orgName": "OTRADNOE-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "30781",
+        "as_information": {
+            "asn": "30781",
+            "rank": 258,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 551
+            },
+            "organization": {
+                "orgId": "86677de92e",
+                "orgName": "JAGUAR-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8607",
+        "as_information": {
+            "asn": "8607",
+            "rank": 1493,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 54
+            },
+            "organization": {
+                "orgId": "31f6f14df3",
+                "orgName": "Timico Ltd Autonomous System"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8928",
+        "as_information": {
+            "asn": "8928",
+            "rank": 26,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 642
+            },
+            "organization": {
+                "orgId": "567963e318",
+                "orgName": "INTEROUTE"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3344",
+        "as_information": {
+            "asn": "3344",
+            "rank": 2522,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 7
+            },
+            "organization": {
+                "orgId": "604105ef21",
+                "orgName": "BURSTFIRE-EU"
+            }
+        }
+    },
+    {
+        "retrived_asn": "23148",
+        "as_information": {
+            "asn": "23148",
+            "rank": 181,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 358
+            },
+            "organization": {
+                "orgId": "4d8412c6f8",
+                "orgName": "TERRENAP DATA CENTERS, INC."
+            }
+        }
+    },
+    {
+        "retrived_asn": "43531",
+        "as_information": {
+            "asn": "43531",
+            "rank": 1367,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 541
+            },
+            "organization": {
+                "orgId": "6847e9d024",
+                "orgName": "PACKETRADE-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "14537",
+        "as_information": {
+            "asn": "14537",
+            "rank": 2104,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 59
+            },
+            "organization": {
+                "orgId": "99b728b077",
+                "orgName": "Mohawk Internet Technologies"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1280",
+        "as_information": {
+            "asn": "1280",
+            "rank": 751,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 58
+            },
+            "organization": {
+                "orgId": "589f9199b0",
+                "orgName": "Level 3 Communications, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "6461",
+        "as_information": {
+            "asn": "6461",
+            "rank": 20,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1068
+            },
+            "organization": {
+                "orgId": "2106b3c0c6",
+                "orgName": "Abovenet Communications, Inc"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29076",
+        "as_information": {
+            "asn": "29076",
+            "rank": 94,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 293
+            },
+            "organization": {
+                "orgId": "2f58e77584",
+                "orgName": "Citytelecom.ru"
+            }
+        }
+    },
+    {
+        "retrived_asn": "41965",
+        "as_information": {
+            "asn": "41965",
+            "rank": 1087,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 9
+            },
+            "organization": {
+                "orgId": "3a0e283c82",
+                "orgName": "FiberNet"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2",
+        "as_information": {
+            "asn": "2",
+            "rank": 4476,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 5
+            },
+            "organization": {
+                "orgId": "e78b020629",
+                "orgName": "University of Delaware"
+            }
+        }
+    },
+    {
+        "retrived_asn": "30844",
+        "as_information": {
+            "asn": "30844",
+            "rank": 791,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 63
+            },
+            "organization": {
+                "orgId": "1744a26713",
+                "orgName": "Liquid Telecommunications Backbone"
+            }
+        }
+    },
+    {
+        "retrived_asn": "7713",
+        "as_information": {
+            "asn": "7713",
+            "rank": 115,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 194
+            },
+            "organization": {
+                "orgId": "60bdcd6b28",
+                "orgName": "PT Telekomunikasi Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38496",
+        "as_information": {
+            "asn": "38496",
+            "rank": 879,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 19
+            },
+            "organization": {
+                "orgId": "be03998c58",
+                "orgName": "PT Cyber Network Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38757",
+        "as_information": {
+            "asn": "38757",
+            "rank": 1727,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 9
+            },
+            "organization": {
+                "orgId": "07f2b53e64",
+                "orgName": "PT. Indonesia Comnets Plus"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6067",
+        "as_information": {
+            "asn": "6067",
+            "rank": 2076,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 41
+            },
+            "organization": {
+                "orgId": "568d06d310",
+                "orgName": "Onyx Internet"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29140",
+        "as_information": {
+            "asn": "29140",
+            "rank": 3663,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 31
+            },
+            "organization": {
+                "orgId": "3955c26828",
+                "orgName": "Autonomous System Hostserver GmbH"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8220",
+        "as_information": {
+            "asn": "8220",
+            "rank": 44,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 628
+            },
+            "organization": {
+                "orgId": "7529c1bee6",
+                "orgName": "COLT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38161",
+        "as_information": {
+            "asn": "38161",
+            "rank": 24734,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "7999c1cd93",
+                "orgName": "PT CORBEC COMMUNICATION"
+            }
+        }
+    },
+    {
+        "retrived_asn": "9516",
+        "as_information": {
+            "asn": "9516",
+            "rank": 30426,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "04c8df9011",
+                "orgName": "Sunflower Telecom"
+            }
+        }
+    },
+    {
+        "retrived_asn": "22691",
+        "as_information": {
+            "asn": "22691",
+            "rank": 1053,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 33
+            },
+            "organization": {
+                "orgId": "64e0f92259",
+                "orgName": "ISPnet, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "39202",
+        "as_information": {
+            "asn": "39202",
+            "rank": 14609,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "64da671a57",
+                "orgName": "GCAP-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2603",
+        "as_information": {
+            "asn": "2603",
+            "rank": 70,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 326
+            },
+            "organization": {
+                "orgId": "7f4b656051",
+                "orgName": "NORDUnet A/S"
+            }
+        }
+    },
+    {
+        "retrived_asn": "46062",
+        "as_information": {
+            "asn": "46062",
+            "rank": 5917,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "ca4a29125c",
+                "orgName": "PT. BUANA LINTAS MEDIA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "701",
+        "as_information": {
+            "asn": "701",
+            "rank": 13,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1763
+            },
+            "organization": {
+                "orgId": "5934dab83b",
+                "orgName": "MCI Communications Services, Inc. d/b/a Verizon Business"
+            }
+        }
+    },
+    {
+        "retrived_asn": "18106",
+        "as_information": {
+            "asn": "18106",
+            "rank": 2022,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 13
+            },
+            "organization": {
+                "orgId": "37510a2e31",
+                "orgName": "Viewqwest Pte Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "24538",
+        "as_information": {
+            "asn": "24538",
+            "rank": 1092,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 13
+            },
+            "organization": {
+                "orgId": "8fe7e4e09e",
+                "orgName": "DIGITAL SATELLITE INDONESIA PT."
+            }
+        }
+    },
+    {
+        "retrived_asn": "28917",
+        "as_information": {
+            "asn": "28917",
+            "rank": 93,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 201
+            },
+            "organization": {
+                "orgId": "b50e56fcef",
+                "orgName": "JSC \"TRC FIORD\""
+            }
+        }
+    },
+    {
+        "retrived_asn": "38896",
+        "as_information": {
+            "asn": "38896",
+            "rank": 5023,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3
+            },
+            "organization": {
+                "orgId": "150467e5ce",
+                "orgName": "PT. Centra Global Investama"
+            }
+        }
+    },
+    {
+        "retrived_asn": "24210",
+        "as_information": {
+            "asn": "24210",
+            "rank": 6008,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "b60791098c",
+                "orgName": "Angkasa Sarana Teknik Komunikasi PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6762",
+        "as_information": {
+            "asn": "6762",
+            "rank": 7,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 306
+            },
+            "organization": {
+                "orgId": "3a0516efbd",
+                "orgName": "SEABONE-NET"
+            }
+        }
+    },
+    {
+        "retrived_asn": "16700",
+        "as_information": {
+            "asn": "16700",
+            "rank": 4730,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 9
+            },
+            "organization": {
+                "orgId": "385d01da03",
+                "orgName": "City of Thomasville Utilities"
+            }
+        }
+    },
+    {
+        "retrived_asn": "4608",
+        "as_information": {
+            "asn": "4608",
+            "rank": 3874,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 11
+            },
+            "organization": {
+                "orgId": "48bc86e202",
+                "orgName": "Asia Pacific Network Information Centre"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38527",
+        "as_information": {
+            "asn": "38527",
+            "rank": 13371,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "e75bd9d03e",
+                "orgName": "JAWA POS NATIONAL NETWORK MEDIALINK, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29066",
+        "as_information": {
+            "asn": "29066",
+            "rank": 1673,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 55
+            },
+            "organization": {
+                "orgId": "d9056df412",
+                "orgName": "VELIANET-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1853",
+        "as_information": {
+            "asn": "1853",
+            "rank": 233,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 47
+            },
+            "organization": {
+                "orgId": "235c9486ba",
+                "orgName": "ACOnet Backbone"
+            }
+        }
+    },
+    {
+        "retrived_asn": "25560",
+        "as_information": {
+            "asn": "25560",
+            "rank": 4625,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 79
+            },
+            "organization": {
+                "orgId": "dfecfd8cce",
+                "orgName": "rh-tec IP Backbone"
+            }
+        }
+    },
+    {
+        "retrived_asn": "12350",
+        "as_information": {
+            "asn": "12350",
+            "rank": 1354,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 53
+            },
+            "organization": {
+                "orgId": "54e91668c5",
+                "orgName": "VTX-NETWORK"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45287",
+        "as_information": {
+            "asn": "45287",
+            "rank": 5532,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "03adacbf82",
+                "orgName": "Varnion Technology Semesta, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "30132",
+        "as_information": {
+            "asn": "30132",
+            "rank": 6440,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 26
+            },
+            "organization": {
+                "orgId": "2bc641b3d4",
+                "orgName": "Internet Systems Consortium, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "5396",
+        "as_information": {
+            "asn": "5396",
+            "rank": 1292,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 28
+            },
+            "organization": {
+                "orgId": "48dbf74755",
+                "orgName": "MC-LINK"
+            }
+        }
+    },
+    {
+        "retrived_asn": "14361",
+        "as_information": {
+            "asn": "14361",
+            "rank": 1790,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 41
+            },
+            "organization": {
+                "orgId": "ceae85c711",
+                "orgName": "HopOne Internet Corporation"
+            }
+        }
+    },
+    {
+        "retrived_asn": "30071",
+        "as_information": {
+            "asn": "30071",
+            "rank": 27607,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "6826973b0c",
+                "orgName": "TowardEX Technologies International, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "56248",
+        "as_information": {
+            "asn": "56248",
+            "rank": 32838,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "8c1b83645b",
+                "orgName": "PT INDAH KIAT PULP & PAPER Tbk"
+            }
+        }
+    },
+    {
+        "retrived_asn": "46044",
+        "as_information": {
+            "asn": "46044",
+            "rank": 23133,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "49c31da2ae",
+                "orgName": "Universitas Padjadjaran"
+            }
+        }
+    },
+    {
+        "retrived_asn": "7575",
+        "as_information": {
+            "asn": "7575",
+            "rank": 392,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 84
+            },
+            "organization": {
+                "orgId": "2832dfad0c",
+                "orgName": "Australian Academic and Reasearch Network (AARNet)"
+            }
+        }
+    },
+    {
+        "retrived_asn": "9002",
+        "as_information": {
+            "asn": "9002",
+            "rank": 21,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1748
+            },
+            "organization": {
+                "orgId": "7ed4b213f7",
+                "orgName": "RETN-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8167",
+        "as_information": {
+            "asn": "8167",
+            "rank": 129,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 188
+            },
+            "organization": {
+                "orgId": "4f4690f696",
+                "orgName": "TELESC - Telecomunicacoes de Santa Catarina SA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "11796",
+        "as_information": {
+            "asn": "11796",
+            "rank": 1374,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 30
+            },
+            "organization": {
+                "orgId": "cad6690ea9",
+                "orgName": "Airstream Communications, LLC"
+            }
+        }
+    },
+    {
+        "retrived_asn": "9234",
+        "as_information": {
+            "asn": "9234",
+            "rank": 23038,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "064d836700",
+                "orgName": "Sol One Application Delivery Network"
+            }
+        }
+    },
+    {
+        "retrived_asn": "50300",
+        "as_information": {
+            "asn": "50300",
+            "rank": 1619,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 56
+            },
+            "organization": {
+                "orgId": "c803dc3d58",
+                "orgName": "CUSTDC"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38755",
+        "as_information": {
+            "asn": "38755",
+            "rank": 23444,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "d272ec494c",
+                "orgName": "Biro Statistics"
+            }
+        }
+    },
+    {
+        "retrived_asn": "680",
+        "as_information": {
+            "asn": "680",
+            "rank": 553,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 80
+            },
+            "organization": {
+                "orgId": "bdfdae0f0c",
+                "orgName": "DFN"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45706",
+        "as_information": {
+            "asn": "45706",
+            "rank": 17739,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "2db6464c2b",
+                "orgName": "Tele Globe Global, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2500",
+        "as_information": {
+            "asn": "2500",
+            "rank": 1113,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 23
+            },
+            "organization": {
+                "orgId": "1c635f5a9e",
+                "orgName": "WIDE Project"
+            }
+        }
+    },
+    {
+        "retrived_asn": "9304",
+        "as_information": {
+            "asn": "9304",
+            "rank": 43,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 226
+            },
+            "organization": {
+                "orgId": "63bd8e1dfb",
+                "orgName": "Hutchison Global Communications"
+            }
+        }
+    },
+    {
+        "retrived_asn": "58494",
+        "as_information": {
+            "asn": "58494",
+            "rank": 32838,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "10f92c71f5",
+                "orgName": "PT. Cinox Media Insani"
+            }
+        }
+    },
+    {
+        "retrived_asn": "16150",
+        "as_information": {
+            "asn": "16150",
+            "rank": 299,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 111
+            },
+            "organization": {
+                "orgId": "e9f10fb850",
+                "orgName": "Port80"
+            }
+        }
+    },
+    {
+        "retrived_asn": "13030",
+        "as_information": {
+            "asn": "13030",
+            "rank": 120,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 836
+            },
+            "organization": {
+                "orgId": "937ea14429",
+                "orgName": "INIT7"
+            }
+        }
+    },
+    {
+        "retrived_asn": "55685",
+        "as_information": {
+            "asn": "55685",
+            "rank": 17134,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "10c17dfbe0",
+                "orgName": "PT Jala Lintas Media"
+            }
+        }
+    },
+    {
+        "retrived_asn": "4635",
+        "as_information": {
+            "asn": "4635",
+            "rank": 42959,
+            "date": "2012-11-01",
+            "cliqueMember": false,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "aed130d8d4",
+                "orgName": "Hong Kong Internet Exchange--Route Server 1"
+            }
+        }
+    },
+    {
+        "retrived_asn": "4761",
+        "as_information": {
+            "asn": "4761",
+            "rank": 165,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 89
+            },
+            "organization": {
+                "orgId": "bfdf5e3214",
+                "orgName": "INDOSAT Internet Network Provider"
+            }
+        }
+    },
+    {
+        "retrived_asn": "55698",
+        "as_information": {
+            "asn": "55698",
+            "rank": 42596,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "0ce2edf379",
+                "orgName": "Infomedia Nusantara PT."
+            }
+        }
+    },
+    {
+        "retrived_asn": "9462",
+        "as_information": {
+            "asn": "9462",
+            "rank": 42672,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "a70f99ee07",
+                "orgName": "BOLEHNET-ASN"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29686",
+        "as_information": {
+            "asn": "29686",
+            "rank": 2012,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 43
+            },
+            "organization": {
+                "orgId": "1ff3273922",
+                "orgName": "Probe Networks"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3330",
+        "as_information": {
+            "asn": "3330",
+            "rank": 767,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 54
+            },
+            "organization": {
+                "orgId": "103424290d",
+                "orgName": "OEBB Telekom Service GmbH"
+            }
+        }
+    },
+    {
+        "retrived_asn": "12779",
+        "as_information": {
+            "asn": "12779",
+            "rank": 622,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 74
+            },
+            "organization": {
+                "orgId": "85a61cb4dd",
+                "orgName": "ITGATE"
+            }
+        }
+    },
+    {
+        "retrived_asn": "12859",
+        "as_information": {
+            "asn": "12859",
+            "rank": 837,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 275
+            },
+            "organization": {
+                "orgId": "3bf14fd65b",
+                "orgName": "BIT BV"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45896",
+        "as_information": {
+            "asn": "45896",
+            "rank": 534,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 32
+            },
+            "organization": {
+                "orgId": "5482bd1300",
+                "orgName": "VNPT Global JSC"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38780",
+        "as_information": {
+            "asn": "38780",
+            "rank": 28114,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "8e51e3ecb1",
+                "orgName": "PT. KANALONE INDONESIA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "17884",
+        "as_information": {
+            "asn": "17884",
+            "rank": 11929,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "6f59e2f799",
+                "orgName": "PT. Uninet Media Sakti (ISP)"
+            }
+        }
+    },
+    {
+        "retrived_asn": "41095",
+        "as_information": {
+            "asn": "41095",
+            "rank": 99,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 118
+            },
+            "organization": {
+                "orgId": "e103fe0325",
+                "orgName": "IPTP"
+            }
+        }
+    },
+    {
+        "retrived_asn": "131726",
+        "as_information": {
+            "asn": "131726",
+            "rank": 37462,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "ff86704bb8",
+                "orgName": "Dishubkominfo Kota Tegal"
+            }
+        }
+    },
+    {
+        "retrived_asn": "12956",
+        "as_information": {
+            "asn": "12956",
+            "rank": 35,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 186
+            },
+            "organization": {
+                "orgId": "072b5353ae",
+                "orgName": "Telefonica Backbone Autonomous System"
+            }
+        }
+    },
+    {
+        "retrived_asn": "58552",
+        "as_information": {
+            "asn": "58552",
+            "rank": 239,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 38
+            },
+            "organization": {
+                "orgId": "91174381fc",
+                "orgName": "PT Multidata Rancana Prima"
+            }
+        }
+    },
+    {
+        "retrived_asn": "131714",
+        "as_information": {
+            "asn": "131714",
+            "rank": 23133,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "b9c6e4f1af",
+                "orgName": "CV. Pelangi Naya Putri"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29608",
+        "as_information": {
+            "asn": "29608",
+            "rank": 1510,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 23
+            },
+            "organization": {
+                "orgId": "58678d160f",
+                "orgName": "WAN2MANY-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29449",
+        "as_information": {
+            "asn": "29449",
+            "rank": 2831,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 19
+            },
+            "organization": {
+                "orgId": "285b17b310",
+                "orgName": "TopneT Telecomunicazioni S.r.L."
+            }
+        }
+    },
+    {
+        "retrived_asn": "57381",
+        "as_information": {
+            "asn": "57381",
+            "rank": 27767,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "cc5a8b6caa",
+                "orgName": "FNUTT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "56251",
+        "as_information": {
+            "asn": "56251",
+            "rank": 23444,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "c071e92806",
+                "orgName": "PT Corous Three Sixty"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1239",
+        "as_information": {
+            "asn": "1239",
+            "rank": 9,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 920
+            },
+            "organization": {
+                "orgId": "e6c559a2b2",
+                "orgName": "Sprint"
+            }
+        }
+    },
+    {
+        "retrived_asn": "50763",
+        "as_information": {
+            "asn": "50763",
+            "rank": 2545,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 35
+            },
+            "organization": {
+                "orgId": "eb2aa3cc3f",
+                "orgName": "MCKAYCOM"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3382",
+        "as_information": {
+            "asn": "3382",
+            "rank": 8023,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "a368d35c96",
+                "orgName": "University of Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "53242",
+        "as_information": {
+            "asn": "53242",
+            "rank": 11858,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": null
+        }
+    },
+    {
+        "retrived_asn": "8359",
+        "as_information": {
+            "asn": "8359",
+            "rank": 28,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 367
+            },
+            "organization": {
+                "orgId": "b94fcfc801",
+                "orgName": "MTU-INFORM"
+            }
+        }
+    },
+    {
+        "retrived_asn": "28625",
+        "as_information": {
+            "asn": "28625",
+            "rank": 248,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 33
+            },
+            "organization": {
+                "orgId": "45f2d254ef",
+                "orgName": "Terremark"
+            }
+        }
+    },
+    {
+        "retrived_asn": "23947",
+        "as_information": {
+            "asn": "23947",
+            "rank": 198,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 81
+            },
+            "organization": {
+                "orgId": "1ec6fa5eab",
+                "orgName": "PT.Mora Telematika Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "22548",
+        "as_information": {
+            "asn": "22548",
+            "rank": 1221,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 23
+            },
+            "organization": {
+                "orgId": "2336341cce",
+                "orgName": "Comite Gestor da Internet no Brasil"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38758",
+        "as_information": {
+            "asn": "38758",
+            "rank": 5080,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3
+            },
+            "organization": {
+                "orgId": "e9a0279c22",
+                "orgName": "PT. HIPERNET INDODATA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "5511",
+        "as_information": {
+            "asn": "5511",
+            "rank": 32,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 140
+            },
+            "organization": {
+                "orgId": "f1eadd50d2",
+                "orgName": "ORANGEFR-PORTAL-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "23694",
+        "as_information": {
+            "asn": "23694",
+            "rank": 15040,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "a19400b0de",
+                "orgName": "Indika Telemedia PT."
+            }
+        }
+    },
+    {
+        "retrived_asn": "24373",
+        "as_information": {
+            "asn": "24373",
+            "rank": 12126,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "c15df130a5",
+                "orgName": "VDSL NETWORK SDN BHD AS INTERNET SERVICE PROVIDER KUALA LUMPUR"
+            }
+        }
+    },
+    {
+        "retrived_asn": "4589",
+        "as_information": {
+            "asn": "4589",
+            "rank": 302,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 131
+            },
+            "organization": {
+                "orgId": "81e3925549",
+                "orgName": "Easynet Global Services"
+            }
+        }
+    },
+    {
+        "retrived_asn": "39821",
+        "as_information": {
+            "asn": "39821",
+            "rank": 13858,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "5614537f96",
+                "orgName": "CANMOS-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2516",
+        "as_information": {
+            "asn": "2516",
+            "rank": 42,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 335
+            },
+            "organization": {
+                "orgId": "d82dfe6cec",
+                "orgName": "KDDI CORPORATION"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45322",
+        "as_information": {
+            "asn": "45322",
+            "rank": 24734,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "d64c6215dd",
+                "orgName": "Indonesia Network Information Center"
+            }
+        }
+    },
+    {
+        "retrived_asn": "55663",
+        "as_information": {
+            "asn": "55663",
+            "rank": 3089,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 5
+            },
+            "organization": {
+                "orgId": "8fda0a1b5d",
+                "orgName": "PT Poros Network Nusantara"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8763",
+        "as_information": {
+            "asn": "8763",
+            "rank": 1903,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 60
+            },
+            "organization": {
+                "orgId": "3745f42667",
+                "orgName": "DENIC-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "7500",
+        "as_information": {
+            "asn": "7500",
+            "rank": 4095,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 8
+            },
+            "organization": {
+                "orgId": "f0ba1ad0a3",
+                "orgName": "WIDE Project"
+            }
+        }
+    },
+    {
+        "retrived_asn": "4637",
+        "as_information": {
+            "asn": "4637",
+            "rank": 51,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 203
+            },
+            "organization": {
+                "orgId": "30526a3045",
+                "orgName": "Telstra Global"
+            }
+        }
+    },
+    {
+        "retrived_asn": "12637",
+        "as_information": {
+            "asn": "12637",
+            "rank": 2293,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 45
+            },
+            "organization": {
+                "orgId": "bfa348bd9e",
+                "orgName": "Seeweb s.r.l."
+            }
+        }
+    },
+    {
+        "retrived_asn": "28289",
+        "as_information": {
+            "asn": "28289",
+            "rank": 5689,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 13
+            },
+            "organization": {
+                "orgId": "915e2c709f",
+                "orgName": "Americana Digital Ltda."
+            }
+        }
+    },
+    {
+        "retrived_asn": "5539",
+        "as_information": {
+            "asn": "5539",
+            "rank": 877,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 59
+            },
+            "organization": {
+                "orgId": "67f100a65e",
+                "orgName": "SpaceNET AG, Munich"
+            }
+        }
+    },
+    {
+        "retrived_asn": "31019",
+        "as_information": {
+            "asn": "31019",
+            "rank": 32358,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "1c3f404e3f",
+                "orgName": "Meanie AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "56255",
+        "as_information": {
+            "asn": "56255",
+            "rank": 30426,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "0560198126",
+                "orgName": "PT Transtech Communication Media"
+            }
+        }
+    },
+    {
+        "retrived_asn": "7843",
+        "as_information": {
+            "asn": "7843",
+            "rank": 52,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 57
+            },
+            "organization": {
+                "orgId": "07d02b6834",
+                "orgName": "Road Runner HoldCo LLC"
+            }
+        }
+    },
+    {
+        "retrived_asn": "13237",
+        "as_information": {
+            "asn": "13237",
+            "rank": 79,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 260
+            },
+            "organization": {
+                "orgId": "ae23a07272",
+                "orgName": "LAMBDANET-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6667",
+        "as_information": {
+            "asn": "6667",
+            "rank": 237,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 100
+            },
+            "organization": {
+                "orgId": "68a1d9615f",
+                "orgName": "EUNET-FINLAND"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38502",
+        "as_information": {
+            "asn": "38502",
+            "rank": 18957,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "7a778ba0a3",
+                "orgName": "PT. MULTI DATA PALEMBANG"
+            }
+        }
+    },
+    {
+        "retrived_asn": "20225",
+        "as_information": {
+            "asn": "20225",
+            "rank": 965,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 26
+            },
+            "organization": {
+                "orgId": "8c34fc2ced",
+                "orgName": "TelJet"
+            }
+        }
+    },
+    {
+        "retrived_asn": "24904",
+        "as_information": {
+            "asn": "24904",
+            "rank": 13347,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "df94d4ce42",
+                "orgName": "KWAOO"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38613",
+        "as_information": {
+            "asn": "38613",
+            "rank": 3694,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3
+            },
+            "organization": {
+                "orgId": "1c74b2905c",
+                "orgName": "PT. CIPTAMA PANCATUNGGAL,"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45728",
+        "as_information": {
+            "asn": "45728",
+            "rank": 42672,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "afe84e7bef",
+                "orgName": "Intra Abadi Teknology Semesta, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "58392",
+        "as_information": {
+            "asn": "58392",
+            "rank": 26545,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "9dde70b7e2",
+                "orgName": "PT. Sewiwi Indonesia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6360",
+        "as_information": {
+            "asn": "6360",
+            "rank": 2253,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 9
+            },
+            "organization": {
+                "orgId": "db534a4a2a",
+                "orgName": "University of Hawaii"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45770",
+        "as_information": {
+            "asn": "45770",
+            "rank": 32838,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "3817ac620f",
+                "orgName": "Bagian Bina Program - Pemerintah Kota Surabaya"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45721",
+        "as_information": {
+            "asn": "45721",
+            "rank": 37462,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "394110787c",
+                "orgName": "Varnion Technology Semesta, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "53070",
+        "as_information": {
+            "asn": "53070",
+            "rank": 5189,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 16
+            },
+            "organization": null
+        }
+    },
+    {
+        "retrived_asn": "5769",
+        "as_information": {
+            "asn": "5769",
+            "rank": 519,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 97
+            },
+            "organization": {
+                "orgId": "f0bbe9d4fe",
+                "orgName": "Videotron Telecom Ltee"
+            }
+        }
+    },
+    {
+        "retrived_asn": "28859",
+        "as_information": {
+            "asn": "28859",
+            "rank": 5255,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 10
+            },
+            "organization": {
+                "orgId": "54c0d56648",
+                "orgName": "ZUGERNET-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "19895",
+        "as_information": {
+            "asn": "19895",
+            "rank": 4105,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "a65904c6c7",
+                "orgName": "WV FIBER"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3257",
+        "as_information": {
+            "asn": "3257",
+            "rank": 3,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 974
+            },
+            "organization": {
+                "orgId": "869a27b996",
+                "orgName": "Tinet SpA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "19754",
+        "as_information": {
+            "asn": "19754",
+            "rank": 17597,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "d97afc9b60",
+                "orgName": "LiveAir Networks"
+            }
+        }
+    },
+    {
+        "retrived_asn": "24535",
+        "as_information": {
+            "asn": "24535",
+            "rank": 887,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 16
+            },
+            "organization": {
+                "orgId": "c86b87ab00",
+                "orgName": "PT.Insan Sarana Telematika"
+            }
+        }
+    },
+    {
+        "retrived_asn": "5568",
+        "as_information": {
+            "asn": "5568",
+            "rank": 548,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 387
+            },
+            "organization": {
+                "orgId": "39a9eb4595",
+                "orgName": "RBNet"
+            }
+        }
+    },
+    {
+        "retrived_asn": "34695",
+        "as_information": {
+            "asn": "34695",
+            "rank": 1187,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 79
+            },
+            "organization": {
+                "orgId": "a99d29d785",
+                "orgName": "E4A-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "262757",
+        "as_information": {
+            "asn": "262757",
+            "rank": 11859,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": null
+        }
+    },
+    {
+        "retrived_asn": "4777",
+        "as_information": {
+            "asn": "4777",
+            "rank": 6394,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3
+            },
+            "organization": {
+                "orgId": "7469f88c28",
+                "orgName": "Asia Pacific Network Information Centre"
+            }
+        }
+    },
+    {
+        "retrived_asn": "25160",
+        "as_information": {
+            "asn": "25160",
+            "rank": 13644,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "5c5b414233",
+                "orgName": "VORBOSS_AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6772",
+        "as_information": {
+            "asn": "6772",
+            "rank": 1627,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 23
+            },
+            "organization": {
+                "orgId": "a657db7aa7",
+                "orgName": "ImproWare Network Services"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1836",
+        "as_information": {
+            "asn": "1836",
+            "rank": 601,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 56
+            },
+            "organization": {
+                "orgId": "0adac1ec9e",
+                "orgName": "green.ch AG Autonomous System"
+            }
+        }
+    },
+    {
+        "retrived_asn": "131717",
+        "as_information": {
+            "asn": "131717",
+            "rank": 6133,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "0fb295a46e",
+                "orgName": "PT Citra Jelajah Informatika"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6881",
+        "as_information": {
+            "asn": "6881",
+            "rank": 2733,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 11
+            },
+            "organization": {
+                "orgId": "7147c1e852",
+                "orgName": "NIXCZ-RS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "13703",
+        "as_information": {
+            "asn": "13703",
+            "rank": 4646,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 5
+            },
+            "organization": {
+                "orgId": "5f6beeb99b",
+                "orgName": "BroadRiver Communication Corp."
+            }
+        }
+    },
+    {
+        "retrived_asn": "12714",
+        "as_information": {
+            "asn": "12714",
+            "rank": 241,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 30
+            },
+            "organization": {
+                "orgId": "b136e087c7",
+                "orgName": "TI-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2852",
+        "as_information": {
+            "asn": "2852",
+            "rank": 1747,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 139
+            },
+            "organization": {
+                "orgId": "ff4dbac5dd",
+                "orgName": "CESNET, z.s.p.o."
+            }
+        }
+    },
+    {
+        "retrived_asn": "17769",
+        "as_information": {
+            "asn": "17769",
+            "rank": 16992,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "f8c67b6982",
+                "orgName": "PT Indopratama Teleglobal (ISP)Wisma BSG Floor 6"
+            }
+        }
+    },
+    {
+        "retrived_asn": "7781",
+        "as_information": {
+            "asn": "7781",
+            "rank": 10685,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "19402e7e6a",
+                "orgName": "Network Connection"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38165",
+        "as_information": {
+            "asn": "38165",
+            "rank": 21124,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "ee162f7800",
+                "orgName": "PT. AMBHARA DUTA SHANTI"
+            }
+        }
+    },
+    {
+        "retrived_asn": "45698",
+        "as_information": {
+            "asn": "45698",
+            "rank": 37462,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "a3fe5d0cc8",
+                "orgName": "Bonet Utama, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8657",
+        "as_information": {
+            "asn": "8657",
+            "rank": 149,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 448
+            },
+            "organization": {
+                "orgId": "c0f7c016c8",
+                "orgName": "CPRM Autonomous System"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3356",
+        "as_information": {
+            "asn": "3356",
+            "rank": 1,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3532
+            },
+            "organization": {
+                "orgId": "589f9199b0",
+                "orgName": "Level 3 Communications, Inc."
+            }
+        }
+    },
+    {
+        "retrived_asn": "58477",
+        "as_information": {
+            "asn": "58477",
+            "rank": 5154,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "c0e5b6c096",
+                "orgName": "Argon Data Communication"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3267",
+        "as_information": {
+            "asn": "3267",
+            "rank": 107,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 223
+            },
+            "organization": {
+                "orgId": "5f59a6741b",
+                "orgName": "RUNNET"
+            }
+        }
+    },
+    {
+        "retrived_asn": "29404",
+        "as_information": {
+            "asn": "29404",
+            "rank": 5123,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 26
+            },
+            "organization": {
+                "orgId": "d0c1c71c90",
+                "orgName": "ELBRACHT Autonomous System"
+            }
+        }
+    },
+    {
+        "retrived_asn": "16559",
+        "as_information": {
+            "asn": "16559",
+            "rank": 4810,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 16
+            },
+            "organization": {
+                "orgId": "34806cc0b2",
+                "orgName": "RealConnect, Inc"
+            }
+        }
+    },
+    {
+        "retrived_asn": "58485",
+        "as_information": {
+            "asn": "58485",
+            "rank": 6278,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "96837e10c2",
+                "orgName": "Wifian Solution PT."
+            }
+        }
+    },
+    {
+        "retrived_asn": "286",
+        "as_information": {
+            "asn": "286",
+            "rank": 39,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 323
+            },
+            "organization": {
+                "orgId": "b951f6dbe8",
+                "orgName": "KPN Internet Backbone"
+            }
+        }
+    },
+    {
+        "retrived_asn": "46017",
+        "as_information": {
+            "asn": "46017",
+            "rank": 37462,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "91972b7013",
+                "orgName": "Badan Koordinasi Survei dan Pemetaan Nasional (BAKOSURTANAL)"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8365",
+        "as_information": {
+            "asn": "8365",
+            "rank": 2236,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 65
+            },
+            "organization": {
+                "orgId": "8872dbe43b",
+                "orgName": "MANDA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "31463",
+        "as_information": {
+            "asn": "31463",
+            "rank": 2420,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 16
+            },
+            "organization": {
+                "orgId": "18d72dbdb3",
+                "orgName": "FourD-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38753",
+        "as_information": {
+            "asn": "38753",
+            "rank": 1943,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 7
+            },
+            "organization": {
+                "orgId": "b7af4bc00c",
+                "orgName": "Solusindo Intan Pratama , PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "35369",
+        "as_information": {
+            "asn": "35369",
+            "rank": 2741,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 14
+            },
+            "organization": {
+                "orgId": "79b3decebd",
+                "orgName": "LAGIS-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "43893",
+        "as_information": {
+            "asn": "43893",
+            "rank": 13874,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "278b52282a",
+                "orgName": "MAINLOOP-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "5385",
+        "as_information": {
+            "asn": "5385",
+            "rank": 1810,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 22
+            },
+            "organization": {
+                "orgId": "bbf48c0d60",
+                "orgName": "TELEPORT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "11537",
+        "as_information": {
+            "asn": "11537",
+            "rank": 41,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 83
+            },
+            "organization": {
+                "orgId": "7bef875395",
+                "orgName": "Internet2"
+            }
+        }
+    },
+    {
+        "retrived_asn": "18004",
+        "as_information": {
+            "asn": "18004",
+            "rank": 9704,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "bdc7bc55e7",
+                "orgName": "WIRELESSNET AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "31133",
+        "as_information": {
+            "asn": "31133",
+            "rank": 27,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 892
+            },
+            "organization": {
+                "orgId": "4da2133fe5",
+                "orgName": "OJSC MegaFon"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6079",
+        "as_information": {
+            "asn": "6079",
+            "rank": 413,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 61
+            },
+            "organization": {
+                "orgId": "6fb8798ee3",
+                "orgName": "RCN Corporation"
+            }
+        }
+    },
+    {
+        "retrived_asn": "48039",
+        "as_information": {
+            "asn": "48039",
+            "rank": 1540,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 43
+            },
+            "organization": {
+                "orgId": "cd9a325751",
+                "orgName": "KGT-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "7473",
+        "as_information": {
+            "asn": "7473",
+            "rank": 24,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 176
+            },
+            "organization": {
+                "orgId": "fcfb4a8cae",
+                "orgName": "Singapore Telecommunications Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "25973",
+        "as_information": {
+            "asn": "25973",
+            "rank": 144,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 94
+            },
+            "organization": {
+                "orgId": "9070fc036d",
+                "orgName": "PacketExchange, Inc"
+            }
+        }
+    },
+    {
+        "retrived_asn": "19151",
+        "as_information": {
+            "asn": "19151",
+            "rank": 71,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 1024
+            },
+            "organization": {
+                "orgId": "a65904c6c7",
+                "orgName": "WV FIBER"
+            }
+        }
+    },
+    {
+        "retrived_asn": "20640",
+        "as_information": {
+            "asn": "20640",
+            "rank": 8889,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "adf4a61314",
+                "orgName": "Titan Networks Internet & Telecommunications"
+            }
+        }
+    },
+    {
+        "retrived_asn": "5413",
+        "as_information": {
+            "asn": "5413",
+            "rank": 750,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 65
+            },
+            "organization": {
+                "orgId": "d0aebdd7a6",
+                "orgName": "AS5482"
+            }
+        }
+    },
+    {
+        "retrived_asn": "703",
+        "as_information": {
+            "asn": "703",
+            "rank": 85,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 159
+            },
+            "organization": {
+                "orgId": "5934dab83b",
+                "orgName": "MCI Communications Services, Inc. d/b/a Verizon Business"
+            }
+        }
+    },
+    {
+        "retrived_asn": "55670",
+        "as_information": {
+            "asn": "55670",
+            "rank": 6074,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 3
+            },
+            "organization": {
+                "orgId": "a4d1172289",
+                "orgName": "PT. Universal Broadband"
+            }
+        }
+    },
+    {
+        "retrived_asn": "48285",
+        "as_information": {
+            "asn": "48285",
+            "rank": 16953,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "17f124bca0",
+                "orgName": "ROBTEX-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "12989",
+        "as_information": {
+            "asn": "12989",
+            "rank": 57,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 469
+            },
+            "organization": {
+                "orgId": "50cb37c28c",
+                "orgName": "EWEKA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "58482",
+        "as_information": {
+            "asn": "58482",
+            "rank": 23133,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "a676f6fd5b",
+                "orgName": "PT PALAPA MEDIA INDONESIA"
+            }
+        }
+    },
+    {
+        "retrived_asn": "18364",
+        "as_information": {
+            "asn": "18364",
+            "rank": 2543,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 7
+            },
+            "organization": {
+                "orgId": "24a66153d8",
+                "orgName": "PT Quasar Jaringan Mandiri"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38278",
+        "as_information": {
+            "asn": "38278",
+            "rank": 5712,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "43bde6b34b",
+                "orgName": "VTelecoms Berhad - Metro Ethernet LL and Internet Service Provider, Malaysia"
+            }
+        }
+    },
+    {
+        "retrived_asn": "4739",
+        "as_information": {
+            "asn": "4739",
+            "rank": 328,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 101
+            },
+            "organization": {
+                "orgId": "085809762d",
+                "orgName": "Internode Pty Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "3320",
+        "as_information": {
+            "asn": "3320",
+            "rank": 17,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 547
+            },
+            "organization": {
+                "orgId": "4dab850689",
+                "orgName": "Deutsche Telekom AG"
+            }
+        }
+    },
+    {
+        "retrived_asn": "20080",
+        "as_information": {
+            "asn": "20080",
+            "rank": 333,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 61
+            },
+            "organization": {
+                "orgId": "2e5d990b42",
+                "orgName": "Florida International University"
+            }
+        }
+    },
+    {
+        "retrived_asn": "5431",
+        "as_information": {
+            "asn": "5431",
+            "rank": 4905,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 4
+            },
+            "organization": {
+                "orgId": "5b0379aabf",
+                "orgName": "YARSU-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "11427",
+        "as_information": {
+            "asn": "11427",
+            "rank": 243,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 77
+            },
+            "organization": {
+                "orgId": "07d02b6834",
+                "orgName": "Road Runner HoldCo LLC"
+            }
+        }
+    },
+    {
+        "retrived_asn": "132104",
+        "as_information": {
+            "asn": "132104",
+            "rank": 23444,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "257929a50d",
+                "orgName": "No 3, Jalan SS6/3, Kelana Jaya"
+            }
+        }
+    },
+    {
+        "retrived_asn": "1221",
+        "as_information": {
+            "asn": "1221",
+            "rank": 136,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 168
+            },
+            "organization": {
+                "orgId": "a4524f52f5",
+                "orgName": "Telstra Pty Ltd"
+            }
+        }
+    },
+    {
+        "retrived_asn": "8758",
+        "as_information": {
+            "asn": "8758",
+            "rank": 1539,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 19
+            },
+            "organization": {
+                "orgId": "d622719641",
+                "orgName": "IWAY"
+            }
+        }
+    },
+    {
+        "retrived_asn": "2152",
+        "as_information": {
+            "asn": "2152",
+            "rank": 199,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 86
+            },
+            "organization": {
+                "orgId": "0c46cc8b27",
+                "orgName": "California State University Network"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38518",
+        "as_information": {
+            "asn": "38518",
+            "rank": 5773,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 2
+            },
+            "organization": {
+                "orgId": "860275a1dd",
+                "orgName": "Lintas Wave Network Solution, PT."
+            }
+        }
+    },
+    {
+        "retrived_asn": "53175",
+        "as_information": {
+            "asn": "53175",
+            "rank": 11859,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": null
+        }
+    },
+    {
+        "retrived_asn": "702",
+        "as_information": {
+            "asn": "702",
+            "rank": 31,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 426
+            },
+            "organization": {
+                "orgId": "5934dab83b",
+                "orgName": "MCI Communications Services, Inc. d/b/a Verizon Business"
+            }
+        }
+    },
+    {
+        "retrived_asn": "25091",
+        "as_information": {
+            "asn": "25091",
+            "rank": 1567,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 25
+            },
+            "organization": {
+                "orgId": "a86cbdc6b7",
+                "orgName": "IP-MAX"
+            }
+        }
+    },
+    {
+        "retrived_asn": "15576",
+        "as_information": {
+            "asn": "15576",
+            "rank": 577,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 43
+            },
+            "organization": {
+                "orgId": "7b98a947c8",
+                "orgName": "NTS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "26615",
+        "as_information": {
+            "asn": "26615",
+            "rank": 63,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 119
+            },
+            "organization": {
+                "orgId": "ae4e6d63c4",
+                "orgName": "Tim Celular S.A."
+            }
+        }
+    },
+    {
+        "retrived_asn": "45707",
+        "as_information": {
+            "asn": "45707",
+            "rank": 17102,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "ad9c6e5043",
+                "orgName": "Prime Link Communication, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6830",
+        "as_information": {
+            "asn": "6830",
+            "rank": 46,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 609
+            },
+            "organization": {
+                "orgId": "5f25607ca3",
+                "orgName": "Liberty Global Operations BV"
+            }
+        }
+    },
+    {
+        "retrived_asn": "51185",
+        "as_information": {
+            "asn": "51185",
+            "rank": 18520,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "bae00bcf08",
+                "orgName": "MAINSOFT-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "46032",
+        "as_information": {
+            "asn": "46032",
+            "rank": 27153,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "32f697d28d",
+                "orgName": "Fastel Sarana Indonesia PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "35054",
+        "as_information": {
+            "asn": "35054",
+            "rank": 21105,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "0d4d4c02c9",
+                "orgName": "EQUINIX-CH-ASN"
+            }
+        }
+    },
+    {
+        "retrived_asn": "6453",
+        "as_information": {
+            "asn": "6453",
+            "rank": 8,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 722
+            },
+            "organization": {
+                "orgId": "7f2ef6c695",
+                "orgName": "Tata Communications"
+            }
+        }
+    },
+    {
+        "retrived_asn": "25512",
+        "as_information": {
+            "asn": "25512",
+            "rank": 606,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 41
+            },
+            "organization": {
+                "orgId": "9a775cff7d",
+                "orgName": "CDT-AS"
+            }
+        }
+    },
+    {
+        "retrived_asn": "12874",
+        "as_information": {
+            "asn": "12874",
+            "rank": 72,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 443
+            },
+            "organization": {
+                "orgId": "b98953841d",
+                "orgName": "FASTWEB"
+            }
+        }
+    },
+    {
+        "retrived_asn": "19214",
+        "as_information": {
+            "asn": "19214",
+            "rank": 1925,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 9
+            },
+            "organization": {
+                "orgId": "9693993e2a",
+                "orgName": "Centauri Communications"
+            }
+        }
+    },
+    {
+        "retrived_asn": "7660",
+        "as_information": {
+            "asn": "7660",
+            "rank": 1110,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 248
+            },
+            "organization": {
+                "orgId": "400674ddf5",
+                "orgName": "Asia Pacific Advanced Network - Japan"
+            }
+        }
+    },
+    {
+        "retrived_asn": "38155",
+        "as_information": {
+            "asn": "38155",
+            "rank": 17108,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 0
+            },
+            "organization": {
+                "orgId": "12a98f0061",
+                "orgName": "Audianet Sentra Data, PT"
+            }
+        }
+    },
+    {
+        "retrived_asn": "56247",
+        "as_information": {
+            "asn": "56247",
+            "rank": 928,
+            "date": "2012-11-01",
+            "cliqueMember": true,
+            "asnDegree": {
+                "transit": 16
+            },
+            "organization": {
+                "orgId": "f53ff859e4",
+                "orgName": "Intelex Group"
+            }
+        }
+    }
+]

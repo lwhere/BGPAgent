@@ -1,0 +1,38 @@
+目前只统计llama3 8b的结果
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0721/cache/llama3+asrank.pl.json
+ASRank Inferences - Correct: 663, Total: 1316, Accuracy: 0.50
+In asrank, there are 559 p2p links,1401 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 2376, Total: 4696, Accuracy: 0.51
+In llama3, there are 4837 p2p links,3531 p2c links and 358 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0721/cache/llama3_clique+transit_as_path_s2s.json
+Llama3-8b-8192 Inferences - Correct: 2486, Total: 4662, Accuracy: 0.53
+In llama3, there are 4582 p2p links,4352 p2c links and 259 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0721/cache/llama3_pure_as_path_s2s.json
+Llama3-8b-8192 Inferences - Correct: 2888, Total: 5060, Accuracy: 0.57
+In llama3, there are 4792 p2p links,4458 p2c links and 115 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0722/cache/llama3_20190606_case_study_all_question_p2c.json
+ASRank Inferences - Correct: 1277, Total: 2000, Accuracy: 0.64
+In asrank, there are 1113 p2p links,3769 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 1586, Total: 2553, Accuracy: 0.62
+In llama3, there are 3531 p2p links,3539 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0722/cache/llama3+asrank.pl.json
+ASRank Inferences - Correct: 4, Total: 9, Accuracy: 0.44
+In asrank, there are 3 p2p links,7 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 0, Total: 4, Accuracy: 0.00
+In llama3, there are 8 p2p links,2 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0722/cache/llama3_clique+transit_series_p2c.json
+ASRank Inferences - Correct: 20, Total: 50, Accuracy: 0.40
+In asrank, there are 38 p2p links,106 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 29, Total: 59, Accuracy: 0.49
+In llama3, there are 144 p2p links,89 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/cache/llama3_20190606_case_study_all_question_p2c.json
+ASRank Inferences - Correct: 1401, Total: 2226, Accuracy: 0.63
+In asrank, there are 1238 p2p links,4223 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 1882, Total: 3053, Accuracy: 0.62
+In llama3, there are 4129 p2p links,4284 p2c links and 0 s2s links.

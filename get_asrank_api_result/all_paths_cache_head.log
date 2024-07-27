@@ -1,0 +1,29 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/data_analysis/get_asrank_api_latest_result.py", line 88, in <module>
+    as_information_list = asyncio.run(main(input_path))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/data_analysis/get_asrank_api_latest_result.py", line 69, in main
+    as_numbers = read_as_numbers(input_path)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/data_analysis/get_asrank_api_latest_result.py", line 52, in read_as_numbers
+    data = json.load(file)
+           ^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 1000003 column 1 (char 32959543)

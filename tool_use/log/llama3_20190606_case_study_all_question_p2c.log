@@ -1,0 +1,29 @@
+nohup: ignoring input
+  0%|          | 0/1284 [00:00<?, ?it/s]  0%|          | 1/1284 [00:35<12:46:06, 35.83s/it]  0%|          | 2/1284 [01:14<13:17:21, 37.32s/it]  0%|          | 3/1284 [01:47<12:36:21, 35.43s/it]  0%|          | 4/1284 [02:22<12:33:03, 35.30s/it]  0%|          | 4/1284 [02:31<13:30:34, 38.00s/it]
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 347, in <module>
+    main(input_file_path, cache_path, asrank_api_result_path, model_series)
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 295, in main
+    llm_user_content = get_llm_user_content(f"{question_type_dict['add_clique_question']}.As path:{as_path}.Knowned clique member includes 174 209 286 701 1239 1299 2828 2914 3257 3320 3356 3491 5511 6453 6461 6762 6830 7018 12956.", model_series)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 115, in get_llm_user_content
+    llama3_70b_value = get_client_chat_completion_value(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 30, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 53, in get_client_chat_completion_value
+    chat_completion = client.chat.completions.create(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/resources/chat/completions.py", line 289, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 920, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1018, in _request
+    raise self._make_status_error_from_response(err.response) from None
+groq.InternalServerError: Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}

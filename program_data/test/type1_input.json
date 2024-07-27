@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Given the path 1239 3356 9002 6846, transmission degree 989 3276 2318 33, clique members 1239 3356, VP as 1239 3356 9002, what can be inferred about their relationship?"
+    },
+    {
+        "question": "Given 15169 as part of VP, 36040 as a stub AS, and the path 15169 6432 36040, what can be inferred about their relationship?"
+    },
+    {
+        "question": "Given the path 1239 721 27065, and 1239 > 721, transmission degree 721 < 27065, but there exists a path ending with 721 27065, what can be inferred about their relationship?"
+    },
+    {
+        "question": "Given 1239 as a clique member, 13395 as a stub AS, and the existence of the AS path 1239 13395, what can be inferred about their relationship?"
+    }
+]

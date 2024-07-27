@@ -1,0 +1,9 @@
+import re
+
+text = "4134 (China Telecom) and 174 (Cogent), AS174 (Cogent) and AS4134 (China Telecom), AS1234 (ExampleNet) & 5678 (ExampleOrg)"
+pattern = r'(?:AS)?(\d+)\s*\((.*?)\)\s*(?:and|&|,)\s*(?:AS)?(\d+)\s*\((.*?)\)'
+
+matches = re.findall(pattern, text)
+for match in matches:
+    print(f"ASN1: {match[0]}, Organization 1: {match[1]}")
+    print(f"ASN2: {match[2]}, Organization 2: {match[3]}")
