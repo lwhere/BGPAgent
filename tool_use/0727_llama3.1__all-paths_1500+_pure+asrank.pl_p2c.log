@@ -1,0 +1,78 @@
+nohup: ignoring input
+  0%|          | 0/5000 [00:00<?, ?it/s] 30%|███       | 1501/5000 [00:06<00:16, 218.32it/s] 30%|███       | 1501/5000 [00:20<00:16, 218.32it/s] 30%|███       | 1504/5000 [00:25<01:18, 44.29it/s]  30%|███       | 1505/5000 [00:32<01:51, 31.45it/s] 30%|███       | 1505/5000 [00:50<01:51, 31.45it/s] 30%|███       | 1508/5000 [00:54<04:18, 13.52it/s] 30%|███       | 1509/5000 [01:01<05:18, 10.95it/s] 30%|███       | 1509/5000 [01:20<05:18, 10.95it/s] 30%|███       | 1512/5000 [01:26<10:54,  5.33it/s] 30%|███       | 1513/5000 [01:33<13:15,  4.38it/s] 30%|███       | 1513/5000 [01:50<13:15,  4.38it/s] 30%|███       | 1515/5000 [01:51<21:09,  2.75it/s] 30%|███       | 1516/5000 [02:02<27:27,  2.11it/s] 30%|███       | 1517/5000 [02:12<35:58,  1.61it/s] 30%|███       | 1518/5000 [02:21<47:05,  1.23it/s] 30%|███       | 1518/5000 [02:40<47:05,  1.23it/s] 30%|███       | 1520/5000 [02:42<1:19:51,  1.38s/it] 30%|███       | 1521/5000 [02:54<1:43:01,  1.78s/it] 30%|███       | 1522/5000 [03:04<2:09:07,  2.23s/it] 30%|███       | 1523/5000 [03:15<2:43:23,  2.82s/it] 30%|███       | 1524/5000 [03:25<3:25:21,  3.54s/it] 30%|███       | 1525/5000 [03:33<3:54:15,  4.04s/it] 30%|███       | 1525/5000 [03:50<3:54:15,  4.04s/it] 31%|███       | 1527/5000 [03:51<5:06:09,  5.29s/it] 31%|███       | 1528/5000 [21:40<160:21:33, 166.27s/it] 31%|███       | 1529/5000 [52:20<447:12:48, 463.83s/it] 31%|███       | 1530/5000 [1:07:12<530:34:04, 550.45s/it] 31%|███       | 1531/5000 [1:26:35<662:54:28, 687.94s/it] 31%|███       | 1532/5000 [2:14:27<1173:24:21, 1218.07s/it] 31%|███       | 1533/5000 [2:53:04<1445:38:14, 1501.09s/it] 31%|███       | 1534/5000 [3:07:45<1284:41:54, 1334.37s/it] 31%|███       | 1535/5000 [3:25:00<1204:19:14, 1251.24s/it] 31%|███       | 1536/5000 [3:38:53<1089:32:57, 1132.33s/it] 31%|███       | 1537/5000 [3:53:41<1021:30:38, 1061.92s/it] 31%|███       | 1538/5000 [4:13:24<1055:16:42, 1097.34s/it] 31%|███       | 1539/5000 [4:29:27<1016:51:14, 1057.69s/it] 31%|███       | 1540/5000 [5:13:44<1471:35:50, 1531.14s/it] 31%|███       | 1541/5000 [5:28:11<1281:35:12, 1333.83s/it] 31%|███       | 1542/5000 [5:42:32<1145:48:22, 1192.86s/it] 31%|███       | 1543/5000 [6:47:31<1921:31:27, 2001.01s/it] 31%|███       | 1543/5000 [7:05:30<15:53:20, 16.55s/it]    
+Rate limit reached. Retrying in 143.347359375 seconds.
+Rate limit reached. Retrying in 449.194375 seconds.
+Rate limit reached. Retrying in 464.800671875 seconds.
+Rate limit reached. Retrying in 974.031765624 seconds.
+Rate limit reached. Retrying in 857.86578125 seconds.
+Rate limit reached. Retrying in 444.81765625 seconds.
+Rate limit reached. Retrying in 437.559039062 seconds.
+Rate limit reached. Retrying in 470.802664062 seconds.
+Rate limit reached. Retrying in 680.855164062 seconds.
+Rate limit reached. Retrying in 982.07778125 seconds.
+Rate limit reached. Retrying in 1006.606929687 seconds.
+Rate limit reached. Retrying in 450.872554687 seconds.
+Rate limit reached. Retrying in 379.699851562 seconds.
+Rate limit reached. Retrying in 1099.39290625 seconds.
+Rate limit reached. Retrying in 636.816945312 seconds.
+Rate limit reached. Retrying in 573.139882812 seconds.
+Rate limit reached. Retrying in 400.882617187 seconds.
+Rate limit reached. Retrying in 466.041945312 seconds.
+Rate limit reached. Retrying in 432.4910625 seconds.
+Rate limit reached. Retrying in 558.2194453120001 seconds.
+Rate limit reached. Retrying in 384.185484375 seconds.
+Rate limit reached. Retrying in 438.960039062 seconds.
+Rate limit reached. Retrying in 447.984554687 seconds.
+Rate limit reached. Retrying in 431.5430625 seconds.
+Rate limit reached. Retrying in 639.266484375 seconds.
+Rate limit reached. Retrying in 536.991632812 seconds.
+Rate limit reached. Retrying in 454.524171875 seconds.
+Rate limit reached. Retrying in 500.31275 seconds.
+Rate limit reached. Retrying in 1694.710984375 seconds.
+Rate limit reached. Retrying in 954.916734375 seconds.
+Rate limit reached. Retrying in 357.711882812 seconds.
+Rate limit reached. Retrying in 428.426164062 seconds.
+Rate limit reached. Retrying in 439.490039062 seconds.
+Rate limit reached. Retrying in 413.438210937 seconds.
+Rate limit reached. Retrying in 1080.529875 seconds.
+Rate limit reached. Retrying in 1108.046421875 seconds.
+Rate limit reached. Retrying in 464.16140625 seconds.
+Rate limit reached. Retrying in 394.927804687 seconds.
+Rate limit reached. Retrying in 505.666828125 seconds.
+Rate limit reached. Retrying in 335.972171875 seconds.
+Rate limit reached. Retrying in 1075.191617187 seconds.
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 36, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 87, in get_client_chat_completion_value
+    chat_completion = client.chat.completions.create(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/resources/chat/completions.py", line 289, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 920, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1018, in _request
+    raise self._make_status_error_from_response(err.response) from None
+groq.BadRequestError: Error code: 400 - {'error': {'message': 'Organization has been restricted. Please reach out to support if you believe this was in error.', 'type': 'invalid_request_error', 'code': 'organization_restricted'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 437, in <module>
+    main(input_file_path, cache_path, asrank_api_result_path, model_series)
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 376, in main
+    llm_user_content = get_llm_user_content(f"{pure_as_path_question}{as_path}.", model_series)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 174, in get_llm_user_content
+    llama3_1_8b_value = get_client_chat_completion_value(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 72, in wrapper
+    except e:
+           ^
+UnboundLocalError: cannot access local variable 'e' where it is not associated with a value

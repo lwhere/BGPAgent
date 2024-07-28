@@ -1,0 +1,78 @@
+nohup: ignoring input
+  0%|          | 0/5000 [00:00<?, ?it/s] 20%|██        | 1001/5000 [00:06<00:26, 150.85it/s] 20%|██        | 1001/5000 [00:19<00:26, 150.85it/s] 20%|██        | 1003/5000 [00:21<01:53, 35.31it/s]  20%|██        | 1004/5000 [00:27<02:40, 24.90it/s] 20%|██        | 1004/5000 [00:40<02:40, 24.90it/s] 20%|██        | 1006/5000 [00:40<05:09, 12.88it/s] 20%|██        | 1007/5000 [00:47<06:51,  9.71it/s] 20%|██        | 1007/5000 [01:00<06:51,  9.71it/s] 20%|██        | 1009/5000 [01:01<12:14,  5.43it/s] 20%|██        | 1010/5000 [01:07<15:26,  4.31it/s] 20%|██        | 1010/5000 [01:20<15:26,  4.31it/s] 20%|██        | 1012/5000 [01:20<25:19,  2.62it/s] 20%|██        | 1013/5000 [01:27<32:11,  2.06it/s] 20%|██        | 1013/5000 [01:40<32:11,  2.06it/s] 20%|██        | 1015/5000 [01:43<53:12,  1.25it/s] 20%|██        | 1016/5000 [01:49<1:05:12,  1.02it/s] 20%|██        | 1017/5000 [01:57<1:24:22,  1.27s/it] 20%|██        | 1018/5000 [02:04<1:44:15,  1.57s/it] 20%|██        | 1019/5000 [02:11<2:11:57,  1.99s/it] 20%|██        | 1020/5000 [02:19<2:53:19,  2.61s/it] 20%|██        | 1021/5000 [02:26<3:23:41,  3.07s/it] 20%|██        | 1022/5000 [02:32<3:53:21,  3.52s/it] 20%|██        | 1023/5000 [02:39<4:27:41,  4.04s/it] 20%|██        | 1024/5000 [02:45<5:01:03,  4.54s/it] 20%|██        | 1025/5000 [02:51<5:20:51,  4.84s/it] 21%|██        | 1026/5000 [02:58<5:52:25,  5.32s/it] 21%|██        | 1027/5000 [03:07<7:02:01,  6.37s/it] 21%|██        | 1028/5000 [03:14<7:16:49,  6.60s/it] 21%|██        | 1029/5000 [03:21<7:12:21,  6.53s/it] 21%|██        | 1030/5000 [03:28<7:15:14,  6.58s/it] 21%|██        | 1031/5000 [03:35<7:30:18,  6.81s/it] 21%|██        | 1032/5000 [03:44<8:06:43,  7.36s/it] 21%|██        | 1033/5000 [03:50<7:52:45,  7.15s/it] 21%|██        | 1034/5000 [03:57<7:38:37,  6.94s/it] 21%|██        | 1035/5000 [04:04<7:48:50,  7.09s/it] 21%|██        | 1036/5000 [04:11<7:52:13,  7.15s/it] 21%|██        | 1037/5000 [04:18<7:39:41,  6.96s/it] 21%|██        | 1038/5000 [04:24<7:30:00,  6.81s/it] 21%|██        | 1039/5000 [04:31<7:32:51,  6.86s/it] 21%|██        | 1040/5000 [04:42<8:52:24,  8.07s/it] 21%|██        | 1041/5000 [04:50<8:38:47,  7.86s/it] 21%|██        | 1042/5000 [04:57<8:20:32,  7.59s/it] 21%|██        | 1043/5000 [05:04<8:11:59,  7.46s/it] 21%|██        | 1044/5000 [05:10<7:41:24,  7.00s/it] 21%|██        | 1045/5000 [05:20<8:40:14,  7.89s/it] 21%|██        | 1046/5000 [05:31<9:52:30,  8.99s/it] 21%|██        | 1047/5000 [05:40<9:38:19,  8.78s/it] 21%|██        | 1048/5000 [05:48<9:30:01,  8.65s/it] 21%|██        | 1049/5000 [05:57<9:42:29,  8.85s/it] 21%|██        | 1050/5000 [06:08<10:17:02,  9.37s/it] 21%|██        | 1051/5000 [06:21<11:32:48, 10.53s/it] 21%|██        | 1052/5000 [06:34<12:17:00, 11.20s/it] 21%|██        | 1053/5000 [06:43<11:34:07, 10.55s/it] 21%|██        | 1054/5000 [06:54<11:42:56, 10.69s/it] 21%|██        | 1055/5000 [07:10<13:23:47, 12.22s/it] 21%|██        | 1056/5000 [07:20<12:38:26, 11.54s/it] 21%|██        | 1057/5000 [09:53<59:16:25, 54.12s/it] 21%|██        | 1058/5000 [25:11<343:05:54, 313.33s/it] 21%|██        | 1059/5000 [1:30:06<1519:17:35, 1387.83s/it] 21%|██        | 1060/5000 [2:04:05<1732:46:46, 1583.25s/it] 21%|██        | 1061/5000 [2:17:58<1485:54:00, 1358.02s/it] 21%|██        | 1062/5000 [4:32:59<3698:13:38, 3380.81s/it] 21%|██▏       | 1063/5000 [5:46:03<4026:27:09, 3681.80s/it] 21%|██▏       | 1064/5000 [6:22:34<3536:31:56, 3234.63s/it] 21%|██▏       | 1065/5000 [6:36:57<2757:59:05, 2523.19s/it] 21%|██▏       | 1066/5000 [6:51:02<2206:56:12, 2019.57s/it] 21%|██▏       | 1066/5000 [7:09:01<26:23:17, 24.15s/it]    
+Rate limit reached. Retrying in 142.32764062500002 seconds.
+Rate limit reached. Retrying in 412.88585156199997 seconds.
+Rate limit reached. Retrying in 496.91303125 seconds.
+Rate limit reached. Retrying in 974.340945312 seconds.
+Rate limit reached. Retrying in 861.791398437 seconds.
+Rate limit reached. Retrying in 479.950898437 seconds.
+Rate limit reached. Retrying in 411.389835937 seconds.
+Rate limit reached. Retrying in 504.355726562 seconds.
+Rate limit reached. Retrying in 649.44234375 seconds.
+Rate limit reached. Retrying in 1024.2996015620001 seconds.
+Rate limit reached. Retrying in 1007.14275 seconds.
+Rate limit reached. Retrying in 412.392671875 seconds.
+Rate limit reached. Retrying in 412.338851562 seconds.
+Rate limit reached. Retrying in 1099.960265625 seconds.
+Rate limit reached. Retrying in 608.869679687 seconds.
+Rate limit reached. Retrying in 603.984140625 seconds.
+Rate limit reached. Retrying in 435.8535 seconds.
+Rate limit reached. Retrying in 440.66220312400003 seconds.
+Rate limit reached. Retrying in 468.834585937 seconds.
+Rate limit reached. Retrying in 564.535804687 seconds.
+Rate limit reached. Retrying in 424.189367187 seconds.
+Rate limit reached. Retrying in 411.614476562 seconds.
+Rate limit reached. Retrying in 481.992257812 seconds.
+Rate limit reached. Retrying in 401.348601562 seconds.
+Rate limit reached. Retrying in 677.258367187 seconds.
+Rate limit reached. Retrying in 509.321070312 seconds.
+Rate limit reached. Retrying in 487.877875 seconds.
+Rate limit reached. Retrying in 468.26375 seconds.
+Rate limit reached. Retrying in 1693.700984375 seconds.
+Rate limit reached. Retrying in 960.559171875 seconds.
+Rate limit reached. Retrying in 465.500765625 seconds.
+Rate limit reached. Retrying in 400.828601562 seconds.
+Rate limit reached. Retrying in 473.447921875 seconds.
+Rate limit reached. Retrying in 380.961210937 seconds.
+Rate limit reached. Retrying in 1080.2086953120001 seconds.
+Rate limit reached. Retrying in 1103.611984375 seconds.
+Rate limit reached. Retrying in 420.607703125 seconds.
+Rate limit reached. Retrying in 425.317265625 seconds.
+Rate limit reached. Retrying in 467.635765625 seconds.
+Rate limit reached. Retrying in 369.031992187 seconds.
+Rate limit reached. Retrying in 1076.232617187 seconds.
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 36, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 87, in get_client_chat_completion_value
+    chat_completion = client.chat.completions.create(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/resources/chat/completions.py", line 289, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 920, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1018, in _request
+    raise self._make_status_error_from_response(err.response) from None
+groq.BadRequestError: Error code: 400 - {'error': {'message': 'Organization has been restricted. Please reach out to support if you believe this was in error.', 'type': 'invalid_request_error', 'code': 'organization_restricted'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 437, in <module>
+    main(input_file_path, cache_path, asrank_api_result_path, model_series)
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 376, in main
+    llm_user_content = get_llm_user_content(f"{pure_as_path_question}{as_path}.", model_series)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 174, in get_llm_user_content
+    llama3_1_8b_value = get_client_chat_completion_value(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 72, in wrapper
+    except e:
+           ^
+UnboundLocalError: cannot access local variable 'e' where it is not associated with a value

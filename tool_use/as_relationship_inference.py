@@ -42,7 +42,6 @@ def retry_request(max_retries=10, backoff_factor=0.3):
                 
                 except groq.RateLimitError as e:
                     error_message = str(e)
-                    retries += 1
                     wait_time = extract_wait_time(error_message)
                     print(f"Rate limit reached. Retrying in {wait_time} seconds.")
                     time.sleep(wait_time)
@@ -98,13 +97,14 @@ def update_user_content(user_content, model_name, value):
     user_content[model_name+"-answer-list"] = pattern.findall(value)
     return user_content
 
-# 预定义的API密钥列表
+# # 预定义的API密钥列表
 GROQ_API_KEYS = [
-    os.environ.get("GROQ_API_KEY"),
-    "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",
-    "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",
-    "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"
+      "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"
 ]
+
+# GROQ_API_KEYS = [
+#                       "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",
+# ]
 
 # 轮训计数器
 counter = 0
@@ -152,10 +152,10 @@ def get_llm_user_content(question, model_series="llama3"):
 
     if model_series == "llama3":
 
-        llama3_70b_value = get_client_chat_completion_value(
-            groq_client, "llama3-70b-8192", args)
-        user_content = update_user_content(
-            user_content, "llama3-70b-8192", llama3_70b_value)
+        # llama3_70b_value = get_client_chat_completion_value(
+        #     groq_client, "llama3-70b-8192", args)
+        # user_content = update_user_content(
+        #     user_content, "llama3-70b-8192", llama3_70b_value)
     
         llam3_8b_value = get_client_chat_completion_value(
             groq_client, "llama3-8b-8192", args)
@@ -339,6 +339,8 @@ def main(input_file_path, cache_path, asrank_api_result_path, model_series):
         if "claude" in model_series and idx > 1000:
             break
 
+        if "llama3.1" in model_series and idx < 1750:
+            continue
 
         if type(one_input) == str:
             as_path = one_input
@@ -416,12 +418,12 @@ with open(question_type_path, "r") as f:
 # model_series = "db-gpt-4-turbo"
 # model_series = "gpt4o"
 # model_series = "claude-3-5"
-# model_series = "llama3"
-model_series = "llama3.1"
+model_series = "llama3"
+# model_series = "llama3.1"
 # model_series = "qwen-turbo"
 
-experiment_name = f"{model_series}_all-paths_top5000_pure+asrank.pl_p2c"
-system_prompt = f"""{zero_shot_system_prompt_p2c}"""
+experiment_name = f"{model_series}_two_shot_ORG_all-paths_top5000_pure+asrank.pl_p2c"
+system_prompt = f"""{two_shot_ORG_system_prompt_p2c}"""
 
 # input_file_path = "/home/yyc/BGP-Woodpecker/BGPAgent/filtered_data/20190606_case_study_aspath.json"
 input_file_path = "/home/yyc/BGP-Woodpecker/asrank_data/20240301_all-paths_cache_top_5000.json"

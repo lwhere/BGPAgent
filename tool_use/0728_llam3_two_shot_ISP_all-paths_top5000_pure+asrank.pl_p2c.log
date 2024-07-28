@@ -1,0 +1,65 @@
+nohup: ignoring input
+  0%|          | 0/5000 [00:00<?, ?it/s]  0%|          | 1/5000 [00:06<9:19:24,  6.71s/it]  0%|          | 2/5000 [00:13<9:20:32,  6.73s/it]  0%|          | 3/5000 [00:19<9:10:03,  6.60s/it]  0%|          | 4/5000 [00:27<9:38:37,  6.95s/it]  0%|          | 5/5000 [00:33<9:26:38,  6.81s/it]  0%|          | 6/5000 [00:40<9:07:53,  6.58s/it]  0%|          | 7/5000 [01:02<16:05:26, 11.60s/it]  0%|          | 8/5000 [01:08<13:55:03, 10.04s/it]  0%|          | 9/5000 [1:24:46<2184:25:13, 1575.62s/it]  0%|          | 10/5000 [1:24:56<1513:58:01, 1092.24s/it]  0%|          | 11/5000 [1:25:14<1057:57:35, 763.41s/it]   0%|          | 12/5000 [1:25:28<741:58:12, 535.50s/it]   0%|          | 13/5000 [1:26:05<532:42:48, 384.55s/it]  0%|          | 14/5000 [1:26:21<378:17:19, 273.13s/it]  0%|          | 15/5000 [1:36:47<525:27:28, 379.47s/it]  0%|          | 16/5000 [1:36:59<372:22:35, 268.97s/it]  0%|          | 17/5000 [1:47:27<521:31:54, 376.78s/it]  0%|          | 18/5000 [1:47:40<370:17:35, 267.57s/it]  0%|          | 19/5000 [1:47:58<266:31:22, 192.63s/it]  0%|          | 20/5000 [1:48:12<192:17:46, 139.01s/it]  0%|          | 21/5000 [1:48:31<142:23:01, 102.95s/it]  0%|          | 22/5000 [1:49:02<112:18:48, 81.22s/it]   0%|          | 23/5000 [1:49:25<88:20:19, 63.90s/it]   0%|          | 24/5000 [1:49:43<69:22:07, 50.19s/it]  0%|          | 25/5000 [1:50:04<57:03:45, 41.29s/it]  1%|          | 26/5000 [1:50:23<47:47:34, 34.59s/it]  1%|          | 27/5000 [1:50:57<47:40:32, 34.51s/it]  1%|          | 28/5000 [1:51:14<40:28:49, 29.31s/it]  1%|          | 29/5000 [1:51:43<40:22:56, 29.25s/it]  1%|          | 30/5000 [1:52:15<41:21:16, 29.95s/it]  1%|          | 31/5000 [1:52:28<34:15:16, 24.82s/it]  1%|          | 32/5000 [1:52:53<34:12:35, 24.79s/it]  1%|          | 33/5000 [1:53:20<35:11:39, 25.51s/it]  1%|          | 34/5000 [1:53:33<30:02:44, 21.78s/it]  1%|          | 35/5000 [1:53:51<28:27:41, 20.64s/it]  1%|          | 36/5000 [1:54:13<28:59:59, 21.03s/it]  1%|          | 37/5000 [1:54:36<29:58:22, 21.74s/it]  1%|          | 38/5000 [1:54:56<29:03:28, 21.08s/it]  1%|          | 39/5000 [1:55:14<27:49:37, 20.19s/it]  1%|          | 40/5000 [1:55:35<28:15:56, 20.52s/it]  1%|          | 41/5000 [1:55:53<27:16:08, 19.80s/it]  1%|          | 42/5000 [1:56:17<28:47:27, 20.91s/it]  1%|          | 43/5000 [1:56:45<31:51:50, 23.14s/it]  1%|          | 44/5000 [1:57:09<32:19:52, 23.49s/it]  1%|          | 45/5000 [1:57:30<30:54:55, 22.46s/it]  1%|          | 46/5000 [1:57:46<28:23:51, 20.64s/it]  1%|          | 47/5000 [1:58:05<27:46:30, 20.19s/it]  1%|          | 48/5000 [1:58:18<24:53:31, 18.10s/it]  1%|          | 49/5000 [1:58:38<25:25:25, 18.49s/it]  1%|          | 50/5000 [1:58:59<26:48:40, 19.50s/it]  1%|          | 51/5000 [1:59:31<31:41:12, 23.05s/it]  1%|          | 52/5000 [2:00:01<34:45:09, 25.28s/it]  1%|          | 53/5000 [2:00:26<34:28:10, 25.08s/it]  1%|          | 54/5000 [2:00:41<30:10:13, 21.96s/it]  1%|          | 55/5000 [2:01:17<36:16:44, 26.41s/it]  1%|          | 56/5000 [2:01:46<37:21:02, 27.20s/it]  1%|          | 57/5000 [2:02:08<35:03:07, 25.53s/it]  1%|          | 58/5000 [2:02:38<36:53:18, 26.87s/it]  1%|          | 59/5000 [2:03:00<34:47:19, 25.35s/it]  1%|          | 60/5000 [2:03:28<36:02:09, 26.26s/it]  1%|          | 61/5000 [2:03:39<29:43:17, 21.66s/it]  1%|          | 62/5000 [2:03:50<25:24:56, 18.53s/it]  1%|▏         | 63/5000 [2:14:19<276:30:11, 201.62s/it]  1%|▏         | 64/5000 [2:14:35<200:05:46, 145.94s/it]  1%|▏         | 65/5000 [2:14:48<145:16:29, 105.98s/it]  1%|▏         | 66/5000 [2:15:07<109:27:07, 79.86s/it]   1%|▏         | 67/5000 [2:15:22<82:39:03, 60.32s/it]   1%|▏         | 68/5000 [2:15:35<63:24:14, 46.28s/it]  1%|▏         | 69/5000 [2:15:57<53:32:58, 39.10s/it]  1%|▏         | 70/5000 [2:16:25<48:45:28, 35.60s/it]  1%|▏         | 71/5000 [2:16:48<43:41:51, 31.92s/it]  1%|▏         | 72/5000 [2:17:03<36:34:10, 26.71s/it]  1%|▏         | 73/5000 [2:17:22<33:30:52, 24.49s/it]  1%|▏         | 74/5000 [2:17:44<32:20:45, 23.64s/it]  2%|▏         | 75/5000 [2:18:02<30:13:09, 22.09s/it]  2%|▏         | 76/5000 [2:18:30<32:32:12, 23.79s/it]  2%|▏         | 77/5000 [2:18:43<28:01:00, 20.49s/it]  2%|▏         | 78/5000 [2:19:15<32:51:55, 24.04s/it]  2%|▏         | 79/5000 [2:19:50<37:19:13, 27.30s/it]  2%|▏         | 80/5000 [2:20:10<34:14:51, 25.06s/it]  2%|▏         | 81/5000 [2:20:38<35:35:28, 26.05s/it]  2%|▏         | 82/5000 [2:20:49<29:31:29, 21.61s/it]  2%|▏         | 83/5000 [2:21:21<33:44:34, 24.71s/it]  2%|▏         | 84/5000 [2:21:46<33:31:35, 24.55s/it]  2%|▏         | 85/5000 [2:22:23<38:48:18, 28.42s/it]  2%|▏         | 86/5000 [2:53:55<801:51:52, 587.45s/it]  2%|▏         | 87/5000 [3:04:46<827:48:11, 606.57s/it]  2%|▏         | 88/5000 [3:04:57<583:39:30, 427.76s/it]  2%|▏         | 89/5000 [3:05:16<416:14:38, 305.13s/it]  2%|▏         | 90/5000 [3:05:40<301:11:35, 220.83s/it]  2%|▏         | 91/5000 [3:06:12<223:49:24, 164.14s/it]  2%|▏         | 92/5000 [3:06:35<166:18:39, 121.99s/it]  2%|▏         | 93/5000 [3:06:50<122:14:01, 89.68s/it]   2%|▏         | 94/5000 [3:07:19<97:41:25, 71.68s/it]   2%|▏         | 95/5000 [3:07:42<77:46:47, 57.09s/it]  2%|▏         | 96/5000 [3:08:13<67:02:44, 49.22s/it]  2%|▏         | 97/5000 [3:08:48<61:14:19, 44.96s/it]  2%|▏         | 98/5000 [3:09:23<56:55:21, 41.80s/it]  2%|▏         | 99/5000 [3:09:39<46:25:44, 34.10s/it]  2%|▏         | 100/5000 [3:10:05<43:09:44, 31.71s/it]  2%|▏         | 101/5000 [3:10:26<38:46:16, 28.49s/it]  2%|▏         | 102/5000 [3:10:45<34:54:40, 25.66s/it]  2%|▏         | 103/5000 [3:11:12<35:37:15, 26.19s/it]  2%|▏         | 104/5000 [3:11:48<39:28:05, 29.02s/it]  2%|▏         | 105/5000 [3:12:21<40:56:51, 30.11s/it]  2%|▏         | 106/5000 [3:12:53<41:40:53, 30.66s/it]  2%|▏         | 107/5000 [3:13:17<39:13:15, 28.86s/it]  2%|▏         | 108/5000 [3:13:54<42:26:31, 31.23s/it]  2%|▏         | 109/5000 [3:24:41<293:16:24, 215.86s/it]  2%|▏         | 110/5000 [3:24:51<209:22:01, 154.14s/it]  2%|▏         | 111/5000 [3:25:07<153:19:27, 112.90s/it]  2%|▏         | 112/5000 [3:25:29<116:03:10, 85.47s/it]   2%|▏         | 113/5000 [3:25:50<89:49:16, 66.17s/it]   2%|▏         | 114/5000 [3:26:08<70:21:15, 51.84s/it]  2%|▏         | 115/5000 [3:26:38<61:07:42, 45.05s/it]  2%|▏         | 116/5000 [3:26:53<49:09:56, 36.24s/it]  2%|▏         | 117/5000 [3:27:21<45:38:52, 33.65s/it]  2%|▏         | 118/5000 [3:27:32<36:27:11, 26.88s/it]  2%|▏         | 119/5000 [3:28:04<38:34:49, 28.46s/it]  2%|▏         | 120/5000 [3:28:25<35:40:09, 26.31s/it]  2%|▏         | 121/5000 [3:28:48<34:04:53, 25.15s/it]  2%|▏         | 122/5000 [3:29:05<30:59:44, 22.88s/it]  2%|▏         | 123/5000 [3:29:37<34:37:48, 25.56s/it]  2%|▏         | 124/5000 [3:29:58<32:42:46, 24.15s/it]  2%|▎         | 125/5000 [3:30:22<32:38:41, 24.11s/it]  3%|▎         | 126/5000 [3:30:44<31:43:13, 23.43s/it]  3%|▎         | 127/5000 [3:31:10<32:47:48, 24.23s/it]  3%|▎         | 128/5000 [3:31:31<31:15:53, 23.10s/it]  3%|▎         | 129/5000 [3:32:05<35:45:33, 26.43s/it]  3%|▎         | 130/5000 [3:32:35<37:27:49, 27.69s/it]  3%|▎         | 131/5000 [3:32:54<33:37:25, 24.86s/it]  3%|▎         | 132/5000 [3:33:24<35:41:28, 26.39s/it]  3%|▎         | 133/5000 [3:33:47<34:39:23, 25.63s/it]  3%|▎         | 134/5000 [3:34:19<37:13:31, 27.54s/it]  3%|▎         | 135/5000 [3:34:43<35:35:53, 26.34s/it]  3%|▎         | 136/5000 [3:34:58<30:48:41, 22.80s/it]  3%|▎         | 137/5000 [3:35:21<31:06:44, 23.03s/it]  3%|▎         | 138/5000 [3:35:46<31:55:48, 23.64s/it]  3%|▎         | 139/5000 [3:46:53<292:22:39, 216.53s/it]  3%|▎         | 140/5000 [3:57:59<474:26:18, 351.44s/it]  3%|▎         | 141/5000 [4:09:27<610:36:21, 452.39s/it]  3%|▎         | 142/5000 [4:20:38<698:52:57, 517.90s/it]  3%|▎         | 143/5000 [4:31:40<757:20:42, 561.34s/it]  3%|▎         | 144/5000 [5:14:10<1561:55:19, 1157.93s/it]  3%|▎         | 144/5000 [5:46:10<194:33:37, 144.24s/it]  
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Rate limit reached. Retrying in 600 seconds.
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 36, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 87, in get_client_chat_completion_value
+    chat_completion = client.chat.completions.create(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/resources/chat/completions.py", line 289, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1225, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 920, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/miniconda3/lib/python3.11/site-packages/groq/_base_client.py", line 1018, in _request
+    raise self._make_status_error_from_response(err.response) from None
+groq.BadRequestError: Error code: 400 - {'error': {'message': 'Organization has been restricted. Please reach out to support if you believe this was in error.', 'type': 'invalid_request_error', 'code': 'organization_restricted'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 437, in <module>
+    main(input_file_path, cache_path, asrank_api_result_path, model_series)
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 398, in main
+    llm_user_content = get_llm_user_content(f"{question_type_dict['combine_asrank_question']}.As path: {as_path}.Asrank algorithm inference result: {asrank_user_content}", model_series)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 158, in get_llm_user_content
+    llama3_70b_value = get_client_chat_completion_value(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/as_relationship_inference.py", line 72, in wrapper
+    except e:
+           ^
+UnboundLocalError: cannot access local variable 'e' where it is not associated with a value

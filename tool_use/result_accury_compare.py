@@ -45,12 +45,21 @@ def extract_inferences_asrank(text):
 
 def extract_inferences_llama(answers):
     business_relationships = []
+    # 结果里有一个列表用这个
+    # for answer in answers:
+    #         if "Output" in answer:
+    #             continue
+    #         # Remove extra characters and split into individual relationships
+    #         relationships = answer.strip('[]').replace('"', '')
+    #         business_relationships.extend(relationships)
+# 结果里多个列表用这个
     for answer in answers:
             if "Output" in answer:
                 continue
-            # Remove extra characters and split into individual relationships
-            relationships = answer.strip('[]').replace('"', '').split(', ')
-            business_relationships.extend(relationships)
+            as_list=answer.strip('[]').split(',')
+            for each_as in as_list:
+                as_rel=each_as.strip('"').strip().strip('"')
+                business_relationships.append(str(as_rel))
     return business_relationships
   
 
@@ -61,7 +70,6 @@ def evaluate_inferences(inferences, as_relationships):
     for inference in inferences:
         if inference.count('-') == 1 and inference.count(':')== 1:
             as_pair, inferred_rel = inference.split(': ')
-
             as1, as2 = as_pair.split('-')
             inferred_rel = inferred_rel.strip().lower()
 
@@ -83,6 +91,12 @@ def calculate_link_type(as_relationship):
     s2s=0
     for relation in as_relationship:
         if "unknown" in relation:
+            continue
+        if "..." in relation:
+            continue
+        if "-" not in relation:
+            continue
+        if ":" not in relation:
             continue
         val = relation.split(":")[1].strip(' ')
         if val =='p2p':
@@ -106,14 +120,12 @@ def main(file1_path, file2_path):
             # Extract the content after the key phrase
             for key, value in entry[0].items():
                 if key_phrase in key:
-                    # print(value)  
-            # result = entry[0].get("请根据所给路径使用asrank推断as商业关系。 47394|6939|6762|42313|12713|3320|174|52320|7738|8167|28646 asrank inference result", "")
                     asrank_inferences.extend(extract_inferences_asrank(value))
         
         # Extract llama3-8b-8192 answers
         llama3_answers = []
         for entry in data1:
-            answer = entry[1].get("llama3-8b-8192-answer-list", "")
+            answer = entry[2].get("gpt-4-turbo-answer-list", "")
             if answer:
                 llama3_answers.extend(extract_inferences_llama(answer))
 
@@ -128,8 +140,8 @@ def main(file1_path, file2_path):
     print(f"In asrank, there are {p2p_asrank} p2p links,{p2c_asrank} p2c links and {s2s_asrank} s2s links.")
     # Evaluate llama3-8b-8192 inferences
     llama3_results = evaluate_inferences(llama3_answers, as_relationships)
-    print(f"Llama3-8b-8192 Inferences - Correct: {llama3_results[1]}, Total: {llama3_results[2]}, Accuracy: {llama3_results[0]:.2f}")
-    print(f"In llama3, there are {p2p_llama3} p2p links,{p2c_llama3} p2c links and {s2s_llama3} s2s links.")
+    print(f"gpt-4-turbo-answer-list Inferences - Correct: {llama3_results[1]}, Total: {llama3_results[2]}, Accuracy: {llama3_results[0]:.2f}")
+    print(f"In gpt-4-turbo, there are {p2p_llama3} p2p links,{p2c_llama3} p2c links and {s2s_llama3} s2s links.")
 
 # # Example usage
 # file1_path = 'file1.json'
@@ -138,7 +150,7 @@ def main(file1_path, file2_path):
 
 
 # Example usage with file paths
-file1_path = '/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/cache/llama3_20190606_case_study_all_question_p2c.json'
+file1_path = '/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0726/final_output/gpt4-turbo_all-paths_top1000_pure+asrank.pl_s2s_final.json'
 file2_path = '/home/yyc/BGP-Woodpecker/asrank_data/relationship_data/20240301.as-rel.txt'
 main(file1_path, file2_path)
 

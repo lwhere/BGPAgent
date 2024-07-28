@@ -36,3 +36,114 @@ ASRank Inferences - Correct: 1401, Total: 2226, Accuracy: 0.63
 In asrank, there are 1238 p2p links,4223 p2c links and 0 s2s links.
 Llama3-8b-8192 Inferences - Correct: 1882, Total: 3053, Accuracy: 0.62
 In llama3, there are 4129 p2p links,4284 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/cache/llama3_20190606_case_study_as_group_10_pure+asrank_question_p2c.json
+Q2:
+ASRank Inferences - Correct: 53, Total: 90, Accuracy: 0.59
+In asrank, there are 130 p2p links,42 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 51, Total: 88, Accuracy: 0.58
+In llama3, there are 237 p2p links,121 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences - Correct: 53, Total: 90, Accuracy: 0.59
+In asrank, there are 130 p2p links,42 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 23, Total: 30, Accuracy: 0.77
+In llama3, there are 81 p2p links,40 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/cache/llama3_20190606_case_study_as_group_3_pure+asrank_question_p2c.json
+Q2:
+ASRank Inferences - Correct: 314, Total: 657, Accuracy: 0.48
+In asrank, there are 727 p2p links,741 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 584, Total: 1001, Accuracy: 0.58
+In llama3, there are 1728 p2p links,1212 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences - Correct: 314, Total: 657, Accuracy: 0.48
+In asrank, there are 727 p2p links,741 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 370, Total: 624, Accuracy: 0.59
+In llama3, there are 881 p2p links,882 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/cache/llama3_20190606_case_study_as_group_5_pure+asrank_question_p2c.json
+Q2:
+ASRank Inferences - Correct: 321, Total: 601, Accuracy: 0.53
+In asrank, there are 721 p2p links,491 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 430, Total: 855, Accuracy: 0.50
+In llama3, there are 1892 p2p links,948 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences - Correct: 321, Total: 601, Accuracy: 0.53
+In asrank, there are 721 p2p links,491 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 412, Total: 622, Accuracy: 0.66
+In llama3, there are 871 p2p links,871 p2c links and 0 s2s links.
+
+GPT4:
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0722/cache/gpt4o_combine_asrank.pl_p2c_complex_output.json
+Q2:
+ASRank Inferences - Correct: 4, Total: 9, Accuracy: 0.44
+In asrank, there are 3 p2p links,7 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 0, Total: 0, Accuracy: 0.00
+In llama3, there are 0 p2p links,0 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences - Correct: 4, Total: 9, Accuracy: 0.44
+In asrank, there are 3 p2p links,7 p2c links and 0 s2s links.
+Llama3-8b-8192 Inferences - Correct: 0, Total: 0, Accuracy: 0.00
+In llama3, there are 0 p2p links,0 p2c links and 0 s2s links.
+
+
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0724/final_output/gpt4-turbo_20190606_case_study_as_group_5_pure+asrank_question_p2c_final.json
+Q2:
+ASRank Inferences - Correct: 343, Total: 639, Accuracy: 0.54
+In asrank, there are 761 p2p links,524 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 249, Total: 427, Accuracy: 0.58
+In gpt-4-turbo, there are 9 p2p links,1291 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences - Correct: 343, Total: 639, Accuracy: 0.54
+In asrank, there are 761 p2p links,524 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 449, Total: 592, Accuracy: 0.76
+In gpt-4-turbo, there are 683 p2p links,1039 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0724/final_output/gpt4-turbo_20190606_case_study_as_group_10_pure+asrank_question_p2c_final.json
+Q2:
+ASRank Inferences - Correct: 317, Total: 534, Accuracy: 0.59
+In asrank, there are 681 p2p links,339 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 30, Total: 57, Accuracy: 0.53
+In gpt-4-turbo, there are 1 p2p links,188 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences - Correct: 317, Total: 534, Accuracy: 0.59
+In asrank, there are 681 p2p links,339 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 48, Total: 60, Accuracy: 0.80
+In gpt-4-turbo, there are 114 p2p links,112 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0724/final_output/gpt4-turbo_20190606_case_study_as_group_20_pure+asrank_question_p2c_final.json
+Q2:
+ASRank Inferences - Correct: 223, Total: 404, Accuracy: 0.55
+In asrank, there are 556 p2p links,201 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 18, Total: 25, Accuracy: 0.72
+In gpt-4-turbo, there are 0 p2p links,44 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences - Correct: 223, Total: 404, Accuracy: 0.55
+In asrank, there are 556 p2p links,201 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 0, Total: 0, Accuracy: 0.00
+In gpt-4-turbo, there are 0 p2p links,0 p2c links and 0 s2s links.
+这个确实啥都没推断出来
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0726/final_output/gpt4-turbo_all-paths_top1000_pure+asrank.pl_p2c_final.json
+Q2
+ASRank Inferences - Correct: 1018, Total: 1905, Accuracy: 0.53
+In asrank, there are 820 p2p links,1674 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 1927, Total: 2409, Accuracy: 0.80
+In gpt-4-turbo, there are 382 p2p links,3458 p2c links and 0 s2s links.
+Q3
+ASRank Inferences - Correct: 1018, Total: 1905, Accuracy: 0.53
+In asrank, there are 820 p2p links,1674 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 1624, Total: 2382, Accuracy: 0.68
+In gpt-4-turbo, there are 984 p2p links,3105 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0726/final_output/gpt4-turbo_all-paths_top1000_pure+asrank.pl_s2s_final.json
+Q2
+ASRank Inferences - Correct: 1031, Total: 1916, Accuracy: 0.54
+In asrank, there are 828 p2p links,1693 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 2052, Total: 2668, Accuracy: 0.77
+In gpt-4-turbo, there are 499 p2p links,3567 p2c links and 113 s2s links.
+Q3
+ASRank Inferences - Correct: 1031, Total: 1916, Accuracy: 0.54
+In asrank, there are 828 p2p links,1693 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences - Correct: 1661, Total: 2446, Accuracy: 0.68
+In gpt-4-turbo, there are 995 p2p links,3082 p2c links and 37 s2s links.
