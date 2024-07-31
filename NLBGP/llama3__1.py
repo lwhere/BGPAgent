@@ -9,8 +9,9 @@ import tqdm
 # 模型路径
 model_id = "/root/autodl-tmp/ms-cache/hub/LLM-Research/Meta-Llama-3___1-70B-Instruct"
 model_id = "/root/autodl-tmp/ms-cache/hub/LLM-Research/Meta-Llama-3.1-8B-Instruct"
+model_id = "/root/autodl-tmp/ms-cache/hub/LLM-Research/Meta-Llama-3___1-405B-Instruct-FP8"
 
-file_name = "one_shot_llama3.1_all-paths_2000+_pure+asrank_p2c_final_cuda=5_temperature=0.8_"
+file_name = "zero_shot_llama3.1_all-paths_0-1000_pure+asrank_p2c_final_temperature=0.01_"
 
 # 系统提示
 zero_shot_system_prompt_p2c = """
@@ -74,20 +75,20 @@ results = []
 count = 0
 for item in tqdm.tqdm(data):
     count += 1
-    if count < 2000:
-        continue
+    # if count < 2000:
+    #     continue
     as_path = item[0].get("Please use the given as path and asrank algorithm to infer business relationships 268401|28598|12956|6830|21217|4134|174\n12726|32787|25091|21217|4134|174\n714|6830|21217|4134|174 asrank inference result", "")
     question = item[1].get("question", "")
     rag_question = item[2].get("question", "")
     # naive_rag_question = item[3].get("question", "")
     
     messages = [
-        {"role": "system", "content": one_shot_system_prompt_p2c},
+        {"role": "system", "content": zero_shot_system_prompt_p2c},
         {"role": "user", "content": question},
     ]
 
     messages_rag = [
-        {"role": "system", "content": one_shot_system_prompt_p2c},
+        {"role": "system", "content": zero_shot_system_prompt_p2c},
         {"role": "user", "content": rag_question},
     ]
 
@@ -98,13 +99,13 @@ for item in tqdm.tqdm(data):
     
     output = pipeline(
         messages,
-        temperature=0.8,
+        temperature=0.01,
         max_new_tokens=8192
     )
 
     rag_output = pipeline(
         messages_rag,
-        temperature=0.8,
+        temperature=0.01,
         max_new_tokens=8192
     )
 
@@ -144,7 +145,7 @@ for item in tqdm.tqdm(data):
         json.dump(results, f)
  
 # 将结果保存到文件
-output_filename = f"0727_{file_name}_final.json"
+output_filename = f"0729_{file_name}_final.json"
 with open(output_filename, "w") as output_file:
     json.dump(results, output_file)
 
