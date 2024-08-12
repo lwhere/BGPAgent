@@ -1,0 +1,150 @@
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0722/cache/llama3_20190606_case_study_all_question_p2c.json
+Q2:
+ASRank Inferences 
+Correct: 1277, Total: 2000, Accuracy: 0.64
+p2p: 1113(218/682)   p2c: 3769(1059/1318)
+There are 1113 p2p links,3769 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 1545, Total: 2663, Accuracy: 0.58
+p2p: 532(103/1025)   p2c: 6837(1442/1638)
+there are 532 p2p links,6837 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences 
+Correct: 1277, Total: 2000, Accuracy: 0.64
+p2p: 1113(218/682)   p2c: 3769(1059/1318)
+There are 1113 p2p links,3769 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 3375, Total: 5241, Accuracy: 0.64
+p2p: 2104(496/2025)   p2c: 12465(2879/3216)
+there are 2104 p2p links,12465 p2c links and 0 s2s links.
+Q4:
+ASRank Inferences 
+Correct: 1277, Total: 2000, Accuracy: 0.64
+p2p: 1113(218/682)   p2c: 3769(1059/1318)
+There are 1113 p2p links,3769 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 4758, Total: 7809, Accuracy: 0.61
+p2p: 2844(602/3019)   p2c: 18885(4156/4790)
+there are 2844 p2p links,18885 p2c links and 0 s2s links.
+Q5:
+ASRank Inferences 
+Correct: 1277, Total: 2000, Accuracy: 0.64
+p2p: 1113(218/682)   p2c: 3769(1059/1318)
+There are 1113 p2p links,3769 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 6528, Total: 10376, Accuracy: 0.63
+p2p: 4151(978/4013)   p2c: 24734(5550/6363)
+there are 4151 p2p links,24734 p2c links and 0 s2s links.
+Q6:
+ASRank Inferences 
+Correct: 1277, Total: 2000, Accuracy: 0.64
+p2p: 1113(218/682)   p2c: 3769(1059/1318)
+There are 1113 p2p links,3769 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 7732, Total: 12562, Accuracy: 0.62
+p2p: 5399(1187/4866)   p2c: 29556(6545/7696)
+there are 5399 p2p links,29556 p2c links and 0 s2s links.
+Q7:
+ASRank Inferences 
+Correct: 1277, Total: 2000, Accuracy: 0.64
+p2p: 1113(218/682)   p2c: 3769(1059/1318)
+There are 1113 p2p links,3769 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 9092, Total: 15071, Accuracy: 0.60
+p2p: 6640(1366/5824)   p2c: 35228(7726/9247)
+there are 6640 p2p links,35228 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0724/cache/llama3_20190606_case_study_as_group_20_pure+asrank_question_p2c.json
+Q2:
+ASRank Inferences 
+Correct: 131, Total: 218, Accuracy: 0.60
+p2p: 288(87/100)   p2c: 129(44/118)
+There are 288 p2p links,129 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 113, Total: 177, Accuracy: 0.64
+p2p: 18(10/73)   p2c: 491(103/104)
+there are 18 p2p links,491 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences 
+Correct: 131, Total: 218, Accuracy: 0.60
+p2p: 288(87/100)   p2c: 129(44/118)
+There are 288 p2p links,129 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 255, Total: 409, Accuracy: 0.62
+p2p: 131(40/178)   p2c: 1129(215/231)
+there are 131 p2p links,1129 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/gpt4_20190606_case_study_first_question_p2c.json
+Q2:
+ASRank Inferences 
+Correct: 1409, Total: 2234, Accuracy: 0.63
+p2p: 1245(249/783)   p2c: 4238(1160/1451)
+There are 1245 p2p links,4238 p2c links and 0 s2s links.
+gpt-4-turbo-answer-list Inferences 
+Correct: 1400, Total: 2133, Accuracy: 0.66
+p2p: 462(136/855)   p2c: 5437(1264/1278)
+there are 462 p2p links,5437 p2c links and 0 s2s links.
+
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0728/cache/llama3_one_shot_all-paths_top5000_pure+asrank.pl_p2c.json
+Q2:
+ASRank Inferences 
+Correct: 1930, Total: 3584, Accuracy: 0.54
+p2p: 1519(211/881)   p2c: 3115(1719/2703)
+There are 1519 p2p links,3115 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 3825, Total: 5188, Accuracy: 0.74
+p2p: 216(147/1449)   p2c: 7877(3678/3739)
+there are 216 p2p links,7877 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences 
+Correct: 1930, Total: 3584, Accuracy: 0.54
+p2p: 1519(211/881)   p2c: 3115(1719/2703)
+There are 1519 p2p links,3115 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 7420, Total: 10374, Accuracy: 0.72
+p2p: 916(405/2898)   p2c: 15271(7015/7476)
+there are 916 p2p links,15271 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0728/cache/llama3_two_shot_ISP_all-paths_top5000_pure+asrank.pl_p2c.json
+Q2:
+ASRank Inferences 
+Correct: 166, Total: 300, Accuracy: 0.55
+p2p: 135(18/74)   p2c: 266(148/226)
+There are 135 p2p links,266 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 308, Total: 412, Accuracy: 0.75
+p2p: 91(46/116)   p2c: 561(262/296)
+there are 91 p2p links,561 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences 
+Correct: 166, Total: 300, Accuracy: 0.55
+p2p: 135(18/74)   p2c: 266(148/226)
+There are 135 p2p links,266 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 577, Total: 824, Accuracy: 0.70
+p2p: 251(78/232)   p2c: 1052(499/592)
+there are 251 p2p links,1052 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0728/cache/llama3_one_shot_ISP_all-paths_top5000_pure+asrank.pl_p2c.json
+Q2:
+ASRank Inferences 
+Correct: 1771, Total: 3315, Accuracy: 0.53
+p2p: 1413(192/820)   p2c: 2876(1579/2495)
+There are 1413 p2p links,2876 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 3554, Total: 4803, Accuracy: 0.74
+p2p: 241(166/1348)   p2c: 7246(3388/3455)
+there are 241 p2p links,7246 p2c links and 0 s2s links.
+Q3:
+ASRank Inferences 
+Correct: 1771, Total: 3315, Accuracy: 0.53
+p2p: 1413(192/820)   p2c: 2876(1579/2495)
+There are 1413 p2p links,2876 p2c links and 0 s2s links.
+llama3-70b-8192-answer-list Inferences 
+Correct: 6905, Total: 9604, Accuracy: 0.72
+p2p: 938(448/2696)   p2c: 14036(6457/6908)
+there are 938 p2p links,14036 p2c links and 0 s2s links.
+
+
+

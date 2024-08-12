@@ -1,0 +1,67 @@
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/final_output/qwen-turbo_20190606_case_study_all_question_p2c_final.json
+Question:
+ASRank Inferences 
+Correct: 1407, Total: 2229, Accuracy: 0.63
+There are 1242 p2p links,4233 p2c links and 0 s2s links.
+Question:
+Please use the given as path to infer business relationships:13285|25091|21217|4134|174|22652
+qwen-turbo-answer-list Inferences 
+Correct: 1545, Total: 2643, Accuracy: 0.58
+p2p: 580(56/1242)   p2c: 6368(4957/4233)
+there are 580 p2p links,6368 p2c links and 0 s2s links.
+Question:
+Please use the given as path and knowned clique member information to infer business relationships
+qwen-turbo-answer-list Inferences 
+Correct: 2721, Total: 4675, Accuracy: 0.58
+p2p: 2377(217/1242)   p2c: 9733(7350/4233)
+there are 2377 p2p links,9733 p2c links and 0 s2s links.
+Question:
+Please use the given as path and its corresponding transit degree information to infer business relationships
+qwen-turbo-answer-list Inferences 
+Correct: 4279, Total: 7416, Accuracy: 0.58
+p2p: 4465(444/1242)   p2c: 15611(11340/4233)
+there are 4465 p2p links,15611 p2c links and 0 s2s links.
+Question:
+Please use the given as path, knowned clique member information and its corresponding transit degree information to infer business relationships
+qwen-turbo-answer-list Inferences 
+Correct: 5635, Total: 9854, Accuracy: 0.57
+p2p: 6801(690/1242)   p2c: 20441(14071/4233)
+there are 6801 p2p links,20441 p2c links and 0 s2s links.
+Question:
+Please use the given as path and its corresponding asrank algorithm inference result to infer business relationships
+qwen-turbo-answer-list Inferences 
+Correct: 6855, Total: 12165, Accuracy: 0.56
+p2p: 8256(901/1242)   p2c: 25154(17573/4233)
+there are 8256 p2p links,25154 p2c links and 0 s2s links.
+Question:
+Please consider the AS path results and the ASrank algorithm results comprehensively, and combine your own judgment to infer AS business relationships
+qwen-turbo-answer-list Inferences 
+Correct: 8227, Total: 14685, Accuracy: 0.56
+p2p: 9515(1117/1242)   p2c: 30870(21740/4233)
+there are 9515 p2p links,30870 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/final_output/llama3_20190606_case_study_all_question_p2c_final.json
+Question:
+ASRank Inferences 
+Correct: 1401, Total: 2226, Accuracy: 0.63
+There are 1238 p2p links,4223 p2c links and 0 s2s links.
+Question:
+Please use the given as path to infer business relationships:13285|25091|21217|4134|174|22652
+llama3-8b-8192-answer-list Inferences 
+Correct: 1882, Total: 3053, Accuracy: 0.62
+p2p: 4129(983/1238)   p2c: 4284(3833/4223)
+there are 4129 p2p links,4284 p2c links and 0 s2s links.
+Question:
+ASRank Inferences 
+Correct: 1401, Total: 2226, Accuracy: 0.63
+There are 1238 p2p links,4223 p2c links and 0 s2s links.
+Question:
+Please use the given as path to infer business relationships:13285|25091|21217|4134|174|22652
+llama3-8b-8192-answer-list Inferences 
+Correct: 1882, Total: 3053, Accuracy: 0.62
+p2p: 4129(983/1238)   p2c: 4284(3833/4223)
+there are 4129 p2p links,4284 p2c links and 0 s2s links.
+Question:
+ASRank Inferences 
+Correct: 1401, Total: 2226, Accuracy: 0.63
+There are 1238 p2p links,4223 p2c links and 0 s2s links.

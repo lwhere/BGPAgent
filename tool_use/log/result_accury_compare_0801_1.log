@@ -1,0 +1,172 @@
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/cache_zero_shot_vllm_all-paths_0-1000_pure+asrank_final_cuda=0-3_temperature=0.01_Qwen1___5-7B-Chat.json
+Pure Question List: 4072
+Rag Question List: 3638
+In Qwen1___5-7B-Chat-answer-list
+Correct: 892, Total: 2225, Accuracy: 0.40
+p2p: 998   p2c: 2596 s2s:0
+Qwen1___5-7B-Chat-rag-answer-list
+Correct: 40, Total: 89, Accuracy: 0.45
+p2p: 956   p2c: 906 s2s:0
+
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/cache_zero_shot_vllm_all-paths_0-1000_pure+asrank_final_cuda=0-3_temperature=0.01_Qwen2-7B-Instruct.json
+Pure Question List: 4354
+Rag Question List: 4398
+In Qwen2-7B-Instruct-answer-list
+Correct: 1893, Total: 2706, Accuracy: 0.70
+p2p: 102   p2c: 4175 s2s:0
+Qwen2-7B-Instruct-rag-answer-list
+Correct: 1702, Total: 2580, Accuracy: 0.66
+p2p: 697   p2c: 3556 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/llama3_two_shot_ISP_all-paths_top5000_pure+asrank.pl_p2c.json
+Question:
+ASRank Inferences 
+Correct: 166, Total: 300, Accuracy: 0.55
+There are 135 p2p links,266 p2c links and 0 s2s links.
+Question:
+Please use the given as path to infer business relationships:55720|4635|6939|35598|47954
+llama3-8b-8192-answer-list Inferences 
+Correct: 235, Total: 409, Accuracy: 0.57
+p2p: 97(25/135)   p2c: 566(265/266)
+there are 97 p2p links,566 p2c links and 0 s2s links.
+Question:
+Please consider the AS path results and the ASrank algorithm results comprehensively, and combine your own judgment to infer AS business relationships
+llama3-8b-8192-answer-list Inferences 
+Correct: 492, Total: 842, Accuracy: 0.58
+p2p: 343(75/135)   p2c: 1015(438/266)
+there are 343 p2p links,1015 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/0731_zero_shot_p2c_vllm_all-paths_0-1000_pure+asrank_no_system_prompt_final_cuda=2_temperature=0.01_Meta-Llama-3.1-8B-Instruct_final.json
+Pure Question List: 3227
+Rag Question List: 3415
+In Meta-Llama-3.1-8B-Instruct-answer-list
+Correct: 1167, Total: 2020, Accuracy: 0.58
+p2p: 976   p2c: 2248 s2s:0
+Meta-Llama-3.1-8B-Instruct-rag-answer-list
+Correct: 1164, Total: 2082, Accuracy: 0.56
+p2p: 1347   p2c: 2047 s2s:0
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/0731_three_shot_vllm_all-paths_0-1000_pure+asrank_final_cuda=0-3_temperature=0.01_Qwen2-7B-Instruct_final.json
+Pure Question List: 4433
+Rag Question List: 2564
+In Qwen2-7B-Instruct-answer-list
+Correct: 1999, Total: 2839, Accuracy: 0.70
+p2p: 196   p2c: 4225 s2s:0
+Qwen2-7B-Instruct-rag-answer-list
+Correct: 1090, Total: 1667, Accuracy: 0.65
+p2p: 637   p2c: 1927 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/0731_three_shot_vllm_all-paths_0-1000_pure+asrank_final_cuda=0-7_temperature=0.01_Meta-Llama-3___1-70B-Instruct_final.json
+Pure Question List: 4429
+Rag Question List: 4550
+In Meta-Llama-3___1-70B-Instruct-answer-list
+Correct: 1979, Total: 2836, Accuracy: 0.70
+p2p: 1246   p2c: 3175 s2s:0
+Meta-Llama-3___1-70B-Instruct-rag-answer-list
+Correct: 1868, Total: 2902, Accuracy: 0.64
+p2p: 1574   p2c: 2952 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/0731_three_shot_vllm_all-paths_0-1000_pure+asrank_final_cuda=0-3_temperature=0.01_Meta-Llama-3-70B_final.json
+Pure Question List: 56
+Rag Question List: 0
+In Meta-Llama-3-70B-answer-list
+Correct: 27, Total: 41, Accuracy: 0.66
+p2p: 0   p2c: 56 s2s:0
+Meta-Llama-3-70B-rag-answer-list
+Correct: 0, Total: 0, Accuracy: 0.00
+p2p: 0   p2c: 0 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/0801_three_shot_all-paths_pure+asrank_p2c_final_cuda=0,1,2,3_temperature=0.01_Llama-3-8b-it_final.json
+Pure Question List: 16325
+Rag Question List: 9669
+In Llama-3-8b-it-answer-list
+Correct: 6700, Total: 11123, Accuracy: 0.60
+p2p: 7644   p2c: 8681 s2s:0
+Llama-3-8b-it-rag-answer-list
+Correct: 3783, Total: 5888, Accuracy: 0.64
+p2p: 3666   p2c: 6003 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/cache_three_shot_p2c_vllm_all-paths_0-1000_pure+asrank_final_cuda=0_temperature=0.01_Meta-Llama-3.1-8B-Instruct.json
+Pure Question List: 4535
+Rag Question List: 4523
+In Meta-Llama-3.1-8B-Instruct-answer-list
+Correct: 1691, Total: 2899, Accuracy: 0.58
+p2p: 1545   p2c: 2985 s2s:0
+Meta-Llama-3.1-8B-Instruct-rag-answer-list
+Correct: 1714, Total: 2908, Accuracy: 0.59
+p2p: 1463   p2c: 3052 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0731/0731_zero_shot_vllm_all-paths_0-1000_pure+asrank_no_system_prompt_final_cuda=0-3_temperature=0.01_Meta-Llama-3___1-70B-Instruct_final.json
+Pure Question List: 4448
+Rag Question List: 3621
+In Meta-Llama-3___1-70B-Instruct-answer-list
+Correct: 2073, Total: 2861, Accuracy: 0.72
+p2p: 915   p2c: 3533 s2s:0
+Meta-Llama-3___1-70B-Instruct-rag-answer-list
+Correct: 1526, Total: 2315, Accuracy: 0.66
+p2p: 1096   p2c: 2521 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/0731_zero_shot_vllm_all-paths_0-1000_pure+asrank_final_cuda=0-7_temperature=0.01_Llama-3-8b-it_final.json
+Pure Question List: 68941
+Rag Question List: 6969434
+In Llama-3-8b-it-answer-list
+Correct: 19819, Total: 28515, Accuracy: 0.70
+p2p: 7418   p2c: 61475 s2s:0
+In Llama-3-8b-it-rag-answer-list
+Correct: 0, Total: 0, Accuracy: 0.00
+p2p: 0   p2c: 0 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0722/cache/llama3_20190606_case_study_all_question_p2c.json
+Question:
+ASRank Inferences 
+Correct: 1277, Total: 2000, Accuracy: 0.64
+There are 1113 p2p links,3769 p2c links and 0 s2s links.
+Question:
+Please use the given as path to infer business relationships:6786|6724|25091|21217|4134|174
+llama3-8b-8192-answer-list Inferences 
+Correct: 1586, Total: 2553, Accuracy: 0.62
+p2p: 3531(1192/1113)   p2c: 3539(2500/3769)
+there are 3531 p2p links,3539 p2c links and 0 s2s links.
+Question:
+Please use the given as path and knowned clique member information to infer business relationships
+llama3-8b-8192-answer-list Inferences 
+Correct: 11834, Total: 17611, Accuracy: 0.67
+p2p: 17923(2986/1113)   p2c: 8718(3891/3769)
+there are 17923 p2p links,8718 p2c links and 0 s2s links.
+Question:
+Please use the given as path and its corresponding transit degree information to infer business relationships
+llama3-8b-8192-answer-list Inferences 
+Correct: 13390, Total: 20006, Accuracy: 0.67
+p2p: 21392(4101/1113)   p2c: 12108(6027/3769)
+there are 21392 p2p links,12108 p2c links and 0 s2s links.
+Question:
+Please use the given as path, knowned clique member information and its corresponding transit degree information to infer business relationships
+llama3-8b-8192-answer-list Inferences 
+Correct: 15005, Total: 22701, Accuracy: 0.66
+p2p: 25887(5533/1113)   p2c: 14930(7970/3769)
+there are 25887 p2p links,14930 p2c links and 0 s2s links.
+Question:
+Please use the given as path and its corresponding asrank algorithm inference result to infer business relationships
+llama3-8b-8192-answer-list Inferences 
+Correct: 16436, Total: 25255, Accuracy: 0.65
+p2p: 29586(6494/1113)   p2c: 18270(10071/3769)
+there are 29586 p2p links,18270 p2c links and 0 s2s links.
+Question:
+Please consider the AS path results and the ASrank algorithm results comprehensively, and combine your own judgment to infer AS business relationships
+llama3-8b-8192-answer-list Inferences 
+Correct: 17803, Total: 27755, Accuracy: 0.64
+p2p: 33325(7427/1113)   p2c: 21465(11985/3769)
+there are 33325 p2p links,21465 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/gpt4_20190606_case_study_first_question_p2c.json
+Question:
+ASRank Inferences 
+Correct: 1409, Total: 2234, Accuracy: 0.63
+There are 1245 p2p links,4238 p2c links and 0 s2s links.
+Question:
+Please use the given as path to infer business relationships:13285|25091|21217|4134|174|22652
+gpt-4-turbo-answer-list Inferences 
+Correct: 1400, Total: 2133, Accuracy: 0.66
+p2p: 462(24/1245)   p2c: 5437(4098/4238)
+there are 462 p2p links,5437 p2c links and 0 s2s links.
+

@@ -194,7 +194,7 @@ def main(file1_path, file2_path):
             model_key = 'llama3-8b-8192-answer-list'
         if "llama3.1" in file1_path:
             # model_key = 'llama-3.1-8b-instant-answer-list'
-            model_key = 'Meta-Llama-3___1-70B-Instruct-rag-answer-list'
+            model_key = 'llama-3.1-8b-instant-answer-list'
         if "gpt4" in file1_path:
             model_key = 'gpt-4-turbo-answer-list'
         if "gpt-4" in file1_path:
@@ -204,8 +204,12 @@ def main(file1_path, file2_path):
         if "claude-3" in file1_path:
             model_key = 'claude-3-5-sonnet-20240620-answer-list'
         llama3_answers = []
+        print(len(data1[0]))
         for i in range(1,len(data1[0])):
+            
             for entry in data1:
+                # print(entry)
+                # print(i)
                 answer = entry[i].get(model_key, "")
                 if answer:
                     llama3_answers.extend(extract_inferences_llama(answer))
@@ -225,18 +229,17 @@ def main(file1_path, file2_path):
 
 
 # Example usage with file paths
-# file1_path = '/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0726/cache/qwen-turbo_all-paths_top5000_pure+asrank.pl_s2s.json'
+# file1_path = '/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0723/final_output/llama3_20190606_case_study_all_question_p2c_final.json'
 file2_path = '/home/yyc/BGP-Woodpecker/asrank_data/relationship_data/20240301.as-rel.txt'
-sys.stdout = open('/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/log/result_accury_compare_0731.log', 'w')   #控制输出到这个文件
-file_dir ='/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0728/cache/'
+sys.stdout = open('/home/yyc/BGP-Woodpecker/BGPAgent/tool_use/log/result_accury_result_0801_1.log', 'w')   #控制输出到这个文件
+file_dir ='/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0727/cache/'
 files = os.listdir(file_dir)
 files = [f for f in files if os.path.isfile(os.path.join(file_dir, f))]
 for file in files:
     print(f"{file_dir}{file}")
     file1_path = file_dir+file
     main(file1_path, file2_path)
-# print(file1_path)
-
+# main(file1_path, file2_path)
 
 #现在不需要输出模型的名字了，可以根据路径实现自动匹配
 # 每次运行只需要修改file1_path，结果会保存在result_accury_compare_p2c_p2p.log中

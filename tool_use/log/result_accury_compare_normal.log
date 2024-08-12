@@ -1,0 +1,36 @@
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0726/final_output/llama3_all-paths_top5000_pure+asrank.pl_p2c_final.json
+Question:
+ASRank Inferences 
+Correct: 5187, Total: 9698, Accuracy: 0.53
+There are 4154 p2p links,8403 p2c links and 0 s2s links.
+Question:
+Please use the given as path to infer business relationships:44393|58057|6939|61138|205663
+llama3-70b-8192-answer-list Inferences 
+Correct: 9987, Total: 14358, Accuracy: 0.70
+p2p: 2527(103/4154)   p2c: 19963(8819/8403)
+there are 2527 p2p links,19963 p2c links and 0 s2s links.
+Question:
+Please consider the AS path results and the ASrank algorithm results comprehensively, and combine your own judgment to infer AS business relationships
+llama3-70b-8192-answer-list Inferences 
+Correct: 19523, Total: 28531, Accuracy: 0.68
+p2p: 6581(779/4154)   p2c: 37782(16904/8403)
+there are 6581 p2p links,37782 p2c links and 0 s2s links.
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/llama3_two_shot_ISP_all-paths_top5000_pure+asrank.pl_p2c.json
+Question:
+ASRank Inferences 
+Correct: 166, Total: 300, Accuracy: 0.55
+There are 135 p2p links,266 p2c links and 0 s2s links.
+Question:
+Please use the given as path to infer business relationships:55720|4635|6939|35598|47954
+llama3-8b-8192-answer-list Inferences 
+Correct: 235, Total: 409, Accuracy: 0.57
+p2p: 97(25/135)   p2c: 566(265/266)
+there are 97 p2p links,566 p2c links and 0 s2s links.
+Question:
+Please consider the AS path results and the ASrank algorithm results comprehensively, and combine your own judgment to infer AS business relationships
+llama3-8b-8192-answer-list Inferences 
+Correct: 492, Total: 842, Accuracy: 0.58
+p2p: 343(75/135)   p2c: 1015(438/266)
+there are 343 p2p links,1015 p2c links and 0 s2s links.
+

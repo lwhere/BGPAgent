@@ -1,0 +1,31 @@
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/0731_three_shot_vllm_all-paths_0-1000_pure+asrank_final_cuda=0-7_temperature=0.01_Qwen1___5-7B-Chat_final.json
+Pure Question List: 3320
+Rag Question List: 4671
+In Qwen1___5-7B-Chat-answer-list
+Correct: 1013, Total: 1600, Accuracy: 0.63
+p2p: 538   p2c: 2061 s2s:0
+Qwen1___5-7B-Chat-rag-answer-list
+Correct: 1055, Total: 1927, Accuracy: 0.55
+p2p: 1513   p2c: 1646 s2s:0
+
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/cache_three_shot_p2c_vllm_all-paths_0-1000_pure+asrank_final_cuda=0_temperature=0.01_Meta-Llama-3.1-8B-Instruct.json
+Pure Question List: 4535
+Rag Question List: 4523
+In Meta-Llama-3.1-8B-Instruct-answer-list
+Correct: 1691, Total: 2899, Accuracy: 0.58
+p2p: 1545   p2c: 2985 s2s:0
+Meta-Llama-3.1-8B-Instruct-rag-answer-list
+Correct: 1714, Total: 2908, Accuracy: 0.59
+p2p: 1463   p2c: 3052 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0801/cache_zero_shot_vllm_all-paths_0-1000_pure+asrank_final_cuda=0-3_temperature=0.01_Qwen1___5-7B-Chat.json
+Pure Question List: 4072
+Rag Question List: 3638
+In Qwen1___5-7B-Chat-answer-list
+Correct: 892, Total: 2225, Accuracy: 0.40
+p2p: 998   p2c: 2596 s2s:0
+Qwen1___5-7B-Chat-rag-answer-list
+Correct: 40, Total: 89, Accuracy: 0.45
+p2p: 956   p2c: 906 s2s:0
+

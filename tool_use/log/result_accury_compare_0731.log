@@ -1,0 +1,30 @@
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0731/0731_two_shot_vllm_all-paths_0-1000_pure+asrank_no_system_prompt_final_cuda=0-7_temperature=0.01_Meta-Llama-3___1-70B-Instruct_final.json
+Pure Question List: 4418
+Rag Question List: 4471
+In Meta-Llama-3___1-70B-Instruct-answer-list
+Correct: 2063, Total: 2832, Accuracy: 0.73
+p2p: 1120   p2c: 3280 s2s:0
+Meta-Llama-3___1-70B-Instruct-rag-answer-list
+Correct: 1903, Total: 2865, Accuracy: 0.66
+p2p: 1486   p2c: 2980 s2s:2
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0731/0731_zero_shot_vllm_all-paths_0-1000_pure+asrank_no_system_prompt_final_cuda=0-3_temperature=0.01_Meta-Llama-3___1-70B-Instruct_final.json
+Pure Question List: 4448
+Rag Question List: 3621
+In Meta-Llama-3___1-70B-Instruct-answer-list
+Correct: 2073, Total: 2861, Accuracy: 0.72
+p2p: 915   p2c: 3533 s2s:0
+Meta-Llama-3___1-70B-Instruct-rag-answer-list
+Correct: 1526, Total: 2315, Accuracy: 0.66
+p2p: 1096   p2c: 2521 s2s:0
+
+/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0731/0731_three_shot_vllm_all-paths_0-1000_pure+asrank_final_cuda=0-7_temperature=0.01_Meta-Llama-3___1-70B-Instruct_final.json
+Pure Question List: 4429
+Rag Question List: 4550
+In Meta-Llama-3___1-70B-Instruct-answer-list
+Correct: 1979, Total: 2836, Accuracy: 0.70
+p2p: 1246   p2c: 3175 s2s:0
+Meta-Llama-3___1-70B-Instruct-rag-answer-list
+Correct: 1868, Total: 2902, Accuracy: 0.64
+p2p: 1574   p2c: 2952 s2s:0
+
