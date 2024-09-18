@@ -99,9 +99,8 @@ def update_user_content(user_content, model_name, value):
 
 # # 预定义的API密钥列表
 GROQ_API_KEYS = [
-      "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"
+    "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" #   "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"
 ]
-
 # GROQ_API_KEYS = [
 #                       "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",
 # ]
@@ -122,17 +121,17 @@ def get_llm_user_content(question, model_series="llama3"):
     api_key=get_groq_api_key(),
     base_url="https://groq.huggingtiger.asia/",
 )
-    openai_client = openai.OpenAI(
-    api_key=os.environ.get("AI_HUB_MIX_API_KEY"),
-    base_url="https://aihubmix.com/v1"
-)
+#     openai_client = openai.OpenAI(
+#     api_key=os.environ.get("AI_HUB_MIX_API_KEY"),
+#     base_url="https://aihubmix.com/v1"
+# )
     qwen_client = openai.OpenAI(
     api_key=os.environ.get("DASHSCOPE_API_KEY"),
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
 )
-    deep_bricks_client = openai.OpenAI(
-    api_key=os.environ.get("DEEP_BRICKS_API_KEY"),
-    base_url="https://api.deepbricks.ai/v1/")
+    # deep_bricks_client = openai.OpenAI(
+    # api_key=os.environ.get("DEEP_BRICKS_API_KEY"),
+    # base_url="https://api.deepbricks.ai/v1/")
 
     messages = [
         {
@@ -227,17 +226,18 @@ def get_llm_user_content(question, model_series="llama3"):
         user_content = update_user_content(
             user_content, "claude-3-5-sonnet-20240620", claude_3__5_sonnet_value)
         
-    if model_series == "qwen-max" or model_series == "qwen":
-        qwen_max_value = get_client_chat_completion_value(
-            qwen_client, "qwen-max", args)
-        user_content = update_user_content(
-            user_content, "qwen-max", qwen_max_value)
 
     if model_series == "qwen-turbo" or model_series == "qwen":    
         qwen_turbo_value = get_client_chat_completion_value(
             qwen_client, "qwen-turbo", args)
         user_content = update_user_content(
             user_content, "qwen-turbo", qwen_turbo_value)
+        
+    if model_series == "qwen2-72b-instruct":
+        qwen_72b_instruct_value = get_client_chat_completion_value(
+            qwen_client, "qwen2-72b-instruct", args)
+        user_content = update_user_content(
+            user_content, "qwen2-72b-instruct", qwen_72b_instruct_value)
 
     # else:
     #     raise Exception("Model series not supported")
@@ -245,10 +245,10 @@ def get_llm_user_content(question, model_series="llama3"):
 
 
     # print(user_content)
-    output_list = []
-    output_list.append(user_content)
-    with open("/home/yyc/BGP-Woodpecker/BGPAgent/program_data/0721/LLM_output_naive_s2s.json", "w", encoding='utf-8') as f:
-        json.dump(output_list, f, ensure_ascii=False, indent=4)
+    # output_list = []
+    # output_list.append(user_content)
+    # with open("/home/bgpagent/projects/BGPAgent/program_data/0721/LLM_output_naive_s2s.json", "w", encoding='utf-8') as f:
+    #     json.dump(output_list, f, ensure_ascii=False, indent=4)
 
     return user_content
 
@@ -292,7 +292,7 @@ def load_input_lines_to_list(input_file_path):
 
 
 # 读取asrank api调用好的结果
-def load_asrank_api_result(asrank_api_result_path="/home/yyc/BGP-Woodpecker/BGPAgent/program_data/asrank_api_result.json"):
+def load_asrank_api_result(asrank_api_result_path="/home/bgpagent/projects/BGP-Woodpecker/BGPAgent/program_data/asrank_api_result.json"):
     asrank_api_result = []
     if os.path.exists(asrank_api_result_path):
         with open(asrank_api_result_path, "r") as f:
@@ -327,7 +327,7 @@ def main(input_file_path, cache_path, asrank_api_result_path, model_series):
     else:
         input_list = load_input_list(input_file_path)
     inference_result_list, start_index = load_cache_result(cache_path)
-    asrank_api_result = load_asrank_api_result(asrank_api_result_path)
+    # asrank_api_result = load_asrank_api_result(asrank_api_result_path)
 
     for idx, one_input in enumerate(tqdm(input_list)):
         if idx < start_index:
@@ -410,7 +410,7 @@ def main(input_file_path, cache_path, asrank_api_result_path, model_series):
         json.dump(inference_result_list, f, ensure_ascii=False, indent=4)
 
 question_type_dict = {}
-question_type_path = "/home/yyc/BGP-Woodpecker/BGPAgent/program_data/question_type.json"
+question_type_path = "/home/bgpagent/projects/BGP-Woodpecker/BGPAgent/program_data/question_type.json"
 with open(question_type_path, "r") as f:
     question_type_dict = json.load(f)
 
@@ -418,32 +418,24 @@ with open(question_type_path, "r") as f:
 # model_series = "db-gpt-4-turbo"
 # model_series = "gpt4o"
 # model_series = "claude-3-5"
-model_series = "llama3"
+# model_series = "llama3"
 # model_series = "llama3.1"
 # model_series = "qwen-turbo"
+model_series = "qwen2-72b-instruct"
+# 支持qwen2-72b-it(模型名字，查一下https://help.aliyun.com/zh/dashscope/developer-reference/compatibility-of-openai-with-dashscope?disableWebsiteRedirect=true)
+# 
 
-experiment_name = f"{model_series}_two_shot_ORG_all-paths_top5000_pure+asrank.pl_p2c"
-system_prompt = f"""{two_shot_ORG_system_prompt_p2c}"""
+experiment_name = f"{model_series}_zero_shot_all-paths_top5000_pure+asrank.pl_p2c"
+system_prompt = f"""{zero_shot_system_prompt_p2c}"""
 
-# input_file_path = "/home/yyc/BGP-Woodpecker/BGPAgent/filtered_data/20190606_case_study_aspath.json"
-input_file_path = "/home/yyc/BGP-Woodpecker/asrank_data/20240301_all-paths_cache_top_5000.json"
-cache_path = f"/home/yyc/BGP-Woodpecker/BGPAgent/program_data/{datetime.today().strftime('%m%d')}/cache/{experiment_name}.json"
-asrank_api_result_path = "/home/yyc/BGP-Woodpecker/asrank_data/20190606_case_study_aspath_asrank_api_result.json"
+# input_file_path = "/home/yyc/BGP-Woodpecker/BGPAgent/filte`red_data/20190606_case_study_aspath.json"
+input_file_path = "/home/bgpagent/projects/BGP-Woodpecker/asrank_data/20240301_all-paths_cache_top_5000.json"
+# cache_path = f"/home/bgpagent/projects/BGP-Woodpecker/BGPAgent/program_data/{datetime.today().strftime('%m%d')}/cache/{experiment_name}.json"
+cache_path = "/home/bgpagent/projects/BGP-Woodpecker/BGPAgent/program_data/0915/cache/qwen2-72b-instruct_zero_shot_all-paths_top5000_pure+asrank.pl_p2c.json"
+asrank_api_result_path = "/home/bgpagent/projects/BGP-Woodpecker/asrank_data/20240301_all-paths_asrank_api_information.json"
 
+# 安装cursor, remote ssh连接到服务器，然后运行程序
+# 1. 更改前缀路径为bgpagent, s
+# 2. 支持qwen2-72b-it推理结果，会在program_data下生成一个日期文件夹，里面有一个json文件还有cache.json，里面是推理结果
 
 main(input_file_path, cache_path, asrank_api_result_path, model_series)
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
